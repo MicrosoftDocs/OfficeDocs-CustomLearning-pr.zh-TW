@@ -1,15 +1,15 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title: 概觀 （英文) 的自訂學習 Office 365 的開放原始碼解決方案
 ms.date: 02/10/2019
 description: 了解如何使用方式與您組織中的 Office 365 採用可以加快這了 Office 365 適用的自訂。我們解決方案包含 SharePoint Online 的自訂網頁組件和現代 SharePoint Online 通訊訓練網站輕鬆地佈建至 Office 365 租用戶。
-ms.openlocfilehash: 987e780cdfc86d60ddce4aede5919719127dc177
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886106"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951227"
 ---
 # <a name="custom-learning-for-office-365"></a>學習 office 365 的自訂
 
@@ -35,9 +35,9 @@ ms.locfileid: "29886106"
 
 ![學習 Office 365 網頁組件的自訂](media/clo365customplaylist.png)
 
-## <a name="4-easy-steps"></a>4 個簡單的步驟
+## <a name="3-easy-steps"></a>3 個簡單步驟
 
-可讓[開始](getstarted.md)使用最新的 Microsoft 內容建立簡單的訓練解決方案。
+可讓[開始](prereqs.md)使用最新的 Microsoft 內容建立簡單的訓練解決方案。
 
 1. 選取您的解決方案右邊
 2. 完成安裝 & 自訂您的內容

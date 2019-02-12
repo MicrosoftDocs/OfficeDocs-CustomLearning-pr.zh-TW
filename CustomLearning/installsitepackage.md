@@ -1,16 +1,25 @@
-# <a name="install-the-custom-learning-site-package"></a>安裝學習網站套件的自訂
+---
+author: karuanag
+ms.author: karuanag
+title: 佈建的網站經驗
+ms.date: 02/10/2019
+description: Office 365 網站的佈建自訂學習
+ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951197"
+---
+# <a name="provision-the-custom-learning-site"></a>佈建學習網站的自訂
 
-## <a name="prerequisite-for-installation"></a>安裝必要條件
-
-- 若要安裝自訂學習網站套件承租人必須 Office 365 管理權限。 如果您沒有這些權限您可以使用 Office 365 系統管理員或安裝來說個別網站集合的網頁組件。
-- 若要考慮在熟悉內容的測試位置安裝套件。 如果您採用此方法必須重新安裝生產租用戶的封裝並重新建立您完成在測試期間的任何自訂。 
-- 更新網頁組件訓練內容不會生效] 頁面上自訂項目。
-- 我們支援 SharePoint Online 僅。網頁組件中不支援任何版本的 SharePoint 內部部署上進行安裝。
-
-## <a name="add-the-custom-learning-site-to-your-tenant"></a>將自訂學習網站新增至您的租用戶 
-
-**1.新增此處的指示套件**
-
+1. 移至 [http://provisioning.sharepointpnp.com及規劃上安裝使用的登入您的目標租用戶的使用您的認證。![pnphome.png](media/pnphome.png)
+1. 檢查代表您組織的同意關閉並選取 [接受]。
+1. 選取自訂學習 Office 365 的解決方案庫。 
+1. 選取 [新增至您的租用戶 
+1. 調整為必要與 select 佈建準備好要安裝 CLO365 到您的租用戶環境時的佈建] 頁面上的預設選項。  
+1. 佈建程序所需的時間最多 15 分鐘。您將會收到通知透過電子郵件 （至您在佈建] 頁面輸入的通知電子郵件地址） 網站時備妥可供存取。 
+1. 一次登入 CLO365 租用戶最愛的網站和複製以供未來參照的 url。  
 
 
 ## <a name="next-steps"></a>後續步驟
