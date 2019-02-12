@@ -1,10 +1,14 @@
 # <a name="feedback-and-support"></a>意見反應及支援
 
+## <a name="get-support"></a>取得支援
+
+如果您有問題的開放原始網站範本或網頁組件 （英文），也可以體驗請輸入自訂學習問題我們 GitHub 議題] 清單中。 您可以找到此清單在https://aka.ms/CustomLearningHelp社群就 standard 開放原始碼解決方案 triages 這些問題的解決方法。 功能的要求會轉接到另有說明下方我們使用者語音執行個體。 程式碼 bug 已擴大至分辨與解決方法的社群及服務管理員。  
+
 ## <a name="provide-us-feedback"></a>我們提供意見反應
 
 我們的解決方案，則只有成功它會啟用您的業務成果 ！ 請協助我們進行較佳由與我們分享透過[UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)一般意見。 我們定期檢閱您的所有註解和問題。
 
-請注意在階段 2 Beta 唯一現有測試期間公司將能夠提供意見反應。 在正式公開上市 Q4 的 2018年中我們將會開啟到所有使用者的論壇。請讓您檢視與對我們論壇 （英文） 中的現有想法進行投票或建立新的安裝程式 UserVoice 的使用者帳戶。  
+## <a name="usage-questions"></a>使用狀況問題
 
-您也可以提供意見反應加入適用的[Office 365 冠軍](https://aka.ms/O365Champions)程式並參與上 Microsoft community 技術在 [主導採用] 論壇https://aka.ms/DriveAdoption。 
+如中使用學習入口網站和其內容的最佳作法疑問加入我們在 Microsoft community 技術在[主導採用](https://aka.ms/DriveAdoption)論壇https://aka.ms/DriveAdoption。 
 
