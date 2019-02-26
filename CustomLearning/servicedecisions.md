@@ -4,12 +4,12 @@ ms.author: karuanag
 title: 必要條件和決策
 ms.date: 02/10/2019
 description: 決策和自訂學習安裝和設定的必要資訊
-ms.openlocfilehash: 99ab08d8b18be00c3a29878ff462f9109cc9ed29
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29952597"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989704"
 ---
 ## <a name="service-decisions"></a>服務決策
 
@@ -43,4 +43,4 @@ ms.locfileid: "29952597"
     3. 正式支援面臨程序可以為 suppored 與表單、 流程和 SharePoint Online 的清單或透過其他 3rd 方工具以您可能已經有 IT 支援公司內。 
 - **NO**： 討論網站/網頁組件與您的 IT 人員提供 SharePoint Online 支援的安裝。  
 
-## <a name="next-steps---siteinstallsitepackagemd-or-webpartinstallwebpartmd-installation"></a>後續步驟-[網站](installsitepackage.md)或[網頁組件](installwebpart.md)的安裝
+### <a name="next-steps---site-provisioninginstallsitepackagemd-or-webpartinstallwebpartmd-installation-steps"></a>後續步驟-[網站佈建](installsitepackage.md)或[網頁組件](installwebpart.md)安裝步驟

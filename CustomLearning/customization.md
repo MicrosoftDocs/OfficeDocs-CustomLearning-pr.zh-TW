@@ -4,16 +4,16 @@ ms.author: karuanag
 title: 自訂訓練經驗
 ms.date: 02/10/2019
 description: 了解各種 Office 365 提供自訂學習的自訂
-ms.openlocfilehash: 035b6734665da59ed912d9ebd6a3923d1b0b9108
-ms.sourcegitcommit: 0cd0c3e230e0217dfd5d050b20050ce781b5a7c6
+ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "30050624"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30059684"
 ---
 # <a name="customize-the-training-experience"></a>自訂訓練經驗
 
-這是測試三。這兩個預設的網站經驗及網頁組件包含所有 Office 365 和 Windows 10 服務的內容。 如果只全部或部分這些服務會提供您的公司您可以調整內容可供您的使用者。  
+這是測試四。這兩個預設的網站經驗及網頁組件包含所有 Office 365 和 Windows 10 服務的內容。 如果只全部或部分這些服務會提供您的公司您可以調整內容可供您的使用者。  
 
 有數種可使用此網站的擁有者的自訂項目。 
 

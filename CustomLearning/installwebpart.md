@@ -1,3 +1,16 @@
+---
+author: karuanag
+ms.author: karuanag
+title: 安裝學習方案網頁組件的自訂
+ms.date: 02/10/2019
+description: 自訂學習解決方案的網頁組件的安裝指示
+ms.openlocfilehash: 53229e5b1b8175b06d888091963d1a9f2f0bd361
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989684"
+---
 # <a name="installing-the-custom-learning-solution-webpart"></a>安裝學習方案網頁組件的自訂
 
 ## <a name="prerequisites-for-a-tenant-wide-installation"></a>租用戶全安裝必要條件
@@ -13,13 +26,16 @@
 3. 左導覽列中選取 [Admin 中心、 SharePoint]。如此會開啟新] 索引標籤中，在 SharePoint 系統管理中心中選取 [應用程式、 應用程式目錄、 SharePoint 相關應用程式 
 4. 選取 [上傳網頁組件並選擇您下載的"ms-自訂-learning.sppkg"檔案
 5. 此租用戶全安裝的核取方塊旁邊"使此解決方案可在組織中所有置於桌"。  
+ 
+> [!NOTE]
+> 安裝網頁組件後您會發現您在 SharePoint Online 中的網頁組件庫中。 **在圖庫中的網頁組件是名為"Microsoft Learning"**
 
 ![部署方案](media/trustapp_sm.png)
 
 
-## <a name="add-the-customer-learning-webpart-to-a-sharepoint-online-page"></a>將客戶學習網頁組件新增至 SharePoint Online 頁面
+## <a name="add-the-microsoft-learning-webpart-to-a-sharepoint-online-page"></a>Microsoft Learning 網頁組件新增至 SharePoint Online 頁面
 
-自訂學習已安裝在您的租用戶之後您可以新增網頁組件至 SharePoint 頁面。當您執行時，突然是您可以使用 Office 365 訓練。 
+自訂學習已安裝在您的租用戶之後您可以新增網頁組件至 SharePoint 頁面。當您執行 Office 365 和 Windows 10 訓練可供您的網站。
 
 1. 全形欄版面配置中新增自訂學習網頁組件：
 
@@ -35,7 +51,7 @@
 
  您現在可以按一下 [並排顯示來探索解決方案所含的預設的內容。  
 
-## <a name="next-steps"></a>後續步驟
+### <a name="next-steps"></a>後續步驟
 - 探索網頁組件中所包含的[預設內容](webpartcontent.md)。
 - [自訂](customization.md)您的組織的訓練經驗。
 - [磁碟機採用](driveadoption.md)的訓練解決方案。
