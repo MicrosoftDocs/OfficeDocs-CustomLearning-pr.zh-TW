@@ -1,5 +1,6 @@
 # [快速入門](index.md)
-## [佈建自訂學習](installsitepackage.md)
+## [自訂學習安裝選項](custom_setupoptions.md)
+## [佈建自訂學習](custom_provision.md)
 ## [瀏覽自訂學習網站](sitecontent.md)
 ## [獨立單獨的網頁組件設定](custom_manualsetup.md)
 # [自訂的學習體驗](custom_overview.md)
