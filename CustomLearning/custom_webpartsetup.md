@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: 佈建自訂學習網站
 ms.date: 02/10/2019
 description: 佈建 SharePoint 佈建引擎透過 Office 365 網站自訂學習
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
+ms.openlocfilehash: 83d76d2d12e9dfc0f39ef55c58443cb3fda2a2d9
 ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523047"
+ms.locfileid: "30523586"
 ---
-# <a name="provision-custom-learning"></a>佈建自訂學習 
+# <a name="provision-custom-learning"></a>佈建自訂學習
 
 SharePoint Online 佈建服務時，Office 365 租用戶系統管理員可以啟動簡單按幾下的佈建程序。 佈建服務是佈建自訂學習建議的方式。 它是快速又簡單，而且只需幾分鐘開始程序。 開始之前與佈建服務，但請確定您已符合佈建的必要條件。
 
@@ -47,27 +47,24 @@ SharePoint Online 佈建服務時，Office 365 租用戶系統管理員可以啟
 
 ![inst_options.png](media/inst_options.png)
 
-6. 選取 [**佈建**時安裝自訂學習到您的租用戶環境準備就緒]。  佈建程序需要 15 分鐘。 將會透過 （若要在佈建] 頁面所輸入的通知電子郵件地址） 的電子郵件通知您該網站時可供存取。 
+6. 選取 [**佈建**時安裝自訂學習到您的租用戶環境準備就緒]。  佈建程序需要 15 分鐘。 將會透過 （若要在佈建] 頁面所輸入的通知電子郵件地址） 的電子郵件通知您該網站時可供存取。
 
 > [!IMPORTANT]
 > 租用戶系統管理員佈建自訂學習網站必須移至網站，並再開啟 [CustomLearningAdmin.aspx 初始化自訂學習系統屬性。 現階段，租用戶系統管理員也應該將指派擁有者至網站。 
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>驗證成功佈建並初始化 CustomConfig 清單
+## <a name="validate-provisioning-success"></a>驗證佈建成功
 
-佈建完成時，租用戶系統管理員佈建網站上，會收到一封電子郵件從 PnP 佈建服務。 電子郵件包含網站的連結。 此時，租用戶系統管理員應移至使用中電子郵件提供和設定用於第一次使用網站的連結的網站：
-
-1. 請移至 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 開啟**CustomLearningAdmin.aspx**初始化設定為第一次使用的自訂學習**CustomConfig**清單項目。 您應該會看到看起來像這樣的頁面：
-
-![cg adminapppage.png](media/cg-adminapppage.png)
+佈建完成時，租用戶系統管理員會收到一封電子郵件從 PnP 佈建服務。 系統管理員可以將連結複製到提供的電子郵件中的網站，然後依照 [移至網站的指示。 或者，租用戶系統管理員可以瀏覽至 [<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx。 這會初始化為其第一次使用設定自訂學習 CustomConfig 清單項目。 第一次開啟此頁面上的人員必須是租用戶系統管理員、 網站集合管理員或網站擁有者。 您應該會看到看起來像這樣的頁面： 
 
 ## <a name="add-owners-to-site"></a>將擁有者新增至網站
-租用戶系統管理員，也不太可能您要自訂網站，讓您將需要指派至網站的幾個擁有者的人。 讓他們可以修改網站頁面並 rebrand 網站擁有人在網站上擁有系統管理權限。 他們也能夠隱藏和顯示內容傳遞到自訂學習網頁組件。 此外，他們必須能夠建置自訂播放清單，並將它們指派給自訂的子類別。  
+租用戶系統管理員，也不太可能您要自訂網站，讓您將需要指派至網站的擁有者的人。 讓他們可以修改網站頁面並 rebrand 網站擁有人在網站上擁有系統管理權限。 他們也能夠隱藏和顯示內容傳遞到自訂學習網頁組件。 他們也必須建立自訂播放清單，並將它們指派給自訂的子類別的能力。  
 
 1. 從 SharePoint**設定**] 功能表中，按一下 [**網站權限**]。
 2. 按一下 [**進階權限設定**。
 3. 按一下 [**自訂學習 for Office 365 擁有者**。
-4. 按一下 [**新增** > **將使用者新增到這個群組**，然後新增您想要做為擁有者的人員。 
-5. 在共用郵件中，將連結新增至[瀏覽網站](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore)，然後按一下 [**共用**]。
+4. 按一下 [**新增** > **將使用者新增到這個群組**，新增您想要擁有者的人員，然後按一下 [**共用**。
+
+8. 按一下**下列**選項中的右上角的頁面追蹤網站。  
 
 ### <a name="next-steps"></a>後續步驟
-- 瀏覽網站和網頁組件中所提供的[預設的內容](custom_exploresite.md)。
+- 瀏覽網頁組件中包含[預設的內容](sitecontent.md)。

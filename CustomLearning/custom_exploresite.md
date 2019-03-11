@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 瀏覽的網站和預設的內容
 ms.date: 02/10/2019
 description: 瀏覽自訂學習網站與預設內容
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518155"
+ms.locfileid: "30523037"
 ---
 # <a name="explore-the-custom-learning-site"></a>瀏覽自訂學習網站
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518155"
 
 1.  開啟網頁瀏覽器並瀏覽至 office.com 或貴組織的登入的位置。 
 2.  使用您的使用者名稱和密碼登入。
-3.  瀏覽至網站使用您的租用戶系統管理員所提供的 URL 位置，或從 Office 365 家用版] 頁面上選取 SharePoint。 
+3.  瀏覽至網站使用您的租用戶系統管理員所提供的 URL 位置或從 Office 365 家用版] 頁面上，選取 SharePoint，然後選取 [站台。 
 
 ![cg introducing.png](media/cg-introducing.png)
 

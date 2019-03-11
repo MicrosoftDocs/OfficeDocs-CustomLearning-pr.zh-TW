@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 獨立單獨的網頁組件設定
 ms.date: 02/10/2019
 description: 了解 Office 365 手動網頁組件設定的自訂
-ms.openlocfilehash: 650e6c12ebe8ca7fedc6edc107b5822c48ead99a
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411873"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523057"
 ---
 # <a name="stand-alone-web-part-setup"></a>獨立單獨的網頁組件設定
 
@@ -58,10 +58,22 @@ PowerShell 指令碼`CustomLearningConfiguration.ps1`是包含您想要執行建
 
 如果您未執行手動安裝，並可能會想要開啟另一個指令碼關閉追蹤的遙測`TelemetryOptOut.ps1`已包含執行時，會停用遙測追蹤。
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>步驟 6-Initialize 網頁組件自訂設定
-成功執行的 PowerShell 指令碼之後，瀏覽至`<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 這會初始化為其第一次使用設定自訂學習**CustomConfig**清單項目。
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>驗證成功佈建並初始化 CustomConfig 清單
 
-設定現已完成。 若要深入了解如何調整您的環境自訂學習網站和網頁組件，請參閱 < <b0>Customize 訓練體驗</b0>。
+成功執行的 PowerShell 指令碼之後，您瀏覽至網站，初始化**CustomConfig**清單項目，如其第一次使用，會設定自訂學習，驗證網站正常運作。
+
+1. 請移至 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 開啟**CustomLearningAdmin.aspx**初始化設定為第一次使用的自訂學習**CustomConfig**清單項目。 您應該會看到看起來像這樣的頁面：
+
+![cg adminapppage.png](media/cg-adminapppage.png)
+
+## <a name="add-owners-to-site"></a>將擁有者新增至網站
+租用戶系統管理員，也不太可能您要自訂網站，讓您將需要指派至網站的幾個擁有者的人。 讓他們可以修改網站頁面並 rebrand 網站擁有人在網站上擁有系統管理權限。 他們也能夠隱藏和顯示內容傳遞到自訂學習網頁組件。 此外，他們必須能夠建置自訂播放清單，並將它們指派給自訂的子類別。  
+
+1. 從 SharePoint**設定**] 功能表中，按一下 [**網站權限**]。
+2. 按一下 [**進階權限設定**。
+3. 按一下 [**自訂學習 for Office 365 擁有者**。
+4. 按一下 [**新增** > **將使用者新增到這個群組**，然後新增您想要做為擁有者的人員。 
+5. 在共用郵件中，將連結新增至[瀏覽網站](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore)，然後按一下 [**共用**]。
 
 ### <a name="next-steps"></a>後續步驟
 - [自訂](custom_overview.md)您組織的訓練體驗。

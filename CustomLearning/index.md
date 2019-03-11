@@ -1,39 +1,50 @@
 ---
-author: karuanag
-ms.author: karuanag
-title: 概觀 （英文) 的自訂學習 Office 365 的開放原始碼解決方案
+author: pkrebs
+ms.author: pkrebs
+title: 自訂學習的 Office 365 的開放原始碼解決方案的概觀
 ms.date: 02/10/2019
-description: 了解如何使用方式與您組織中的 Office 365 採用可以加快這了 Office 365 適用的自訂。我們解決方案包含 SharePoint Online 的自訂網頁組件和現代 SharePoint Online 通訊訓練網站輕鬆地佈建至 Office 365 租用戶。
+description: 了解如何運作的 Office 365 的自訂學習可以加速使用情況和採用 Office 365 組織中。 我們的解決方案包括自訂 SharePoint Online 網頁組件和新式 SharePoint Online 的通訊訓練網站輕鬆地佈建至 Office 365 租用戶。
 ---
 
-# <a name="custom-learning-for-office-365"></a>學習 office 365 的自訂
+# <a name="custom-learning-for-office-365"></a>自訂 office 365 學習
 
-## <a name="self-service-customizable-training-solutions-from-microsoft"></a>自助，使用 microsoft 的可自訂的訓練解決方案
+> [!NOTE]
+> 自訂學習位於目前內部測試和還未公開提供。 
 
-自訂的 Office 365 學習是一組的訓練及採用開放原始碼工具的設計用來增加您組織中的 Office 365 的使用方式。建立中的 Microsoft 小組與 SharePoint 產品工程群組和現代 Assistance and 經驗團隊合作關係，這些簡單好用的解決方案可以安裝及在 SharePoint Online 租用中進行自訂。 
+## <a name="on-demand-custom-training-from-microsoft"></a>來自 Microsoft 的隨選、 自訂訓練
+了解 Office 365 （自訂學習） 的自訂是設計用來增加使用情況和採用 Office 365 組織中的可自訂的隨選訓練解決方案。 
 
-這些解決方案將您的使用者所有訓練內容 Microsoft 所提供的內容並維持在需求的最新的內容。 網站輕鬆地整合安裝的 Microsoft 小組或其他現有的 SharePoint Online 網站的公司。
+![cg introducing.png](media/cg-introducing.png)
 
-我們自訂學習內容目前受限於開始 Office 365 和 Windows 10 產品的內容。 如果您想要查看包含更多的內容，提供給我們[建議及意見反應](feedback.md)在我們的線上論壇 （英文）。  
+自訂 Office 365 學習提供：
+- 若要將貴組織的說明、 支援和社群內容可自訂**的完全可自訂 SharePoint Online 的通訊網站**-正式稱為 Toolkit for 團隊合作，自訂學習訓練入口網站
+- **簡單佈建**-佈建自訂學習從 SharePoint Online 佈建服務與只需要幾個簡單的步驟
+- **建立您自己的訓練播放清單的功能**-自訂學習，您可以建立目標的訓練播放清單以符合您的環境的唯一需求
+- **最新的內容**-自訂學習提供內容透過 Microsoft online 內容目錄，因此在您的網站上的內容會定期更新
 
-## <a name="custom-learning-open-source-components"></a>自訂學習開放原始碼元件
+## <a name="custom-learning-components"></a>自訂學習元件
+自訂 Office 365 學習是由三個部分所組成： 
 
-自訂的 Office 365 學習提供兩個選項： 
+![cg howitworks.png](media/cg-howitworks.png)
 
-**選項 1**：[學習 SharePoint Online 網站套件的自訂](installsitepackage.md)
+- **Microsoft 內容 online 目錄**自訂學習會連線至 Microsoft 訓練內容 online 目錄
+- **SharePoint Online 的通訊網站**自訂學習提供簡單規定訓練入口網站，可以進行自訂以組織的需求。
+- **SharePoint 網頁組件**自訂學習提供 SharePoint 網頁組件可以出現目標的訓練內容篩選。 組織也可以使用網頁組件，建立自己自訂播放清單。
 
-選取、 安裝及設定您的公司建立訓練入口網站此 SharePoint Online 的通訊網站套件。過去稱為 Toolkit for 團隊合作，可新增您的組織說明、 支援及社群內容自訂此訓練入口網站。您也可以移除任何相關服務不支援在組織內的內容。自訂學習網站套件也包含提供 Office 365 訓練內容組織最新摘要自訂學習網頁組件。 
+## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online 的佈建服務 
+自訂學習可以從 SharePoint Online 佈建服務佈建。 佈建自訂學習，組織會獲得 SharePoint Online 的通訊站台設計是要擴充的方塊訓練入口網站，以及自訂學習網頁組件連線至線上目錄的訓練內容。 
 
-![自訂 Office 365 網站體驗的學習](media/clo365homepage.png)
+![cg provision.png](media/cg-provision.png)
 
-**選項 2**： [Office 365 網頁組件的自訂學習](installwebpart.md)自訂學習網頁組件選項針對想要將 Office 365 訓練整合至現有的 SharePoint Online 的通訊網站組織。自訂學習網頁組件可以安裝在 SharePoint Online 的任何頁面上，並提供完整套件的 Microsoft Support.Office.com 網站從 Office 365 訓練內容的最新摘要。訓練內容傳遞到網頁組件水平排列輕鬆取用播放清單中。系統管理員也可以使用網頁組件建置自訂的訓練播放清單結合 YouTube，在本機上裝載內容類似的內容。Pdf，並提供訓練體驗量身訂作組織的唯一需要的 Office 365 訓練內容。
+## <a name="3-easy-steps"></a>3 簡單的步驟
+讓我們開始建立您的環境自訂學習體驗。
+1. 選擇 [[安裝] 選項](custom_setupoptions.md)，並佈建自訂學習。  
+2. 調整自訂 Learning 為您的環境。
+3. 共用自訂學習與您使用我們[採用工具](driveadoption.md)的使用者。
 
-![學習 Office 365 網頁組件的自訂](media/clo365customplaylist.png)
+## <a name="feedback-and-support"></a>意見反應及支援
 
-## <a name="3-easy-steps"></a>3 個簡單步驟
+Office 365 自訂學習是透過 GitHub 上我們[online 問題清單](https://aka.ms/CustomLearningHelp)支援開放原始碼專案。 Office 365 方案和它的元件未涵蓋的任何現有的 Microsoft 支援合約自訂學習。  
 
-可讓[開始](prereqs.md)使用最新的 Microsoft 內容建立簡單的訓練解決方案。
-
-1. 選取您的解決方案右邊
-2. 完成安裝 & 自訂您的內容
-3. 您使用我們[採用工具](driveadoption.md)的使用者與共用您的網站
+## <a name="additional-resources"></a>其他資源
+您可以使用自訂學習網站體驗提供任何新的或現有的使用者社群論壇的連結。 如果您不需要一個已經，若要讓使用者共用其致勝並彼此了解，請考慮開始內部使用者群組。  如果您沒有時間以加強內部使用者群組，您和您的員工可以加入[Microsft Office 365 修社群](https://aka.ms/O365Champions)的每月的訓練、 線上社群和早期 access 中的成員資格工具和資源的 Office 365。

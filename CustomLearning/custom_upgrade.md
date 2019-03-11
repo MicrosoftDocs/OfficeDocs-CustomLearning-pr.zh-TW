@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 自訂學習升級
 ms.date: 02/10/2019
 description: 了解 Office 365 手動網頁組件設定的自訂
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411893"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523067"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>手動升級自訂的學習
 
@@ -102,12 +102,11 @@ PowerShell 指令碼`CustomLearningConfiguration.ps1`是包含從 GitHub 的 ZIP
 若要確保播放清單正常運作，任何播放清單已建立與舊版的網頁組件將會需要重新建立。 在刪除之前播放清單，請自訂播放清單和相關聯的資產清單，讓您以新的自訂學習網頁組件輕鬆重建。 製作一份播放清單，然後予以刪除。 若要刪除之前，先製作一份播放清單的內容，您可以使用 JSONData] 欄位。 這樣會使更新版本建立的工作變得更容易。
 
 
-• 從自訂學習網站上，按一下 [設定 > 網站內容]。 • 選取播放清單、 選取省略符號、 選取 [編輯]，然後 JSONData 欄位的內容複製並儲存在 [記事本] 或另一個文件以供日後參考。 選取 [取消]。
-• 選取播放清單，選取省略符號，，然後選取 [刪除]。
-• 現在您就可以重新建立新的網頁組件播放清單。
-如需使用新的自訂學習 for Office 365 網頁組件的指示，請參閱https://docs.microsoft.com/en-us/office365/customlearning/custom_overview。
-
-## <a name="step-8---chan"></a>步驟 8-通道
+1. 從自訂學習網站上，按一下 [**設定** > **網站內容**。 
+2. 選取 [播放清單、 選取省略符號、 選取 [**編輯**] 然後**JSONData**欄位的內容複製並儲存 [記事本] 或另一個文件以供日後參考。 選取 [**取消**]。
+3. 選取 [播放清單，選取省略符號，，然後選取 [**刪除**。
+4. 現在，您就可以重新建立新的網頁組件播放清單。
+如需自訂學習使用 Office 365 網頁組件的指示，請參閱 [自訂學習 Experience(custom_overview.md)。
 
 ### <a name="next-steps"></a>後續步驟
 - [自訂](custom_overview.md)您組織的訓練體驗。
