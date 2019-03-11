@@ -1,7 +1,7 @@
 # [快速入門](index.md)
 ## [自訂學習安裝選項](custom_setupoptions.md)
 ## [佈建自訂學習](custom_provision.md)
-## [瀏覽自訂學習網站](sitecontent.md)
+## [瀏覽自訂學習網站](custom_exploresite.md)
 ## [獨立單獨的網頁組件設定](custom_manualsetup.md)
 # [自訂的學習體驗](custom_overview.md)
 ## [移至的自訂學習網站](custom_goto.md)
@@ -22,5 +22,6 @@
 # [推動採用](driveadoption.md)
 # [意見反應及支援](feedback.md)
 # [常見問題集](faq.md)
+# [協力廠商的常見問題集](custom_partner.md)
 # [手動升級自訂學習](custom_upgrade.md)
 

@@ -1,39 +1,50 @@
 ---
-author: karuanag
-ms.author: karuanag
-title: 概觀 （英文) 的自訂學習 Office 365 的開放原始碼解決方案
+author: pkrebs
+ms.author: pkrebs
+title: 自訂學習的 Office 365 的開放原始碼解決方案的概觀
 ms.date: 02/10/2019
-description: 了解如何使用方式與您組織中的 Office 365 採用可以加快這了 Office 365 適用的自訂。我們解決方案包含 SharePoint Online 的自訂網頁組件和現代 SharePoint Online 通訊訓練網站輕鬆地佈建至 Office 365 租用戶。
+description: 了解如何運作的 Office 365 的自訂學習可以加速使用情況和採用 Office 365 組織中。 我們的解決方案包括自訂 SharePoint Online 網頁組件和新式 SharePoint Online 的通訊訓練網站輕鬆地佈建至 Office 365 租用戶。
 ---
 
-# <a name="custom-learning-for-office-365"></a><span data-ttu-id="fb055-104">學習 office 365 的自訂</span><span class="sxs-lookup"><span data-stu-id="fb055-104">Custom Learning for Office 365</span></span>
+# <a name="custom-learning-for-office-365"></a><span data-ttu-id="f2fe6-104">自訂 office 365 學習</span><span class="sxs-lookup"><span data-stu-id="f2fe6-104">Custom Learning for Office 365</span></span>
 
-## <a name="self-service-customizable-training-solutions-from-microsoft"></a><span data-ttu-id="fb055-105">自助，使用 microsoft 的可自訂的訓練解決方案</span><span class="sxs-lookup"><span data-stu-id="fb055-105">Self service, customizable training solutions from Microsoft</span></span>
+> [!NOTE]
+> <span data-ttu-id="f2fe6-105">自訂學習位於目前內部測試和還未公開提供。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-105">Custom Learning is currently in internal testing and not yet publicly available.</span></span> 
 
-<span data-ttu-id="fb055-p102">自訂的 Office 365 學習是一組的訓練及採用開放原始碼工具的設計用來增加您組織中的 Office 365 的使用方式。建立中的 Microsoft 小組與 SharePoint 產品工程群組和現代 Assistance and 經驗團隊合作關係，這些簡單好用的解決方案可以安裝及在 SharePoint Online 租用中進行自訂。</span><span class="sxs-lookup"><span data-stu-id="fb055-p102">Custom Learning for Office 365 is a set of training and adoption open source tools designed to increase usage of Office 365 in your organization. Created in partnership with Microsoft Teams and SharePoint Product Engineering groups and the Modern Assistance and Experience team, these simple-to-use solutions can be installed and customized in your SharePoint Online tenant.</span></span> 
+## <a name="on-demand-custom-training-from-microsoft"></a><span data-ttu-id="f2fe6-106">來自 Microsoft 的隨選、 自訂訓練</span><span class="sxs-lookup"><span data-stu-id="f2fe6-106">On-demand, custom training from Microsoft</span></span>
+<span data-ttu-id="f2fe6-107">了解 Office 365 （自訂學習） 的自訂是設計用來增加使用情況和採用 Office 365 組織中的可自訂的隨選訓練解決方案。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-107">Custom Learning for Office 365 (Custom Learning) is a customizable, on-demand training solution designed to increase usage and adoption of Office 365 in an organization.</span></span> 
 
-<span data-ttu-id="fb055-p103">這些解決方案將您的使用者所有訓練內容 Microsoft 所提供的內容並維持在需求的最新的內容。 網站輕鬆地整合安裝的 Microsoft 小組或其他現有的 SharePoint Online 網站的公司。</span><span class="sxs-lookup"><span data-stu-id="fb055-p103">These solutions bring to your end-users all the training content that Microsoft has to offer and keeps that content up to date on demand.  The site can easily be integrated with your installation of Microsoft Teams or other existing SharePoint Online sites in your company.</span></span>
+![cg introducing.png](media/cg-introducing.png)
 
-<span data-ttu-id="fb055-p104">我們自訂學習內容目前受限於開始 Office 365 和 Windows 10 產品的內容。 如果您想要查看包含更多的內容，提供給我們[建議及意見反應](feedback.md)在我們的線上論壇 （英文）。</span><span class="sxs-lookup"><span data-stu-id="fb055-p104">Our custom learning content is currently scoped to beginning content for Office 365 and Windows 10 products.  If you'd like to see more content included, give us [suggestions and feedback](feedback.md) in our online forum.</span></span>  
+<span data-ttu-id="f2fe6-109">自訂 Office 365 學習提供：</span><span class="sxs-lookup"><span data-stu-id="f2fe6-109">Custom Learning for Office 365 offers:</span></span>
+- <span data-ttu-id="f2fe6-110">若要將貴組織的說明、 支援和社群內容可自訂**的完全可自訂 SharePoint Online 的通訊網站**-正式稱為 Toolkit for 團隊合作，自訂學習訓練入口網站</span><span class="sxs-lookup"><span data-stu-id="f2fe6-110">**A fully customizable SharePoint Online communication site** - Formally known as the Toolkit for Teamwork, the Custom Learning training portal can be customized to add your organization's help, support, and community content</span></span>
+- <span data-ttu-id="f2fe6-111">**簡單佈建**-佈建自訂學習從 SharePoint Online 佈建服務與只需要幾個簡單的步驟</span><span class="sxs-lookup"><span data-stu-id="f2fe6-111">**Easy provisioning** - Provision Custom Learning from the SharePoint Online Provisioning Service with just a few easy steps</span></span>
+- <span data-ttu-id="f2fe6-112">**建立您自己的訓練播放清單的功能**-自訂學習，您可以建立目標的訓練播放清單以符合您的環境的唯一需求</span><span class="sxs-lookup"><span data-stu-id="f2fe6-112">**The ability to create your own training playlists** - with Custom Learning, you can create targeted training playlists to meet the unique needs of your environment</span></span>
+- <span data-ttu-id="f2fe6-113">**最新的內容**-自訂學習提供內容透過 Microsoft online 內容目錄，因此在您的網站上的內容會定期更新</span><span class="sxs-lookup"><span data-stu-id="f2fe6-113">**Up-to-date content** - Custom Learning provides content through a Microsoft online content catalog, so the content at your site is regularly updated</span></span>
 
-## <a name="custom-learning-open-source-components"></a><span data-ttu-id="fb055-112">自訂學習開放原始碼元件</span><span class="sxs-lookup"><span data-stu-id="fb055-112">Custom Learning Open Source Components</span></span>
+## <a name="custom-learning-components"></a><span data-ttu-id="f2fe6-114">自訂學習元件</span><span class="sxs-lookup"><span data-stu-id="f2fe6-114">Custom Learning Components</span></span>
+<span data-ttu-id="f2fe6-115">自訂 Office 365 學習是由三個部分所組成：</span><span class="sxs-lookup"><span data-stu-id="f2fe6-115">Custom Learning for Office 365 consists of three parts:</span></span> 
 
-<span data-ttu-id="fb055-113">自訂的 Office 365 學習提供兩個選項：</span><span class="sxs-lookup"><span data-stu-id="fb055-113">Custom Learning for Office 365 provides two options:</span></span> 
+![cg howitworks.png](media/cg-howitworks.png)
 
-<span data-ttu-id="fb055-114">**選項 1**：[學習 SharePoint Online 網站套件的自訂](installsitepackage.md)</span><span class="sxs-lookup"><span data-stu-id="fb055-114">**Option 1**: [The Custom Learning SharePoint Online Site Package](installsitepackage.md)</span></span>
+- <span data-ttu-id="f2fe6-117">**Microsoft 內容 online 目錄**自訂學習會連線至 Microsoft 訓練內容 online 目錄</span><span class="sxs-lookup"><span data-stu-id="f2fe6-117">**An online catalog of Microsoft content** - Custom Learning is connected to an online catalog of Microsoft training content</span></span>
+- <span data-ttu-id="f2fe6-118">**SharePoint Online 的通訊網站**自訂學習提供簡單規定訓練入口網站，可以進行自訂以組織的需求。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-118">**A SharePoint Online communication site** - Custom Learning provides an easy-to-provision training portal that can be customized to the needs of your organization.</span></span>
+- <span data-ttu-id="f2fe6-119">**SharePoint 網頁組件**自訂學習提供 SharePoint 網頁組件可以出現目標的訓練內容篩選。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-119">**a SharePoint web part** - Custom Learning provides a SharePoint web part that can be filtered to present targeted training content.</span></span> <span data-ttu-id="f2fe6-120">組織也可以使用網頁組件，建立自己自訂播放清單。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-120">Organizations can also use the Web part to create their own custom playlists.</span></span>
 
-<span data-ttu-id="fb055-p105">選取、 安裝及設定您的公司建立訓練入口網站此 SharePoint Online 的通訊網站套件。過去稱為 Toolkit for 團隊合作，可新增您的組織說明、 支援及社群內容自訂此訓練入口網站。您也可以移除任何相關服務不支援在組織內的內容。自訂學習網站套件也包含提供 Office 365 訓練內容組織最新摘要自訂學習網頁組件。</span><span class="sxs-lookup"><span data-stu-id="fb055-p105">Select, install, and configure this SharePoint Online communication site package to create a training portal for your company. Formerly known as Toolkit for Teamwork, this training portal can be customized to add your organization's help, support, and community content. You can also remove any content related to services not supported within your organization. The custom learning site package also includes the Custom Learning web part that provides an up-to-date feed of Office 365 training content to your organization.</span></span> 
+## <a name="sharepoint-online-provisioning-service"></a><span data-ttu-id="f2fe6-121">SharePoint Online 的佈建服務</span><span class="sxs-lookup"><span data-stu-id="f2fe6-121">SharePoint Online Provisioning Service</span></span> 
+<span data-ttu-id="f2fe6-122">自訂學習可以從 SharePoint Online 佈建服務佈建。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-122">Custom Learning can be provisioned from the SharePoint Online Provisioning Service.</span></span> <span data-ttu-id="f2fe6-123">佈建自訂學習，組織會獲得 SharePoint Online 的通訊站台設計是要擴充的方塊訓練入口網站，以及自訂學習網頁組件連線至線上目錄的訓練內容。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-123">When Custom Learning is provisioned, organizations get a SharePoint Online communication site designed to be an out-of-the box training portal, along with a Custom Learning Web part connected to an online catalog of training content.</span></span> 
 
-![自訂 Office 365 網站體驗的學習](media/clo365homepage.png)
+![cg provision.png](media/cg-provision.png)
 
-<span data-ttu-id="fb055-p106">**選項 2**： [Office 365 網頁組件的自訂學習](installwebpart.md)自訂學習網頁組件選項針對想要將 Office 365 訓練整合至現有的 SharePoint Online 的通訊網站組織。自訂學習網頁組件可以安裝在 SharePoint Online 的任何頁面上，並提供完整套件的 Microsoft Support.Office.com 網站從 Office 365 訓練內容的最新摘要。訓練內容傳遞到網頁組件水平排列輕鬆取用播放清單中。系統管理員也可以使用網頁組件建置自訂的訓練播放清單結合 YouTube，在本機上裝載內容類似的內容。Pdf，並提供訓練體驗量身訂作組織的唯一需要的 Office 365 訓練內容。</span><span class="sxs-lookup"><span data-stu-id="fb055-p106">**Option 2**: [The Custom Learning for Office 365 web part ](installwebpart.md) The Custom Learning web part option is designed for organizations that want to integrate Office 365 training into an existing SharePoint Online communication site. The Custom Learning web part can be installed on any SharePoint Online page and provides an up-to-date feed of the full suite of Office 365 training content from Microsoft's Support.Office.com site. Training content delivered through the web part is organized in easy-to-consume playlists. Administrators can also use the web part to build custom training playlists, combining content from YouTube, locally hosted content like .PDFs, and Office 365 training content, to provide training experiences tailored to the unique needs of the organization.</span></span>
+## <a name="3-easy-steps"></a><span data-ttu-id="f2fe6-125">3 簡單的步驟</span><span class="sxs-lookup"><span data-stu-id="f2fe6-125">3 Easy Steps</span></span>
+<span data-ttu-id="f2fe6-126">讓我們開始建立您的環境自訂學習體驗。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-126">Let's get started creating a custom learning experience for your environment.</span></span>
+1. <span data-ttu-id="f2fe6-127">選擇 [[安裝] 選項](custom_setupoptions.md)，並佈建自訂學習。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-127">Choose a [setup option](custom_setupoptions.md) and provision Custom Learning.</span></span>  
+2. <span data-ttu-id="f2fe6-128">調整自訂 Learning 為您的環境。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-128">Tailor Custom Learning for your environment.</span></span>
+3. <span data-ttu-id="f2fe6-129">共用自訂學習與您使用我們[採用工具](driveadoption.md)的使用者。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-129">Share Custom Learning with your users using our [adoption tools](driveadoption.md).</span></span>
 
-![學習 Office 365 網頁組件的自訂](media/clo365customplaylist.png)
+## <a name="feedback-and-support"></a><span data-ttu-id="f2fe6-130">意見反應及支援</span><span class="sxs-lookup"><span data-stu-id="f2fe6-130">Feedback and Support</span></span>
 
-## <a name="3-easy-steps"></a><span data-ttu-id="fb055-125">3 個簡單步驟</span><span class="sxs-lookup"><span data-stu-id="fb055-125">3 Easy Steps</span></span>
+<span data-ttu-id="f2fe6-131">Office 365 自訂學習是透過 GitHub 上我們[online 問題清單](https://aka.ms/CustomLearningHelp)支援開放原始碼專案。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-131">The Custom Learning for Office 365 is an open source project supported through our [online issues list](https://aka.ms/CustomLearningHelp) on GitHub.</span></span> <span data-ttu-id="f2fe6-132">Office 365 方案和它的元件未涵蓋的任何現有的 Microsoft 支援合約自訂學習。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-132">The Custom Learning for Office 365 solution and it's components are not covered by any existing Microsoft support contract.</span></span>  
 
-<span data-ttu-id="fb055-126">可讓[開始](prereqs.md)使用最新的 Microsoft 內容建立簡單的訓練解決方案。</span><span class="sxs-lookup"><span data-stu-id="fb055-126">Lets [get started](prereqs.md) creating a simple training solutions with up to date Microsoft content.</span></span>
-
-1. <span data-ttu-id="fb055-127">選取您的解決方案右邊</span><span class="sxs-lookup"><span data-stu-id="fb055-127">Select the solution right for you</span></span>
-2. <span data-ttu-id="fb055-128">完成安裝 & 自訂您的內容</span><span class="sxs-lookup"><span data-stu-id="fb055-128">Complete your installation & customize your content</span></span>
-3. <span data-ttu-id="fb055-129">您使用我們[採用工具](driveadoption.md)的使用者與共用您的網站</span><span class="sxs-lookup"><span data-stu-id="fb055-129">Share your site with your users using our [adoption tools](driveadoption.md)</span></span>
+## <a name="additional-resources"></a><span data-ttu-id="f2fe6-133">其他資源</span><span class="sxs-lookup"><span data-stu-id="f2fe6-133">Additional Resources</span></span>
+<span data-ttu-id="f2fe6-134">您可以使用自訂學習網站體驗提供任何新的或現有的使用者社群論壇的連結。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-134">You can use the Custom Learning site experience to provide links to any new or existing user community forums.</span></span> <span data-ttu-id="f2fe6-135">如果您不需要一個已經，若要讓使用者共用其致勝並彼此了解，請考慮開始內部使用者群組。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-135">Consider starting an internal user group, if you don't have one already, to enable people to share their success and learn from each other.</span></span>  <span data-ttu-id="f2fe6-136">如果您沒有時間以加強內部使用者群組，您和您的員工可以加入[Microsft Office 365 修社群](https://aka.ms/O365Champions)的每月的訓練、 線上社群和早期 access 中的成員資格工具和資源的 Office 365。</span><span class="sxs-lookup"><span data-stu-id="f2fe6-136">If you don't have time to nurture an internal user group, you and your employees can join the [Microsft Office 365 Champion community](https://aka.ms/O365Champions) for monthly training, membership in the online community, and early access to tools and resources for Office 365.</span></span>
