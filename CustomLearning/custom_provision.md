@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 佈建自訂學習網站
 ms.date: 02/10/2019
 description: 佈建 SharePoint 佈建引擎透過 Office 365 網站自訂學習
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523047"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543753"
 ---
 # <a name="provision-custom-learning"></a>佈建自訂學習 
 
@@ -17,9 +17,9 @@ SharePoint Online 佈建服務時，Office 365 租用戶系統管理員可以啟
 
 ## <a name="prerequisites"></a>必要條件
  
-若要成功設定自訂學習與[SharePoint Online 佈建服務](https://provisioning.sharepointpnp.com)的佈建服務，執行佈建的人員必須符合下列先決條件： 
+若要成功設定自訂學習與佈建服務，執行佈建的人員必須符合下列先決條件： 
  
-- 佈建自訂學習的人員必須是租用戶 Administratorof 租用戶會佈建自訂學習。  
+- 佈建自訂學習的人員必須是租用戶的租用戶系統管理員將佈建自訂學習。  
 - 租用戶應用程式目錄必須能夠使用中的 SharePoint 系統管理中心的 [應用程式] 選項。 如果您的組織沒有 SharePoint 租用戶應用程式目錄，請參閱[SharePoint Online 的文件](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog)建立一個。  
 - 佈建自訂學習的人員必須是租用戶應用程式目錄網站集合擁有人。 如果佈建自訂學習人員不是網站集合擁有人的應用程式目錄[完成這些指示](addappadmin.md)，並繼續執行。 
 
@@ -33,11 +33,11 @@ SharePoint Online 佈建服務時，Office 365 租用戶系統管理員可以啟
 
 ![在](media/inst_perms.png)
 
-3. 從解決方案庫中選取**自訂學習運作的 Office 365** 。
+3. 捲動 [] 頁面上，選取 [**解決方案**] 索引標籤，然後選取 [**自訂學習運作的 Office 365**。 
 
 ![在](media/inst_select.png)
 
-4. 從 [解決方案] 首頁上選取 [**新增至您的租用戶**
+4. 選取 [**新增至您的租用戶**
 
 ![inst_select.png](media/inst_add.png)
 
@@ -50,7 +50,7 @@ SharePoint Online 佈建服務時，Office 365 租用戶系統管理員可以啟
 6. 選取 [**佈建**時安裝自訂學習到您的租用戶環境準備就緒]。  佈建程序需要 15 分鐘。 將會透過 （若要在佈建] 頁面所輸入的通知電子郵件地址） 的電子郵件通知您該網站時可供存取。 
 
 > [!IMPORTANT]
-> 租用戶系統管理員佈建自訂學習網站必須移至網站，並再開啟 [CustomLearningAdmin.aspx 初始化自訂學習系統屬性。 現階段，租用戶系統管理員也應該將指派擁有者至網站。 
+> 租用戶系統管理員佈建自訂學習網站必須移至網站，並再開啟 [ **CustomLearningAdmin.aspx**初始化自訂學習系統屬性。 現階段，租用戶系統管理員也應該將指派擁有者至網站。 
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>驗證成功佈建並初始化 CustomConfig 清單
 

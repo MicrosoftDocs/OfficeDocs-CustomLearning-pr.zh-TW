@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 獨立單獨的網頁組件設定
 ms.date: 02/10/2019
 description: 了解 Office 365 手動網頁組件設定的自訂
-ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523057"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543743"
 ---
 # <a name="stand-alone-web-part-setup"></a>獨立單獨的網頁組件設定
 
@@ -44,13 +44,18 @@ ms.locfileid: "30523057"
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>步驟 3-佈建/識別新式通訊網站
 識別現有的 SharePoint 通訊網站或是佈建一個新 SharePoint Online 租用戶中。 如需有關如何佈建通訊網站請參閱[建立通訊網站在 SharePoint Online 中](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)，並遵循步驟來建立通訊網站。
 
-## <a name="step-4---set-permissions-for-the-site"></a>步驟 4-設定網站的權限
+## <a name="step-4---add-the-custom-learning-for-office-365-app-to-the-site"></a>步驟 4-新增至網站的 Office 365 應用程式自訂學習
+
+1. 從 SharePoint 網站上，按一下 [系統] 功能表，然後按一下 [**新增應用程式**。 
+2. 在**您的應用程式**下, 按一下 [**從 Your Organization**，，，然後按一下 [**自訂學習運作的 Office 365**。 
+
+## <a name="step-5---set-permissions-for-the-site"></a>步驟 5-設定網站的權限
 請確定下列權限設定的網站：
 - **網站集合管理員或擁有者群組之一部分**的初始化設定為其第一次使用的自訂學習 CustomConfig 清單項目所需的權限。 
 - **成員群組**管理自訂學習，包括 [隱藏] 和 [顯示內容和管理自訂播放清單所需的權限
 - **訪客 」 群組**-檢視網站內容所需的權限。 
 
-## <a name="step-5--execute-powershell-configuration-script"></a>步驟 5-執行 PowerShell 設定指令碼
+## <a name="step-6--execute-powershell-configuration-script"></a>步驟 6-執行 PowerShell 設定指令碼
 PowerShell 指令碼`CustomLearningConfiguration.ps1`是包含您想要執行建立解決方案使用的三個[租用戶屬性](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties)。 除了指令碼會建立兩個[單一的組件應用程式頁面](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages)網站頁面] 程式庫以裝載在已知位置上的系統管理員和使用者網頁組件。
 
 ### <a name="disabling-telemetry-collection"></a>停用遙測集合
@@ -62,7 +67,7 @@ PowerShell 指令碼`CustomLearningConfiguration.ps1`是包含您想要執行建
 
 成功執行的 PowerShell 指令碼之後，您瀏覽至網站，初始化**CustomConfig**清單項目，如其第一次使用，會設定自訂學習，驗證網站正常運作。
 
-1. 請移至 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 開啟**CustomLearningAdmin.aspx**初始化設定為第一次使用的自訂學習**CustomConfig**清單項目。 您應該會看到看起來像這樣的頁面：
+- 請移至 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 開啟**CustomLearningAdmin.aspx**初始化設定為第一次使用的自訂學習**CustomConfig**清單項目。 您應該會看到看起來像這樣的頁面：
 
 ![cg adminapppage.png](media/cg-adminapppage.png)
 
