@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 佈建自訂學習網站
 ms.date: 02/10/2019
 description: 佈建 SharePoint 佈建引擎透過 Office 365 網站自訂學習
-ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543753"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577859"
 ---
 # <a name="provision-custom-learning"></a>佈建自訂學習 
 
@@ -56,7 +56,7 @@ SharePoint Online 佈建服務時，Office 365 租用戶系統管理員可以啟
 
 佈建完成時，租用戶系統管理員佈建網站上，會收到一封電子郵件從 PnP 佈建服務。 電子郵件包含網站的連結。 此時，租用戶系統管理員應移至使用中電子郵件提供和設定用於第一次使用網站的連結的網站：
 
-1. 請移至 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`。 開啟**CustomLearningAdmin.aspx**初始化設定為第一次使用的自訂學習**CustomConfig**清單項目。 您應該會看到看起來像這樣的頁面：
+- 請移至 `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`。 開啟**CustomLearningAdmin.aspx**初始化設定為第一次使用的自訂學習**CustomConfig**清單項目。 您應該會看到看起來像這樣的頁面：
 
 ![cg adminapppage.png](media/cg-adminapppage.png)
 
@@ -67,7 +67,7 @@ SharePoint Online 佈建服務時，Office 365 租用戶系統管理員可以啟
 2. 按一下 [**進階權限設定**。
 3. 按一下 [**自訂學習 for Office 365 擁有者**。
 4. 按一下 [**新增** > **將使用者新增到這個群組**，然後新增您想要做為擁有者的人員。 
-5. 在共用郵件中，將連結新增至[瀏覽網站](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore)，然後按一下 [**共用**]。
+5. 在共用郵件中，將連結新增至[瀏覽網站](custom_exploresite.md)，然後按一下 [**共用**]。
 
 ### <a name="next-steps"></a>後續步驟
 - 瀏覽網站和網頁組件中所提供的[預設的內容](custom_exploresite.md)。

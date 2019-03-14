@@ -1,27 +1,24 @@
 ---
-標題: ''
-ms.openlocfilehash: eb54031872eb5dcf0c405385c1abd84b2b4bdf50
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+title: ''
+description: ''
+author: karuanag
+ms.author: karuanag
+ms.date: 3/13/19
+ms.topic: getting-started
+ms.openlocfilehash: a6e1f7dc24ac98def19300ccc38f775e5750da7c
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30522967"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577839"
 ---
 # <a name="drive-adoption-of-your-learning-portal"></a>推動採用您學習入口網站
 
 磁碟機的自訂學習體驗這些簡單的步驟和工具的採用。 
 
-我們理解訓練方案只是一樣收到您組織中的使用狀況良好。  這就是為什麼我們已建立這些簡單的步驟與範本，可協助您的磁碟機認知和採用我們工具。 SharePoint Online 環境中設定的網站範本之後，使用下列步驟開始。
-
-下載列印與張貼我們傳單和海報我們啟動套件。  編輯和我們啟動電子郵件傳送至您的員工快速入門入口網站提供簡單的 3 個步驟。  
-
-> [!NOTE]
-> 您將需要特定自訂學習入口網站安裝編輯啟動電子郵件包含適當的網址 (URL)。
-
-下列最佳作法可協助您增加您組織中的站台的使用量。  
+我們理解訓練方案只是一樣收到您組織中的使用狀況良好。 這就是為什麼我們已建立這些簡單的步驟與範本，可協助您的磁碟機認知和採用我們工具。 SharePoint Online 環境中設定的網站範本之後，使用下列步驟開始。
 
 ## <a name="connect-learning-to-other-business-outcomes"></a>連線至其他商務結果的學習
-
 當自訂學習體驗的啟動併入任何其他服務的部署或升級的專案時，您就必須獲得最佳結果。  這可讓您的員工的清楚的理由，瀏覽網站。  範例可能是升級的 SharePoint Online 或 Microsoft Teams 的部署。  您可以包含片語，例如：
 
 」 若要瞭解更多的秘訣<Insert service name here>運作的 Office 365，請造訪我們自訂學習入口網站。 」 

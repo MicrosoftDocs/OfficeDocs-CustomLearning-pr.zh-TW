@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 獨立單獨的網頁組件設定
 ms.date: 02/10/2019
 description: 了解 Office 365 手動網頁組件設定的自訂
-ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543743"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577849"
 ---
 # <a name="stand-alone-web-part-setup"></a>獨立單獨的網頁組件設定
 
@@ -58,10 +58,12 @@ ms.locfileid: "30543743"
 ## <a name="step-6--execute-powershell-configuration-script"></a>步驟 6-執行 PowerShell 設定指令碼
 PowerShell 指令碼`CustomLearningConfiguration.ps1`是包含您想要執行建立解決方案使用的三個[租用戶屬性](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties)。 除了指令碼會建立兩個[單一的組件應用程式頁面](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages)網站頁面] 程式庫以裝載在已知位置上的系統管理員和使用者網頁組件。
 
-### <a name="disabling-telemetry-collection"></a>停用遙測集合
-此解決方案的一部分包含匿名的遙測追蹤選擇] 中，預設設定為 [開啟。 如果您正在執行手動安裝，且您想要開啟遙測關閉追蹤，請變更`CustomlearningConfiguration.ps1`$optInTelemetry 變數設為 $false 指令碼。
+1. 如果您已經尚未下載 SharePoint Online 管理命令介面，請立即下載。 請參閱[SharePoint Online 管理命令介面下載](https://go.microsoft.com/fwlink/p/?LinkId=255251)。
+2. 您可能需要將 PowerShell 執行原則，以執行指令碼。 如需詳細資訊，請參閱 <<c0>關於執行原則。
+3. 執行`CustomLearningConfiguration.ps1`指令碼。 除了您的租用戶系統管理員認證，指令碼會提示您輸入您的租用戶名稱和網站名稱。 考慮您網站的 URL，如下列範例會`https://contoso.sharepoint.com/sites/O365CL`、`contoso`是租用戶名稱和`O365CL`為網站名稱。 
 
-如果您未執行手動安裝，並可能會想要開啟另一個指令碼關閉追蹤的遙測`TelemetryOptOut.ps1`已包含執行時，會停用遙測追蹤。
+### <a name="disabling-telemetry-collection"></a>停用遙測集合
+此解決方案的一部分包含匿名的遙測追蹤選擇] 中，預設設定為 [開啟。 如果您正在執行手動安裝，且您想要開啟遙測關閉追蹤，請變更`CustomlearningConfiguration.ps1`$optInTelemetry 變數設 $false 並執行指令碼的指令碼。
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>驗證成功佈建並初始化 CustomConfig 清單
 
