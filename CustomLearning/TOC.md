@@ -24,3 +24,4 @@
 # [常見問題集](faq.md)
 # [協力廠商的常見問題集](custom_partner.md)
 # [手動升級自訂學習](custom_upgrade.md)
+# [疑難排解自訂學習](custom_troubleshooting.md)

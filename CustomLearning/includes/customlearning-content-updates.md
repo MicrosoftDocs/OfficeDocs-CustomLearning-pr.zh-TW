@@ -20,26 +20,19 @@
 | 3/5/2019 | [認識的 SharePoint 應用程式頁面](/Office365/CustomLearning/custom_apppages) | 修改時間 |
 
 
-## <a name="week-of-february-04-2019"></a>2019 年 2 月 4 日當週
+## <a name="week-of-march-11-2019"></a>2019 年 3 月 11 日當週
 
 
 | 發佈時間 |主題標題 | 變更 |
 |------|------------|--------|
-| 2/4/2019 | [# 與 Office 365-早上 Coffee 生命週期中的一天](/Office365/CustomLearning/ditl_coffee) | 修改時間 |
-| 2/4/2019 | [# 與 Office 365-生命週期中的一天與同事共同作業](/Office365/CustomLearning/ditl_collab) | 新增 |
-| 2/4/2019 | [# 與 Office 365-在您大效益生命週期中的一天](/Office365/CustomLearning/ditl_commute) | 新增 |
-| 2/4/2019 | [# 與 Office 365-生命週期中的一天公司內的連線](/Office365/CustomLearning/ditl_connect) | 新增 |
-| 2/4/2019 | [# 與 Office 365-生命週期中的一天會議在辦公室](/Office365/CustomLearning/ditl_meeting) | 新增 |
-| 2/4/2019 | [# 系統管理員在 Office 365 使用自訂學習有用的連結](/Office365/CustomLearning/embeds/for_admins) | 新增 |
-| 2/4/2019 | [自訂 office 365 由 Microsoft Learning 的概觀](/Office365/CustomLearning/index) | 修改時間 |
-| 2/4/2019 | [# 精銳程式最佳做法-服務採用專家](/Office365/CustomLearning/champ_education) | 新增 |
-| 2/4/2019 | [# 精銳程式最佳作法收集意見反應](/Office365/CustomLearning/champ_feedback) | 新增 |
-| 2/4/2019 | [# 精銳程式最佳作法尋找冠軍](/Office365/CustomLearning/champ_findthem) | 新增 |
-| 2/4/2019 | [# 精銳程式最佳作法](/Office365/CustomLearning/champ_getstarted) | 新增 |
-| 2/4/2019 | [# 精銳程式最佳做法-Microsoft 365 使用者採用指南](/Office365/CustomLearning/champ_o365guide) | 新增 |
-| 2/4/2019 | [# 持程式最佳做法-加入 Office 365 冠軍計畫](/Office365/CustomLearning/champ_o365program) | 新增 |
-| 2/4/2019 | [# 精銳程式最佳作法真實世界指引](/Office365/CustomLearning/champ_realworldguides) | 新增 |
-| 2/4/2019 | [# 精銳程式最佳作法](/Office365/CustomLearning/champ_whyadopt) | 新增 |
+| 3/11/2019 | [獨立單獨的網頁組件設定](/Office365/CustomLearning/custom_manualsetup) | 修改時間 |
+| 3/11/2019 | [佈建自訂學習網站](/Office365/CustomLearning/custom_provision) | 修改時間 |
+| 3/11/2019 | [自訂學習升級](/Office365/CustomLearning/custom_upgrade) | 修改時間 |
+| 3/11/2019 | [常見問題集的 Office 365 方案的自訂學習](/Office365/CustomLearning/faq) | 修改時間 |
+| 3/12/2019 | [自訂學習的 Office 365 的開放原始碼解決方案的概觀](/Office365/CustomLearning/index) | 修改時間 |
+| 3/13/2019 | [# 推動採用學習入口網站的自訂](/Office365/CustomLearning/driveadoption) | 修改時間 |
+| 3/13/2019 | [佈建自訂學習網站](/Office365/CustomLearning/custom_provision) | 修改時間 |
+| 3/13/2019 | [獨立單獨的網頁組件設定](/Office365/CustomLearning/custom_manualsetup) | 修改時間 |
 
 
 ## <a name="week-of-february-11-2019"></a>2019 年 2 月 11 日當週
