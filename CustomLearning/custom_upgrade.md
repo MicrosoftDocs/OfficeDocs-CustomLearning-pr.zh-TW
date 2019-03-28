@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 自訂學習升級
 ms.date: 02/10/2019
 description: 了解 Office 365 手動網頁組件設定的自訂
-ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
+ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543773"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936393"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>手動升級自訂學習
 
@@ -80,7 +80,7 @@ PowerShell 指令碼`CustomLearningConfiguration.ps1`是包含從 GitHub 的 ZIP
 1.  從自訂學習網站上，按一下 [**設定**]，然後按一下 [***新增工作] 頁面**。
 2.  按一下 [**+** 新增網頁組件，然後選取 [ **Office 365 的自訂學習**網頁組件] 頁面上的圖示。 [] 頁面上現在看起來應該類似下列的圖形：
 
-[cg adminapppage.png](media/cg-adminapppage.png)
+![cg adminapppage.png](media/cg-adminapppage.png)
  
 ### <a name="replace-the-old-web-part-with-the-new-web-part"></a>使用新的網頁組件取代舊的網頁組件
 之前取代自訂學習網頁組件，或對網站進行的變更，我們建議您閱讀的[自訂學習體驗](custom_overview.md)文件，因為它說明如何使用新的網頁組件。 
