@@ -5,11 +5,11 @@ title: 自訂學習安裝選項
 ms.date: 02/11/2019
 description: 自訂學習設定安裝選項
 ms.openlocfilehash: d2bb1d98d7eceb63e0cf2bdbf9eead1289641a20
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523007"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056036"
 ---
 # <a name="custom-learning-setup-options"></a>自訂學習安裝選項
 自訂 Office 365 學習提供的彈性來設定解決方案，以幾種不同的方式。 下列各節將概述可用的選項。

@@ -5,11 +5,11 @@ title: 概觀
 ms.date: 02/18/2019
 description: 自訂學習 for Office 365 系統管理員的概觀
 ms.openlocfilehash: 6aee3a93a5109b37e43a7118bd98ca31e8b9ac1f
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523017"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055628"
 ---
 # <a name="customize-the-learning-experience"></a>自訂的學習體驗
 

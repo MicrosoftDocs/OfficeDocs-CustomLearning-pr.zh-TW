@@ -5,11 +5,11 @@ title: 協力廠商的常見問題集
 ms.date: 3/9/2019
 description: 沒有運作的 Office 365 的自訂學習何協力廠商供應項目至來自公司提供企業訓練服務？
 ms.openlocfilehash: 5c1cdaabd3f506417607a80d7c058e61551fc332
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523585"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056349"
 ---
 # <a name="partner-frequently-asked-questions"></a>協力廠商的常見問題集
 

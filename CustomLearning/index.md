@@ -8,8 +8,8 @@ ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
 ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31922507"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056212"
 ---
 # <a name="custom-learning-for-office-365-beta-preview"></a>自訂 Office 365 Beta preview 學習
 自訂 Office 365 Beta 預覽學習是設計用來增加使用情況和採用 Office 365 組織中的可自訂的隨選訓練解決方案。  

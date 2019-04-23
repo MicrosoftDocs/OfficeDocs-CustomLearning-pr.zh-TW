@@ -1,17 +1,22 @@
 ---
-標題： # 修程式最佳作法-服務採用專家描述： # 採用 Office 365 與最佳作法作者我們修程式: {github 識別碼} # karuanag ms.author: {毫秒別名} # karuanag ms.date：{@date} # 02/01/2019 ms.topic： 快速入門 # 用法
+標題: ''
+ms.openlocfilehash: 80f12da704ef2ea8304c49a7ede3d36e33375ae1
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055406"
 ---
+# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>驗證您的技術-成為服務採用專家
 
-# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>驗證您的技巧-成為服務採用專家
+![服務採用專家課程](media/champs_sascourse.png)
 
-![服務採用專家課程 （英文)](media/champs_sascourse.png)
+如果服務採用屬於您的角色，或您想要移本主題中的 [深入正式的訓練與您可以註冊在我們的合作夥伴網站，EdX.org 上的 Microsoft 所提供的線上課程。 
 
-如果您要移您可以在 EdX.org 我們合作夥伴網站上的 Microsoft 提供的線上課程註冊本主題中的 [探討正式訓練或服務採用屬於您的角色。 
+此[服務採用專家線上課程](https://aka.ms/AdoptionCert)有空**稽核**。  如果您想要收到與憑證的 $99.00 完成費用是必要的。  本課程已製作的 Microsoft Teams 工程[Karuana Gatimu](https://linkedin.com/in/karuanagatimu)以從多個 Microsoft 的 MVP 和 Microsoft IT 專家的輸入。  包含內的最佳作法已經從觀察整個產業已收集和附贈至正式的組織變更管理教育版。  
 
-此[服務採用專家線上 [課程](https://aka.ms/AdoptionCert)是**自由稽核**。 如果您想要接收與憑證的完成費用 $99.00 則需要。 此課程已製作的 Microsoft 小組工程[Karuana Gatimu](https://linkedin.com/in/karuanagatimu)從多個 Microsoft MVP 和 Microsoft IT 專家的輸入。 包含內的最佳作法已從觀察整個產業收集和是免費至正式組織變更管理教育。  
+實用指引、 工具和其他內容都包含在可讓您以驗證您在此重要的商務功能 skils 本課程。  
 
-實用的指導方針、 工具及其他內容都包含在可讓您驗證您 skils 此重要商業功能在此課程 （英文）。  
+深入了解本課程將出版物我們[宣告](https://aka.ms/AdoptionCertAnnouncement)。 
 
-了解更多有關此課程發佈我們[宣告](https://aka.ms/AdoptionCertAnnouncement)中。 
-
-加入我們線上社群商務使用者和 IT 專業人員學習採用在https://aka.ms/DriveAdoption。 
+加入商務使用者和 IT 專業人員了解在採用我們線上社群https://aka.ms/DriveAdoption。 

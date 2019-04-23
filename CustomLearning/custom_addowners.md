@@ -5,11 +5,11 @@ title: 移至 Office 365 網站自訂學習
 ms.date: 02/18/2019
 description: 移至 [學習網站的自訂
 ms.openlocfilehash: 220d27d6f12f4edb26e0d46ac76cbcea12270e74
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411863"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055792"
 ---
 # <a name="add-owners-custom-learning-site"></a>新增擁有者自訂學習網站
 

@@ -5,11 +5,11 @@ title: 常見問題集的 Office 365 方案的自訂學習
 ms.date: 02/10/2019
 description: Office 365 的自訂學習問題資訊的常見問題集
 ms.openlocfilehash: 7da1f3da197fc298c83eac89e3455312cba7a851
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543763"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056006"
 ---
 # <a name="frequently-asked-questions"></a>常見問題集
 
