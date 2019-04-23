@@ -1,13 +1,18 @@
 ---
-標題： # 修程式最佳作法-加入 Office 365 冠軍程式描述： # 採用 Office 365 與我們修程式最佳作法作者: {github 識別碼} # karuanag ms.author: {毫秒別名} # karuanag ms.date: {@date} # 02/01/2019 ms.topic： 快速入門 # 用法
+標題: ''
+ms.openlocfilehash: 52e14df0552c7809f0abb856f8d0a4dd9f80ae75
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055466"
 ---
+# <a name="office-365-champions-program"></a><span data-ttu-id="e420e-102">Office 365 冠軍計劃</span><span class="sxs-lookup"><span data-stu-id="e420e-102">Office 365 Champions Program</span></span> 
 
-# <a name="office-365-champions-program"></a><span data-ttu-id="c4628-102">Office 365 冠軍程式</span><span class="sxs-lookup"><span data-stu-id="c4628-102">Office 365 Champions Program</span></span> 
+![請成為修差異](media/makeadifference.png)
 
-![讓成為修差異](media/makeadifference.png)
+<span data-ttu-id="e420e-104">Microsoft 提供的免費的 Office 365 冠軍程式，以支援全球精銳角色。</span><span class="sxs-lookup"><span data-stu-id="e420e-104">Microsoft provides a free Office 365 Champions program to support the Champion role worldwide.</span></span>  <span data-ttu-id="e420e-105">此程式提供線上社群、 每月的社群通話及推動採用 Office 365 中服務各種內容。</span><span class="sxs-lookup"><span data-stu-id="e420e-105">This program provides an online community, monthly community calls and content driving adoption across a variety of services in Office 365.</span></span>
 
-<span data-ttu-id="c4628-p101">Microsoft 提供的免費的 Office 365 冠軍程式以支援全世界的精銳角色。 此程式提供線上社群、 每月社群通話及主導採用各種 Office 365 中的服務內容。</span><span class="sxs-lookup"><span data-stu-id="c4628-p101">Microsoft provides a free Office 365 Champions program to support the Champion role worldwide.  This program provides an online community, monthly community calls and content driving adoption across a variety of services in Office 365.</span></span>
+<span data-ttu-id="e420e-106">此程式是開放給所有人。</span><span class="sxs-lookup"><span data-stu-id="e420e-106">This program is open to everyone.</span></span>  <span data-ttu-id="e420e-107">我們建議，至少在其組織中執行精銳程式的任何人都成為成員，才能存取修訓練可以在他們自己的程式中利用的材料。</span><span class="sxs-lookup"><span data-stu-id="e420e-107">We recommend that at a minimum anyone running a Champion program in their organization become a member to get access to Champion training materials that can be utilized in their own program.</span></span> 
 
-<span data-ttu-id="c4628-p102">此程式是開啟為 [所有人。 建議您讓至少執行精銳程式其組織中的任何人都變成可存取可修對成員訓練教材 （英文） 中可以使用自己的程式中。</span><span class="sxs-lookup"><span data-stu-id="c4628-p102">This program is open to everyone.  We recommend that at a minimum anyone running a Champion program in their organization become a member to get access to Champion training materials that can be utilized in their own program.</span></span> 
-
-<span data-ttu-id="c4628-108">註冊今天就會變成在全世界的社群的一部分https://aka.ms/O365Champions</span><span class="sxs-lookup"><span data-stu-id="c4628-108">Sign up today to become a part of the worldwide community at https://aka.ms/O365Champions</span></span>  
+<span data-ttu-id="e420e-108">註冊今天成為在全球的社群的一部分https://aka.ms/O365Champions</span><span class="sxs-lookup"><span data-stu-id="e420e-108">Sign up today to become a part of the worldwide community at https://aka.ms/O365Champions</span></span>  
