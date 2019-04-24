@@ -5,11 +5,11 @@ title: 獨立單獨的網頁組件設定
 ms.date: 02/10/2019
 description: 了解 Office 365 手動網頁組件設定的自訂
 ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
-ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30577849"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055056"
 ---
 # <a name="stand-alone-web-part-setup"></a>獨立單獨的網頁組件設定
 
