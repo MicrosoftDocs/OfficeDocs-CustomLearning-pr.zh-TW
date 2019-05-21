@@ -1,19 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 疑難排解自訂學習
+title: 學習路徑的 Microsoft 365 的疑難排解
 ms.date: 02/10/2019
-description: 了解如何疑難排解自訂學習
-ms.openlocfilehash: 7cbd049d4794d14f9e8cc26fd0db5f444812d688
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: 了解如何疑難排解 Microsoft 365 學習路徑
+ms.openlocfilehash: de46b9c754dac36de230b36ec4a5542518a1dcd5
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055082"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247678"
 ---
-# <a name="troubleshoot-custom-learning"></a>疑難排解自訂學習
+# <a name="troubleshoot-microsoft-365-learning-pathways"></a>學習路徑的 Microsoft 365 的疑難排解
 
-在這裡進行疑難排解時可能發生的問題秘訣與自訂學習 for Office 365 或 SharePoint Online 佈建服務。
+在這裡進行疑難排解時使用 Microsoft 365 學習路徑或 SharePoint Online 佈建服務可能發生的問題的秘訣。
 
 ## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>如何知道您是否擁有租用戶系統管理員權限
 
@@ -41,7 +41,7 @@ ms.locfileid: "32055082"
 3. 在**應用程式**，您應該會看到標題為**Distribute SharePoint 相關應用程式**的磚。 如果您看到磚，您必須租用戶應用程式目錄。 請參閱以下 [**如何確定您是網站 Colllection...** ] 區段。 如果您沒有看到 [您需要建立您的租用戶的租用戶應用程式目錄] 磚。 請參閱 <<c0>如何建立租用戶應用程式目錄] 區段下方。
 
 ### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>如何確保您的租用戶應用程式目錄網站集合擁有人 
-若要自訂學習佈建 Office 365，您必須是租用戶應用程式目錄網站集合擁有人。 以下是如何 determin 如果您是擁有者。
+若要佈建學習路徑的 Microsoft 365，您必須是租用戶應用程式目錄網站集合擁有人。 以下是如何判斷您是否擁有者。
 
 1. 從 Office 365 中，按一下 [**系統管理員**，請按一下展開箭頭 >，按一下 [**顯示所有** > **系統管理中心** > **SharePoint**。
 2. 按一下 [**傳統系統 SharePoint 管理中心**]，然後選取 [**應用程式目錄**。

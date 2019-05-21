@@ -4,16 +4,16 @@ ms.author: pkrebs
 title: 建立 SharePoint 網頁的播放清單
 ms.date: 02/10/2019
 description: 建立 SharePoint 網頁的播放清單
-ms.openlocfilehash: c2de66a0746260e8f6539656ad70052b209c54ba
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055489"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247533"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>建立 SharePoint 網頁的自訂播放清單
 
-下列其中一個自訂學習的獨特功能是能夠建立組合的資產從 Microsoft 和您所建立的 SharePoint 資產的播放清單。 在這個範例中，我們會建立 SharePoint 頁面遲建立播放清單。 建立 SharePoint 網頁的播放清單的能力提供各種建置使用可以從 Microsoft 或貴組織的網頁組件頁面的機會。 例如，播放清單可以包含與內嵌視訊 YouTube，從 SharePoint] 頁面上或從 Office 365 表單或內嵌的 Power BI 報表內建的表單。 在這個範例中，我們將顯示您如何建置與內嵌網頁組件和文字網頁組件的頁面。  
+學習路徑的獨特功能的其中一個已建立組合的資產從 Microsoft 和您所建立的 SharePoint 資產的播放清單的能力。 在這個範例中，我們會建立 SharePoint 頁面遲建立播放清單。 建立 SharePoint 網頁的播放清單的能力提供各種建置使用可以從 Microsoft 或貴組織的網頁組件頁面的機會。 例如，播放清單可以包含與內嵌視訊 YouTube，從 SharePoint] 頁面上或從 Office 365 表單或內嵌的 Power BI 報表內建的表單。 在這個範例中，我們將顯示您如何建置與內嵌網頁組件和文字網頁組件的頁面。  
 
 ## <a name="create-a-sharepoint-page-for-a-custom-playlist"></a>建立自訂播放清單的 SharePoint 頁面
 
