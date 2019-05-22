@@ -24,5 +24,5 @@
 # [意見反應及支援](feedback.md)
 # [常見問題集](faq.md)
 # [協力廠商的常見問題集](custom_partner.md)
-# [更新 Microsoft 365 學習路徑](custom_upgrade.md)
+# [更新 Microsoft 365 學習路徑](custom_update.md)
 # [學習路徑的 Microsoft 365 的疑難排解](custom_troubleshooting.md)
