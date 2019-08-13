@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 學習網頁組件的何處
 ms.date: 02/15/2019
 description: 了解學習路徑： 網頁組件會出現在學習路徑網站
-ms.openlocfilehash: 27793606ee425f8ca77a66898bb0c23aee5e3f2b
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: bc0a24f3f4fa9f2067f52a787da8fc25592fd151
+ms.sourcegitcommit: 076ad8f4dd99da270d34c01b03428a24632916e5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247604"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34327286"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 學習路徑的所在網頁組件？
 
@@ -44,11 +44,11 @@ ms.locfileid: "34247604"
 
 ![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
-## <a name="view-all-office-365-training"></a>檢視所有 Office 365 訓練
+## <a name="view-all-microsoft-365-training"></a>檢視所有的 Microsoft 365 教育訓練
 
-在**Office 365 訓練**] 頁面上的網頁組件設定為顯示所有類別和子類別提供從學習路徑目錄。 這包括來自 Microsoft 的子類別，以及您為組織建立任何子類別。
+在**Microsoft 365 訓練**] 頁面上的網頁組件設定為顯示所有類別和子類別提供從學習路徑目錄。 這包括來自 Microsoft 的子類別，以及您為組織建立任何子類別。
 
-- 學習路徑的首頁] 頁面上，按一下 [ **Office 365 訓練**。 出現 [] 頁面會出現在網頁組件以顯示所有類別和子類別提供從自訂學習目錄設定。
+- 從學習路徑的首頁] 頁面上，按一下 [ **Microsoft 365 教育訓練**。 出現 [] 頁面會出現在網頁組件以顯示所有類別和子類別提供從自訂學習目錄設定。
 
 ![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
