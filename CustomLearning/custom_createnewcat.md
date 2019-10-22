@@ -3,18 +3,18 @@ author: pkrebs
 ms.author: pkrebs
 title: 建立新的子類別
 ms.date: 02/17/2019
-description: 使用自訂的學習建立一個新的子類別
-ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: 使用學習路徑建立一個新的子類別
+ms.openlocfilehash: 9455e35120bbac1265ebe428979d5791dbd00924
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055446"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327254"
 ---
 # <a name="create-a-subcategory"></a>建立子類別 
 在某些情況下，您會想要建立新的子類別。 例如，如果第一天子類別不適合您的組織，您可以建立一個新的子類別，並再將播放清單新增至它符合組織的需求。 
 
-1. 從自訂學習**首頁**上，按一下 [ **Office 365 訓練**，按一下 [網頁組件中，從 [**系統**] 功能表，然後按一下**管理播放清單**。 
+1. 從 Microsoft 365 學習路徑 [**首頁**] 頁面，按一下 [ **Microsoft 365 訓練**，按一下 [網頁組件中，從 [**系統**] 功能表，然後按一下**管理播放清單**。 
 2. 選取一個**類別**。 在這個範例中，選取 [**開始**]。  
 3. 向下] 頁面上，捲動 
 3. 按一下 [**新增新的子類別 +** 圖示。  

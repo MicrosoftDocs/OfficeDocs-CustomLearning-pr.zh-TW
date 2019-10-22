@@ -3,29 +3,29 @@ author: pkrebs
 ms.author: pkrebs
 title: 將資產新增至播放清單
 ms.date: 02/17/2019
-description: 將新的和現有的資產新增至自訂的學習播放清單
-ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: 將新的和現有的資產新增至學習路徑播放清單
+ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055947"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34247638"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>將資產新增至自訂播放清單
 
-自訂學習，您可以新增下列資產的播放清單：
+學習路徑，您可以新增至播放清單下的資產：
 
-- **現有的自訂學習資產**-屬於 Microsoft online 目錄的資產，或您的組織已加到自訂學習的資產。
-- **新的資產**-這些是您新增至自訂學習之內建從您建立的 SharePoint 網頁的資產或已在組織中的 SharePoint 網站的 SharePoint 資產。 
+- **現有的 Microsoft 365 學習路徑資產**-屬於 Microsoft online 目錄的資產，或您的組織已加到學習路徑的資產。
+- **新的資產**-這些是您新增至學習路徑您所建立的 SharePoint 網頁或 SharePoint 的資產已在組織中的 SharePoint 網站上，從內建的資產。 
 
 > [!TIP]
-> 如果 Microsoft 播放清單資產不符合您的需求，建立新的播放清單，然後加入 Microsoft 資產和任何新建立的資產的播放清單來建立您想要的體驗。 您無法修改，由 Microsoft 所提供的自訂學習播放清單，但您可以將自訂的學習提供資產新增至自訂的播放清單。   
+> 如果 Microsoft 播放清單資產不符合您的需求，建立新的播放清單，然後加入 Microsoft 資產和任何新建立的資產的播放清單來建立您想要的體驗。 您無法修改學習路徑播放清單由 Microsoft 所提供，但您可以新增學習路徑提供自訂播放清單的資產。   
 
 ## <a name="create-a-new-asset-for-a-playlist"></a>建立新的資產的播放清單
 
 有兩個選項可將新的資產新增至播放清單。
 
-- **建立資產頁面**-使用此選項，自訂學習會為您產生新的空白 SharePoint 頁面，並將其新增至播放清單。 然後，您可以將內容新增至頁面，並將其儲存。  
+- **建立資產頁面**-使用此選項，學習路徑將會為您產生新的空白 SharePoint 頁面，並將其新增至播放清單。 然後，您可以將內容新增至頁面，並將其儲存。  
 - **輸入 URL** -使用此選項，您建立頁面事先或您已提供] 頁面上以及您指定要將頁面新增至播放清單的 URL。
 
 ### <a name="create-asset-page"></a>建立資產頁面 
@@ -65,7 +65,7 @@ ms.locfileid: "32055947"
 
 ## <a name="add-an-existing-asset-to-a-playlist"></a>將現有的資產新增至播放清單
 
-現有的資產是由 Microsoft 提供自訂學習資產或資產，都已經新增至自訂學習由您的組織所組成。 
+現有的資產組成提供 Microsoft 學習路徑資產或資產，都已經新增至學習路徑由您的組織。 
 
 - 在 [**搜尋**] 方塊中，輸入搜尋字詞，然後再選取資產從搜尋結果。 在這個範例中，輸入 「 什麼是 Excel 」？ 若要加入播放清單中的 Excel 簡介主題。
 
@@ -91,6 +91,6 @@ ms.locfileid: "32055947"
 1. 按一下 [**關閉播放清單**。
 2. 按一下 [ **Office 365 訓練**] 頁面] 索引標籤。
 3. 重新整理] 頁面上，然後再按一下 [**開始**] 下的 [**第一天**。
-4. 按一下 [**自訂學習入門套件**來檢視您的第一個播放清單中巨集指令。 
+4. 按一下以檢視巨集指令中的第一個播放清單的**學習路徑入門套件**。 
 
 ![cg addassetcheckwork.png](media/cg-addassetcheckwork.png)

@@ -2,14 +2,14 @@
 author: pkrebs
 ms.author: pkrebs
 title: 隱藏和顯示技術
-ms.date: 02/15/2019
+ms.date: 05/20/2019
 description: 如何隱藏和顯示技術
-ms.openlocfilehash: 38b814b85d4e060e5387b2173476c455cfcf7160
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: ee943dad5ca3f2a1bef5636e0f820346b0ac3840
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055659"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327264"
 ---
 # <a name="hide-and-show-technology"></a>隱藏和顯示技術
 
@@ -17,15 +17,14 @@ ms.locfileid: "32055659"
 
 ## <a name="hide-a-technology"></a>隱藏技術
 
-1. 從自訂學習**首頁**上，按一下 [ **Office 365 訓練**磚。
-2. 從自訂學習網頁組件中，選取 [**系統**] 功能表，然後選取**管理播放清單**。 您現在應該可以開啟的兩個索引標籤。 一個使用**自訂學習管理**] 頁面中，而另一個**Office 365 訓練**頁面。 
+1. 從 Microsoft 365 學習路徑 [**首頁**] 頁面，按一下 [**建議播放清單**] 磚。
+2. 從自訂學習網頁組件中，選取 [**系統**] 功能表，然後選取**管理播放清單**。 您現在應該可以開啟的兩個索引標籤。 一個與**建議播放清單**] 頁面上，而另一個具有**自訂學習管理**] 頁面。 
 3. 從**自訂學習管理**] 頁面上，按一下一種**技術**，，然後選取以將它隱藏技術 eyeball。 本範例中，按一下 [ **Yammer**技術，然後再將它隱藏。  
 
 ![cg hidetech.png](media/cg-hidetech.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>確認隱藏播放清單
-1. 若要確認隱藏**Yammer**技術，選取與**Office 365 訓練**頁面載入、 瀏覽器] 索引標籤，然後重新整理頁面。 您現在應該會看到的 Yammer 隱藏子類別。 
-2. 按一下 [**建議**子類別。 您會注意到連線您的組織使用 Yammer 播放清單會隱藏。 
+- 若要確認隱藏**Yammer**技術，與載入，**建議使用播放清單**] 頁面上選取 [瀏覽器] 索引標籤，然後重新整理頁面。 您會注意到連線您的組織使用 Yammer 播放清單會隱藏。 
 
 ![cg hidetechrefresh.png](media/cg-hidetechrefresh.png)
 
