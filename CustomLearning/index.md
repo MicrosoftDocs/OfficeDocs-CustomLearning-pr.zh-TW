@@ -2,20 +2,17 @@
 author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 學習路徑概觀
-ms.date: 05/20/2019
+ms.date: 10/23/2019
 description: 了解如何使用情況和採用您組織中的 Microsoft 365 服務可以開始加速 Microsoft 365 學習路徑。 學習路徑包含自訂 SharePoint Online 網頁組件和新式 SharePoint Online 的通訊訓練網站輕鬆地佈建至 Microsoft 365 租用戶。
-ms.openlocfilehash: a3744807dfae6971525a14678b59cdb37ffc8ae8
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 8d98269b5d0e6af369bd476e4de3be72bab78950
+ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334727"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726717"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Microsoft 365 學習路徑 beta 版預覽
-學習路徑，以前稱為自訂學習對於 Office 365，Microsoft 365 是設計用來增加使用情況和採用 Microsoft 365 服務組織中的可自訂的隨選訓練解決方案。  
-
-> [!NOTE]
-> 截至 5/21/2019，自訂 Office 365 學習已重新命名的 Microsoft 365 學習路徑。 若要符合 Microsoft 365 品牌努力，並更妥善地代表之解決方案的未來方向變更的名稱。   
+Microsoft 365 學習路徑是設計用來增加使用情況和採用 Microsoft 365 服務組織中的可自訂的隨選學習解決方案。  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>來自 Microsoft 的隨選、 自訂訓練
 
@@ -28,17 +25,8 @@ ms.locfileid: "34334727"
 
 ![cg introducing.png](media/cg-introducing.png)
 
-## <a name="learning-pathways-components"></a>學習路徑元件
-Microsoft 365 學習路徑是由三個部分所組成： 
-
-![cg howitworks.png](media/cg-howitworks.png)
-
-- **Microsoft 內容 online 目錄**-學習路徑會連線至 Microsoft 訓練內容 online 目錄
-- **SharePoint Online 的通訊網站**-學習路徑提供簡單規定訓練入口網站，可以進行自訂以組織的需求。
-- **SharePoint 網頁組件**-學習路徑提供 SharePoint 網頁組件可以出現目標的訓練內容篩選。 組織也可以使用網頁組件，建立自己自訂播放清單。
-
 ## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online 的佈建服務 
-學習路徑可以從 SharePoint Online 佈建服務佈建。 自訂學習佈建，組織會獲得 SharePoint Online 的通訊站台設計是要擴充的方塊訓練入口網站，以及網頁組件連線至訓練內容 online 目錄學習路徑。 
+學習路徑可以從 SharePoint Online 佈建服務佈建。 Microsoft 365 學習路徑佈建，組織會獲得 SharePoint Online 的通訊站台設計是要擴充的方塊訓練入口網站，以及網頁組件連線至訓練內容 online 目錄學習路徑。 
 
 ![cg provision.png](media/cg-provision.png)
 

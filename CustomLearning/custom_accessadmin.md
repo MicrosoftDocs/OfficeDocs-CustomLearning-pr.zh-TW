@@ -1,15 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 存取自訂學習管理] 頁面
+title: 存取 [管理] 頁面
 ms.date: 02/15/2019
 description: How to： 存取自訂學習系統管理] 頁面上，從 [網頁組件或功能表
-ms.openlocfilehash: e08d8dfc6690d9c5d26cd03efd780bbd27d72cd6
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: f948f9c14f43f4cbb6569277a4ff27427abcbc6d
+ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327224"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726707"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>存取自訂學習管理] 頁面
 
