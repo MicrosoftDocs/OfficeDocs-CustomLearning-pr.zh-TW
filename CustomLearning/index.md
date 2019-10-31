@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 學習路徑概觀
 ms.date: 10/23/2019
 description: 了解如何使用情況和採用您組織中的 Microsoft 365 服務可以開始加速 Microsoft 365 學習路徑。 學習路徑包含自訂 SharePoint Online 網頁組件和新式 SharePoint Online 的通訊訓練網站輕鬆地佈建至 Microsoft 365 租用戶。
-ms.openlocfilehash: 8d98269b5d0e6af369bd476e4de3be72bab78950
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 9ac54d13ec23b3489f43dd30ead096f8f05303df
+ms.sourcegitcommit: 76c73e78038521b39b2a8e5328862f47557c8a54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726717"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37885557"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Microsoft 365 學習路徑 beta 版預覽
 Microsoft 365 學習路徑是設計用來增加使用情況和採用 Microsoft 365 服務組織中的可自訂的隨選學習解決方案。  
@@ -38,7 +38,7 @@ Microsoft 365 學習路徑是設計用來增加使用情況和採用 Microsoft 3
 
 ## <a name="feedback-and-support"></a>意見反應及支援
 
-Microsoft 365 學習路徑是透過 GitHub 上我們[online 問題清單](https://aka.ms/CustomLearningHelp)支援開放原始碼專案。 Learnng 路徑解決方案和它的元件未涵蓋的任何現有的 Microsoft 支援合約。  
+Microsoft 365 學習路徑是透過 GitHub 上我們[online 問題清單](https://aka.ms/CustomLearningHelp)支援開放原始碼專案。 學習路徑解決方案和它的元件未涵蓋的任何現有的 Microsoft 支援合約。  
 
 ## <a name="additional-resources"></a>其他資源
-您可以使用 Microsoft 365 學習路徑網站以提供連結至任何新的或現有的使用者社群論壇。 如果您不需要一個已經，若要讓使用者共用其致勝並彼此了解，請考慮開始內部使用者群組。  如果您沒有時間以加強內部使用者群組，您和您的員工可以加入[Microsft Office 365 修社群](https://aka.ms/O365Champions)的每月的訓練、 線上社群和早期 access 中的成員資格工具和資源的 Office 365。
+您可以使用 Microsoft 365 學習路徑網站以提供連結至任何新的或現有的使用者社群論壇。 如果您不需要一個已經，若要讓使用者共用其致勝並彼此了解，請考慮開始內部使用者群組。  如果您沒有時間以加強內部使用者群組，您和您的員工可以加入的每月的訓練、 線上社群和早期 access 中的成員資格在[Microsoft Office 365 修社群](https://aka.ms/O365Champions)工具和資源的 Office 365。

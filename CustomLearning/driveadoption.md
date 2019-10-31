@@ -1,16 +1,16 @@
 ---
-title: ''
-description: ''
+title: 推動採用的學習路徑
+description: 推動採用的學習路徑
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
+ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 33c327327239e156cf15235c2b180b7b37539f04
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726697"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886976"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>磁碟機採用您學習路徑入口網站
 一旦您已自訂 Microsoft 365 學習路徑，並放在一起初始學習行銷活動，它的時間思考方式，您會收到使用者回到 Microsoft 365 學習終身學習和轉換的路徑。 您可以使用指導方針，採用 kit 和最佳作法 Microsoft 對可用來協助您執行成功的 Microsoft 365 學習路徑採用行銷活動，我們提供下列項目的指引，最佳作法和採用 Kit。 
@@ -71,7 +71,6 @@ ms.locfileid: "37726697"
 2.  試驗您自訂的版本的 Microsoft 365 學習與使用者代表群組的路徑，請勿採用計劃的乾澀執行。 根據意見試驗逐一查看的最終採用計劃。
 3.  執行採用行銷活動持續一段時間。 
 4.  加入推動採用社群。 Microsoft 365 學習路徑線上我們推動採用社群中的與共用您的使用經驗。 找出我們在https://aka.ms/DriveAdoption。 
-
 
 ## <a name="join-the-driving-adoption-community"></a>加入推動採用社群
 
