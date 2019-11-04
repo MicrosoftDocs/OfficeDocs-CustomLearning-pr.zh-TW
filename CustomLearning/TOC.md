@@ -5,7 +5,7 @@
 ## [獨立單獨的網頁組件設定](custom_manualsetup.md)
 # [系統管理員致勝中心](custom_successcenter.md)
 ## [11 月內容更新](custom_contentupdates.md)
-## [管理內容的更新](custom_managecontentupdates.md)
+## [管理內容的更新](custom_contentupdatesmanage.md)
 ## [11 月功能更新](custom_featureupdates.md)
 ## [規劃您的學習內容](custom_plancontent.md)
 ## [自訂學習路徑](custom_overview.md)
