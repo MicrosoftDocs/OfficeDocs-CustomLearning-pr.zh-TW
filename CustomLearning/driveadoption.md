@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886976"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956640"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>磁碟機採用您學習路徑入口網站
 一旦您已自訂 Microsoft 365 學習路徑，並放在一起初始學習行銷活動，它的時間思考方式，您會收到使用者回到 Microsoft 365 學習終身學習和轉換的路徑。 您可以使用指導方針，採用 kit 和最佳作法 Microsoft 對可用來協助您執行成功的 Microsoft 365 學習路徑採用行銷活動，我們提供下列項目的指引，最佳作法和採用 Kit。 
@@ -31,8 +31,8 @@ ms.locfileid: "37886976"
 - 共用網站與內容
 - 使用 Yammer 連線您的組織
 
-## <a name="use-the-download-adoption-kit"></a>使用下載採用套件
-若要協助您執行 Microsoft 365 學習路徑通訊活動，使用可下載採用 kit。 它包含： 
+## <a name="use-the-downloadable-adoption-kit"></a>使用可下載採用套件
+若要協助您執行 Microsoft 365 學習路徑通訊活動，使用[可下載採用 Kit](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)。 它包含： 
 
 - Microsoft 365 學習路徑建議可協助您規劃您的行銷活動的通訊活動行事曆
 - 使用者啟動及秘訣電子郵件範本，每個五個 Microsoft 365 案例。    

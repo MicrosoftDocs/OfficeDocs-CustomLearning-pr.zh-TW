@@ -4,12 +4,31 @@ ms.author: pkrebs
 title: 管理學習路徑內容更新
 ms.date: 10/20/2019
 description: 管理學習路徑內容更新
-ms.openlocfilehash: 27f7a06c8712a1729b7a8b245e2c4149d8fc577e
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: e59b05718192a5ace9ae6b8d999a26f5d7accbf9
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886876"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956510"
 ---
-# <a name="how-learning-content-updates-are-applied"></a>如何套用學習內容更新
-即將推出...]
+# <a name="manage-learning-pathways-content-updates"></a>管理學習路徑內容更新
+Microsoft 365 學習路徑目錄會根據每季更新。 目錄內容，也就是指向學習資產，support.office.com 上裝載的 JSON 中繼資料的一組，會儲存在全域快取中的組織租用戶中。 全域快取為自動更新當學習路徑網站集合管理員或擁有者開啟學習路徑管理] 頁面。 此外，全域快取已更新每隔 24 小時的學習路徑。 學習路徑使用者更新全域快取時，會自動出現內容更新目錄的應用程式。 學習路徑系統管理員可以隱藏子類別或播放清單，如果他們不想要將新的內容提供給使用者。
+
+學習與啟用系統管理員，您使用學習隱藏和取消隱藏子類別和播放清單以啟用 [管理] 頁面。 如果您不熟悉學習路徑 admininstration] 頁面上，請參閱[存取 [管理] 頁面](custom_accessadmin.md)。
+
+## <a name="hide-and-unhide-content-by-category"></a>隱藏和取消隱藏依類別的內容
+1. 學習路徑網站，指向 [**首頁**] 功能表，然後選取 [**學習路徑管理**首頁。
+2. **Microsoft 365 學習路徑**，在 [選取子類別。
+3. 選取子類別或您想要隱藏的播放清單的右邊眼。 例如，若要隱藏**Sway**類別和所有其播放清單，請選取眼右邊的**Sway**子類別。 自動儲存的所有變更。
+4. 若要確認您的變更已套用，從學習路徑網站、 從功能表中，選取 [ **Microsoft 365 訓練**，並再重新整理網頁瀏覽器。
+5. 要取消隱藏內容，請依照下列步驟 1 和 2 中，並再取消選取您想要取消隱藏內容眼。
+
+## <a name="to-hide-and-unhide-content-by-technology"></a>若要隱藏和取消隱藏技術的內容
+在某些情況下，您可能想要隱藏技術的內容。 例如，您可能想要隱藏 Yammer，包括 [產品] 下的 Yammer 播放清單和 Yammer 相關播放清單中的建議子類別的相關的所有內容。
+
+1. **學習路徑網站，指向 [**首頁**] 功能表，然後選取 [**學習路徑管理**首頁。**
+2. 在右上角的下拉式清單] 方塊中，選取**技術**。
+3. 在**Microsoft 365 學習路徑**，選取 [技術
+4. 選取您想要隱藏的技術右邊留意。 例如，若要隱藏的 Yammer 的內容，請選取右邊的**Yammer**技術眼。 自動儲存的所有變更。
+5. 若要確認您的變更已套用，從學習路徑網站、 從功能表中，選取 [ **Microsoft 365 訓練**，並再重新整理網頁瀏覽器。 您也可以從**學習路徑的首頁**] 頁面中選取 [**建議播放清單**，並確認您已隱藏的技術播放清單不會顯示。
+
