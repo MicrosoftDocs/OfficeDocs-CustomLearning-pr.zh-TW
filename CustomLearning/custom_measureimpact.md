@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 測量影響的 Microsoft 365 學習路徑
 ms.date: 02/10/2019
 description: 如何測量學習路徑的 Microsoft 365 的影響
-ms.openlocfilehash: 95162ed8cead823f58a033922898beb4a7175399
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 8beb4955208f14ca5d4bbc8a525d839d47e47b88
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34272671"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076007"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>測量的 Microsoft 365 學習路徑的影響
 
@@ -33,5 +33,5 @@ Office 365 系統管理中心 SharePoint 網站流量報告可讓系統管理員
 
 ## <a name="feedback"></a>意見反應
 
-截至今天，報告受限於 SharePoint 網站層級。 幫助您投票給[使用者的語音](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)論壇我們幫助您排列增強型報告功能要求的優先順序。   
+截至今天，報告受限於 SharePoint 網站層級。 幫助您投票給[使用者的語音](https://go.microsoft.com/fwlink/?linkid=2109552)論壇我們幫助您排列增強型報告功能要求的優先順序。   
 
