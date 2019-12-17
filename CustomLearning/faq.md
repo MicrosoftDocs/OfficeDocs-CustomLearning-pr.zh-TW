@@ -4,12 +4,12 @@ ms.author: karuanag
 title: 常見問題集的 Microsoft 365 學習路徑
 ms.date: 02/10/2019
 description: Microsoft 365 學習路徑的常見問題集資訊
-ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
+ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35636107"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068814"
 ---
 # <a name="frequently-asked-questions"></a>常見問題集
 
@@ -38,7 +38,7 @@ Microsoft 365 學習路徑目前是 Beta 預覽中。 當您評估、 規劃及�
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>哪些語言 Microsoft 365 學習路徑中可用？
 
-Microsoft 365 學習路徑是目前僅提供英文版本。 自動端對端佈建只適用於英文的租用戶。 我們計劃推行 CY19 Q4 這些九個語言的多語系支援： 
+Microsoft 365 學習路徑是目前僅提供英文版本。 自動端對端佈建只適用於英文的租用戶。 我們計劃中第一季 2020年推行這些九個語言的多語系支援。 
 
 - 簡體中文 
 - 荷蘭文 (荷蘭) 
