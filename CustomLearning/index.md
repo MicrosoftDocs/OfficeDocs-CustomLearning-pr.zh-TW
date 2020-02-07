@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Microsoft 365 學習路徑概觀
 ms.date: 10/23/2019
 description: 了解如何使用情況和採用您組織中的 Microsoft 365 服務可以開始加速 Microsoft 365 學習路徑。 學習路徑包含自訂 SharePoint Online 網頁組件和新式 SharePoint Online 的通訊訓練網站輕鬆地佈建至 Microsoft 365 租用戶。
-ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
+ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38626607"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41831889"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 學習路徑 
-Microsoft 365 學習路徑是設計用來增加使用情況和採用 Microsoft 365 服務組織中的可自訂的隨選學習解決方案。   
+Microsoft 365 學習路徑是設計用來增加使用情況和採用 Microsoft 365 服務組織中的可自訂的隨選學習解決方案。    
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>來自 Microsoft 的隨選、 自訂訓練
 
@@ -36,7 +36,7 @@ Microsoft 365 學習路徑是設計用來增加使用情況和採用 Microsoft 3
 2. 調整學習路徑為您的環境。
 3. 您使用我們[採用工具](driveadoption.md)的使用者與共用學習路徑。
 
-## <a name="feedback-and-support"></a>意見反應及支援
+## <a name="feedback-and-support"></a>意見反應與支援
 
 Microsoft 365 學習路徑是透過 GitHub 上我們[online 問題清單](https://aka.ms/CustomLearningHelp)支援開放原始碼專案。 學習路徑解決方案和它的元件未涵蓋的任何現有的 Microsoft 支援合約。  
 
