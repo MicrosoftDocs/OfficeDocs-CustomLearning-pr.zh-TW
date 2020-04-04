@@ -1,86 +1,87 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: 常見問題集的 Microsoft 365 學習路徑
+title: Microsoft 365 學習路徑的常見問題
 ms.date: 02/10/2019
-description: Microsoft 365 學習路徑的常見問題集資訊
-ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
-ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
+description: Microsoft 365 學習路徑的常見問題資訊
+ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068814"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141366"
 ---
 # <a name="frequently-asked-questions"></a>常見問題集
 
-### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>我最近所看到的部落格文章，自訂 Office 365 學習要重新命名為 Microsoft 365 學習路徑。 是否有一部分重新命名工作新增至解決方案的其他變更？ 應該更新解決方案在我的組織中？
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>我最近看到過的博客文章會將 Office 365 的自訂學習重新命名為 Microsoft 365 學習路徑。 在重新命名的工作量中，是否要將其他變更新增至解決方案？ 我應該更新組織中的方案嗎？
 
-學習路徑版 Microsoft 365 是以符合 Microsoft 365 品牌的 rebranding 努力專用於變更解決方案的名稱。 如果您有自訂學習目前正在執行順利在組織中的 Office 365 時，它不需要這一次更新解決方案。  
+Microsoft 365 學習路徑發行是一項 ..org 的工作，專門用來變更解決方案的名稱，以與 Microsoft 365 署名。 如果您已在組織中成功執行 Office 365 的自訂教學，則目前不需要更新解決方案。  
 
-### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>安裝 Microsoft 365 學習路徑到我的租用戶環境的需求是甚麼？
+### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>在我的租使用者環境中安裝 Microsoft 365 學習路徑的必要條件為何？
 
-- SharePoint Online 和通訊網站啟用。
-- 佈建 CLO365 個別必須安裝目標租用戶的租用戶系統管理員。
-- 租用戶 '應用程式目錄' 必須是 SharePoint 系統管理中心的 「 應用程式' 選項中可用的。
-- 如果在建立新的應用程式目錄，30 分鐘或更久的等候時間有要完全佈建的應用程式目錄。 嘗試佈建 Microsoft 365 學習路徑建立租用戶應用程式目錄之後，直接將會導致學習佈建錯誤路徑解決方案。 
-- 佈建 CLO365 個別必須在目標租用戶以供安裝的應用程式目錄網站集合管理員。
+- 已啟用 SharePoint 線上和通訊網站。
+- 將要布建 CLO365 的個人必須是安裝目標租使用者的租使用者系統管理員。
+- 租使用者 "應用程式目錄" 必須可用於 SharePoint 系統管理中心的「應用程式」選項中。
+- 如果建立新的應用程式目錄，則需要30分鐘以上的等候時間，才能完全布建應用程式目錄。 嘗試在建立租使用者應用程式目錄之後，直接布建 Microsoft 365 教學路徑，將會導致「學習路徑」解決方案的布建錯誤。 
+- 將會布建 CLO365 的個人必須是目標租使用者中應用程式目錄的網站集合管理員，才可進行安裝。
 
-### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>為什麼會 Microsoft 詢問租用戶權限安裝 Microsoft 365 學習路徑時 
+### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>為什麼 Microsoft 在安裝 Microsoft 365 學習路徑時要求租使用者許可權 
 
-- SharePoint Online 佈建服務使用的權限，若要佈建學習路徑 SharePoint 網站，請建立的網站] 頁面，以及安裝 Microsoft 365 學習其租用戶中的啟用應用程式。 這是我們要求的權限的唯一原因。 沒有 SharePoint 佈建服務無法執行要求的權限的命令，會自動安裝學習路徑的網站範本和網頁組件。 
+- SharePoint 線上布建服務使用將學習路徑布建 SharePoint 網站、建立網站頁面，以及在其承租人中安裝 Microsoft 365 學習路徑應用程式的許可權。 這是我們要求許可權的唯一原因。 若沒有要求的許可權，SharePoint 提供服務無法執行自動安裝學習路徑網站範本與網頁元件的命令。 
 
-### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>學習路徑正在 Beta 預覽中的 Microsoft 365 的影響為何？ 
+### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>Microsoft 365 學習路徑在 Beta Preview 中的含義為何？ 
 
-Microsoft 365 學習路徑目前是 Beta 預覽中。 當您評估、 規劃及實作 Microsoft 365 學習路徑，請考慮下列：
+Microsoft 365 學習路徑目前是 Beta 預覽。 請在評估時考慮下列專案，以規劃及實施 Microsoft 365 學習路徑：
 
-- 為與任何 Beta 解決方案我們的服務管理小組的權利服務和其元件進行變更。 當我們主動已解決錯誤和 UX 問題可能需要更新網頁組件。
-- 若要更新的網頁組件，您必須下載來自我們 GitHub 存放庫，並將其上傳到您的租用戶的應用程式目錄。 請參閱 Microsoft 365 學習路徑[讀我](https://github.com/pnp/custom-learning-office-365/blob/master/README.md)檔案 」 更新解決方案 」 一節。 
+- 就像在任何 Beta 方案中，我們的服務管理小組都會保留變更服務及其元件的權利。 當我們積極解決 bug 和 UX 問題時，您可能需要更新 WebPart。
+- 若要更新網頁元件，您必須從我們的 GitHub 存放庫下載該網頁元件，並將其上傳至您的租使用者應用程式目錄。 請參閱 Microsoft 365 學習路徑[自述](https://github.com/pnp/custom-learning-office-365/blob/master/README.md)檔的「更新解決方案」一節。 
 
-### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>哪些語言 Microsoft 365 學習路徑中可用？
+### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 教學路徑中提供的語言為何？
 
-Microsoft 365 學習路徑是目前僅提供英文版本。 自動端對端佈建只適用於英文的租用戶。 我們計劃中第一季 2020年推行這些九個語言的多語系支援。 
+目前只有英文版本的 Microsoft 365 教學路徑。 自動端對端布建只適用于英文承租人。 在2020的第二季度，我們計畫推出下列語言的多語系支援。 
 
 - 簡體中文 
-- 荷蘭文 (荷蘭) 
 - 法文  
 - 德文 
 - 義大利文 (義大利) 
-- 日文 （日本）  
-- 葡萄牙文 （巴西） 
-- 俄文 （俄羅斯）  
+- 日文（日本）  
+- 葡萄牙文（巴西） 
+- 俄文（俄文）  
 - 西班牙文 
 
-### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>如何將它需要花費時間我們租用戶環境中安裝網站？
+> 對荷蘭文言的支援，將不會包含在教學路徑的後續版本中的支援。 我們將在未來繼續評估新的語言選項。
 
-根據我們的測試的安裝，它應該採取小於 15 分鐘。 這不包括自訂網站，您的需求所需的時間。
+### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>在我們的承租人環境中安裝網站所需的時間多久？
 
-### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>為 Microsoft 365 學習路徑開放原始碼解決方案，以及它們所造成影響？
+根據我們的安裝測試，它應該需要不到15分鐘的時間。 這不包括針對您的需求自訂網站所需的時間。
 
-學習路徑的 Microsoft 365 是開啟來源軟體 (OS) 解決方案，因此執行一組的優勢及考量 OSS 密切關係：
+### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 教學是指開放的來源方案和含義為何？
+
+Microsoft 365 學習途徑是開放式來源軟體（OSS）解決方案，如此一來，對 OSS 有一組優點和考慮 germane：
 
 #### <a name="benefits"></a>效益 
-- **學習路徑的 Microsoft 365 是免費的解決方案：** 客戶可以其租用戶中安裝解決方案、 自訂及提供給使用者
-- **OSS 可讓開發速度和共同作業：** 所有的開放原始碼解決方案可廣泛社群參與者。  Microsoft 致力於主導狀態的創新此方法。  若要確保我們會提供福利我們的客戶的最寬集經驗我們核心服務管理小組，會保留至判斷哪些捐款已合併成我們正式組建權利。  
-- **OSS 可讓與合作夥伴共同作業：** Microsoft 會使用數個學習合作夥伴，支援其努力未來的擴充功能和 Microsoft 365 學習路徑的貢獻。 我們將提供這些計劃成為完成的更多資訊。 
+- **Microsoft 365 學習途徑是免費的解決方案：** 客戶可以在他們的承租人中安裝解決方案，加以自訂，並讓使用者可以使用
+- **OSS 可讓您快速開發及**共同作業： 所有開啟的來源方案都可供廣泛的投稿人員群組使用。  Microsoft 致力於這種促進創新的方法。  為了確保我們所提供的體驗可為我們最廣泛的客戶提供好處，我們的核心服務管理小組會預約適當的權利，以判斷哪些發佈內容會與我們的官方組建合併。  
+- **OSS 可與合作夥伴**共同作業：Microsoft 與數名學習協力廠商合作，以支援其未來擴充的工作，以及對 Microsoft 365 教學路徑的貢獻。 我們將在這些計畫變成定稿時提供詳細資訊。 
     
 #### <a name="implications"></a>影響
-- **OSS 不是售產品：** 商業產品包括更新及修補程式，而且會包含在付費支援合約。 Microsoft 目前提供文件，而更新及修補用於 Microsoft 365 學習路徑它根據我們致力於改善此特定的商務案例。 我們計劃来繼續投資學習路徑，但客戶應該要知道我們的服務管理小組在未來可能變更的策略。 Microsoft 365 學習路徑任何未來的變更會傳達遲生效。 
-- **透過 GitHub 上的線上的問題清單支援為 OSS、 Microsoft 365 學習路徑**： Microsoft 365 學習路徑未涵蓋的任何現有的 Microsoft 支援合約。 送出的問題會由 Microsoft 365 學習路徑服務擁有者和社群進行分級。 此問題： 解決方案服務層級不是做為付費的 Microsoft 支援合約相同層級。  
+- **OSS 並非商業可用產品：** 商業產品包括更新及修補程式，並隨附于收費支援合同中。 Microsoft 目前提供檔、更新及修補 Microsoft 365 的教學路徑，是以改進此特定商務案例的承諾為基礎。 我們的計畫是繼續投資學習路徑，但是客戶應注意，我們的服務管理小組以後可能會變更策略。 任何未來對 Microsoft 365 學習路徑所做的變更都會在生效之前進行傳遞。 
+- **在 OSS 中，您可以透過 GitHub 上的線上問題清單支援 microsoft 365 教學路徑**：任何現有的 microsoft 支援合同都不會涵蓋 microsoft 365 學習路徑。 提交的問題是由 Microsoft 365 學習路徑服務擁有者和社區所會審。 問題解決方式服務層級與「付費的 Microsoft 支援合同」不符。  
 
-### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>我們讓學習路徑 Microsoft 365 我們主要 SharePoint 網站集合的子網站？
+### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>我們是否可以讓 Microsoft 365 教學成為主要 SharePoint 網站集合的子網站？
 
-否。 網站根據通訊網站範本，這一律是用來在根網站集合。
-
-> [!NOTE]
-> 請務必考慮您的使用者需要存取網站的權限。 大多數的組織已定義的安全性或使用者群組。 一旦您準備好要啟動至您的員工社群，必須將適當的安全性群組新增至新的訓練入口網站。
-
-### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>我需要重新安裝網站;我該怎麼辦？
-
-請遵循安裝指示發佈[以下](custom_provision.md)。
+否。 網站是以通訊網站範本為基礎，該範本永遠是根網站集合。
 
 > [!NOTE]
-> 如果您有已停用您先前的安裝中的遙測，可能會想要繼續使用遙測停用，您必須遵循指示來停用遙測以下。
+> 請務必考慮您的使用者存取網站所需的許可權。 大多陣列織已定義安全性或使用者群組。 您準備好將適當的安全性群組新增至您的員工群組之後，您必須將適當的安全性群組新增至新的訓練入口網站。
 
-### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>我們對更新我們實作的 Microsoft 365 學習路徑。 如果我們重新安裝網站，我們有遺失 （對網站範本，播放清單） 這些更新會嗎？
+### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>我需要重新安裝網站;我該怎麼做？
 
-如果您透過您目前安裝重新安裝網站自訂個別頁面及自訂播放清單將會遺失。  
+遵循[這裡](custom_provision.md)發佈的安裝指示。
+
+> [!NOTE]
+> 如果您已在先前的安裝中停用遙測，且想要繼續遙測停用，您必須遵循在此停用遙測的指示。
+
+### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>我們對 Microsoft 365 學習路徑的實施進行更新。 如果重新安裝網站，我們會失去這些更新（對網站範本，播放清單進行）？
+
+如果您在目前的安裝上重新安裝網站，將會遺失個別頁面和自訂播放清單的自訂。  
