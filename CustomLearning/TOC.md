@@ -3,11 +3,14 @@
 ## [佈建 Microsoft 365 學習路徑](custom_provision.md)
 ## [探索 Microsoft 365 學習路徑網站](custom_exploresite.md)
 ## [獨立網頁組件設定](custom_manualsetup.md)
-# [系統管理成功中心](custom_successcenter.md)
-## [11 月內容更新](custom_contentupdates.md)
+# 新功能 
+## [內容更新](custom_contentupdates.md) 
 ## [管理內容更新](custom_contentupdatesmanage.md)
-## [11 月功能更新](custom_featureupdates.md)
-## [規劃您的學習內容](custom_plancontent.md)
+## [功能更新](custom_featureupdates.md)
+# [系統管理成功中心](custom_successcenter.md)
+## 規劃學習內容 
+### [規劃您的學習內容](custom_plancontent.md)
+### [支援遠端員工的資源](custom_plancontent_remoteresources.md)
 ## [自訂學習路徑](custom_overview.md)
 ### [移至 M365 學習路徑網站](custom_goto.md)
 ### [自訂網站](custom_edithelp.md)
