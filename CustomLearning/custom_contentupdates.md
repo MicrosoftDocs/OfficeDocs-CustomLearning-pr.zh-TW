@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 學習路徑內容更新
 ms.date: 3/30/2020
 description: 學習2020年4月內容更新的途徑
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141378"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191340"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 學習路徑內容更新
 學習途徑致力於遵循每季內容更新週期。 下列清單2020年4月的內容更新。
@@ -109,9 +109,9 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 共用您的檔
 - 建立可共用的連結
 - 僅將檔案保護為特定人員
-- 與組織外部的人員共用
+- 與組織外部的人員共用 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 根據要求，也有一些新的表單資產。 
 #### <a name="forms-4-new-assets"></a>表單（4個新資產） 
 - 建立表單 
@@ -119,7 +119,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 查看表單的結果 
 - Microsoft Forms 的常見問題 
 
-### <a name="resources-for-supporting-your-remote-workforce"></a>支援您遠端員工的資源
+### <a name="resources-for-supporting-your-remote-workforce"></a>支援遠端員工的資源
 您可以使用學習路徑，在您的學習路徑網站中建立登陸頁面以支援遠端工作者。 或者，您可以將「學習路徑」網頁元件新增至學習路徑網站上的現有支援頁面，並篩選網頁元件以顯示可遠端播放清單。 以下是 Microsoft 的部分熱門資源清單，可支援組織中的遠端工作。 
 - [如何推廣 Microsoft 團隊](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
 - [Microsoft Teams 中的會議和召集會議](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
@@ -130,7 +130,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - [教育版： Microsoft 教育中心](https://education.microsoft.com) 
 - [教育：遠端教學快速入門](https://education.microsoft.com/resource/4c0c02c0)
 
-如需如何自訂學習路徑的詳細資訊，請參閱 [自訂學習路徑] （（custom_overview md）。 
+如需如何自訂學習路徑的詳細資訊，請參閱[自訂學習路徑](custom_overview.md)。 
 
 ## <a name="november-2019-content-updates"></a>2019年11月內容更新
 歡迎使用 Microsoft 365 學習路徑內容更新。 從我們11月的2019更新開始，我們將提供每季更新的學習路徑目錄更新清單。 在2019年11月的更新中，下列新的內容子類別和播放清單已新增至學習路徑目錄。 若要深入瞭解如何套用內容更新，以及如何管理內容更新，請參閱[管理內容更新](custom_contentupdatesmanage.md)。    
