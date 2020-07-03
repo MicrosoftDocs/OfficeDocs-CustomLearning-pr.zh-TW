@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 布建新的教學路徑多語系網站
+title: 布建新的教學路徑多語系解決方案
 ms.date: 02/10/2019
 description: 透過 SharePoint 布建服務布建 Microsoft 365 學習路徑網站
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: ca565a113056a915cfc780568ca36777bbf8f5bb
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699025"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031709"
 ---
-# <a name="provision-a-new-learning-pathways-multilingual-site"></a>布建新的教學路徑多語系網站
+# <a name="provision-a-new-learning-pathways-multilingual-solution"></a>布建新的教學路徑多語系解決方案
 未在其承租人中布建學習路徑的組織，可將多語系學習路徑方案新增至其租使用者。 使用此選項，「教學」路徑 SharePoint 範本會轉譯成九種語言，且最少可用於修改。 
 
 > [!IMPORTANT]

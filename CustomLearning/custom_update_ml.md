@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 更新 Microsoft 365 學習路徑
+title: 更新多語言支援的學習路徑
 ms.date: 05/20/2019
-description: 更新 Microsoft 365 學習路徑
+description: 更新多語言支援的學習路徑
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: cf058d0b8953f39a8243ffc91ab31fc5941c5674
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699022"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031699"
 ---
-# <a name="update-microsoft-365-learning-pathways"></a>更新 Microsoft 365 學習路徑
+# <a name="update-learning-pathways-for-multilingual-support"></a>更新多語言支援的學習路徑
 如果您有現有的學習路徑網站，您可以更新它以進行多語言支援。 若要將學習路徑更新為多語系4.0 版本，請將網頁元件套件（customlearning）上傳至 SharePoint 租使用者目錄。 當您更新學習路徑：  
 
 - 先前建立的任何自訂播放清單和資產都將維護
@@ -41,7 +41,7 @@ ms.locfileid: "44699022"
 - 在 [**新增或移除網站語言**] 底下，開始在 [**選取] 或 [輸入語言**] 中輸入語言名稱，或從下拉式清單中選擇語言。 您可以重複此步驟來新增多種語言。 您可以隨時在網站中新增或移除語言，只要回到此頁面。
  
 ### <a name="assign-translators"></a>指派翻譯員
-在定義學習路徑的語言設定時，您可以指派翻譯人員。 翻譯員應設定外部語言設定檔。 如需外國語言設定檔的詳細資訊，請參閱[建立多語言通訊網站、頁面和新聞](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。  
+在定義學習路徑的語言設定時，您可以指派翻譯人員。 翻譯員應設定外部語言設定檔。 如需外國語言設定檔的詳細資訊，請參閱[建立多語言通訊網站、頁面和新聞](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。  
 - 如需支援的語言，請按一下 [**選取或輸入翻譯工具**]，然後選取翻譯工具。 
 
 ## <a name="update-the-learning-pathways-web-part-package"></a>更新「學習路徑」網頁元件套件
