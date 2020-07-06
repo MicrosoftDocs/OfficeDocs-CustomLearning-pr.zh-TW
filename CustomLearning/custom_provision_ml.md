@@ -5,15 +5,15 @@ title: 布建新的教學路徑多語系解決方案
 ms.date: 02/10/2019
 description: 透過 SharePoint 布建服務布建 Microsoft 365 學習路徑網站
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031709"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038993"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>布建新的教學路徑多語系解決方案
-未在其承租人中布建學習路徑的組織，可將多語系學習路徑方案新增至其租使用者。 使用此選項，「教學」路徑 SharePoint 範本會轉譯成九種語言，且最少可用於修改。 
+在其承租人中未布妥學習路徑的組織，可使用 SharePoint 布建服務，以新增多語系學習路徑方案。 使用此選項，「教學」路徑 SharePoint 範本會轉譯成九種語言，且最少可用於修改。 
 
 > [!IMPORTANT]
 > 如果您已在租使用者中布建學習路徑，建議您遵循學習路徑的[更新路徑](custom_update_ml.md)。 如果您在租使用者中的現有實例上安裝學習路徑，則對「學習路徑」網站範本或播放清單所做的任何變更，都可能會遺失。
@@ -73,12 +73,12 @@ ms.locfileid: "45031709"
 5. 在 [共用郵件] 中新增[流覽網站的](custom_exploresite.md)連結，然後按一下 [**共用**]。
 
 ## <a name="add-translators-to-the-site"></a>將翻譯人員新增至網站
-翻譯人員需要網站的成員許可權或更高的許可權。 
+如果您將使用該網站的翻譯人員，您可以將許可權指派給他們。 翻譯人員需要成員許可權或更高許可權。 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>選擇在網站上使用多種語言的選項
 SharePoint 布建服務以九種語言建立學習路徑網站。 適用的建議如下：
 - 關閉您不想要支援的語言
-- 如果您不支援多語系網站，請關閉 [多語言] 功能。 
+- 如果您不支援多語系網站，請關閉 [多語言] 功能。 請參閱本主題稍後的「關閉多種語言支援」一節。
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>移除不想要支援的語言
 針對選擇只支援一種語言的組織，除了預設英文語言之外，我們建議移除不支援的語言。 
@@ -102,6 +102,11 @@ SharePoint 布建服務以九種語言建立學習路徑網站。 適用的建�
 
 ## <a name="turn-off-multilingual-support"></a>關閉多語言支援
 例如，如果您不想要使用多語系網站，則建議您關閉多語系功能。 
+
+1. 從 [學習路徑] 網站中，選取頁面右上角的 [**設定**]，然後選取 [**網站資訊**]。
+2. 在 [網站資訊] 窗格的底部，選取 [**查看所有網站設定**]。
+3. 在 [**網站管理**] 下，選取 [**語言設定**]。
+4. 在 [**讓頁面和新聞轉譯成多種語言**] 底下，將開關滑動至 [**開啟**]。 預設值應為 On。
 - 在 [**允許翻譯頁面和新聞**] 底下，選取 [**關閉**]。 
 
 ### <a name="add-languages"></a>新增語言

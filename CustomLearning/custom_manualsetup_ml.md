@@ -5,12 +5,12 @@ title: 學習路徑手動設定
 ms.date: 02/10/2019
 description: 學習路徑手動設定
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 42e7aeeff7639f7fe77b12d60371ad6efe67f782
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
+ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037226"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038973"
 ---
 # <a name="learning-pathways-manual-setup"></a>學習路徑手動設定
 
@@ -18,7 +18,7 @@ Microsoft 365 教學路徑為需要支援下列其中一種案例的組織提供
 
 - 您的組織具有專用於訓練的 SharePoint 線上新式通訊網站，且您想要將學習路徑新增至該網站。 在此情況下，尚未在網站上設定「學習路徑」網頁元件。
 
-- 您想要在其中一個組織的 SharePoint 通訊網站中，安裝多種語言支援的學習路徑。 該網站的預設語言不是英文，但它是學習路徑支援的其中一種語言。 以下是學習路徑支援的語言：
+- 您想要在其中一個組織的 SharePoint 通訊網站中，安裝多種語言支援的學習路徑。 該網站的預設語言不是英文，也就是學習路徑所支援的語言之一。 以下是學習路徑支援的語言：
 
 - English
 - 簡體中文
@@ -30,23 +30,20 @@ Microsoft 365 教學路徑為需要支援下列其中一種案例的組織提供
 - 俄文（俄文）
 - 西班牙文
 
-手動設定學習路徑需要使用 Windows PowerShell 和 SharePoint 線上管理命令介面。 以下是手動設定學習路徑的步驟： 
+手動設定學習路徑需要使用 Windows PowerShell 和 SharePoint 線上管理命令介面。 以下是手動設定學習路徑的步驟概述： 
 
 - 確認您已符合所有必要條件。
 - 檢查網站的預設語言設定。 若確定，請繼續手動安裝。 如果您需要不同的預設語言設定，則需要建立新的網站。 
 - 在 SharePoint 租使用者應用程式目錄中安裝 customlearning sppkg 檔案。
 - 布建/識別現代化的通訊網站，以充當您的 Microsoft 365 教學路徑主網站。
-- 執行 PowerShell 腳本，將設定您的租使用者，使其具有學習路徑所依賴的適當工件。
+- 執行 PowerShell 腳本，它會將您的租使用者設定為教學路徑所依據的工件。
 - 流覽至 CustomLearningAdmin 中的 [.aspx 網站] 頁面，載入管理網頁元件以初始化自訂內容設定。
-
-> [!NOTE]
-> 如果您正在尋找快速快捷的方式來設定學習路徑，請參閱布建[Microsoft 365 教學路徑](custom_provision.md)。
 
 ## <a name="prerequisites"></a>先決條件
 為了確保成功手動設定「學習路徑」網頁元件，必須符合下列必要條件。 
 
-- 您必須已設定並設定整個租使用者型應用程式目錄。 請參閱[設定您的 Office 365 租使用者](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)，並遵循 [建立應用程式目錄網站] 區段。 
-- 如果您已布建整個租使用者的應用程式目錄，則需要存取權將套件上傳至其的帳戶，才可完成此設定程式。 一般來說，此帳戶具有 SharePoint 系統管理員角色。 
+- 您必須已設定並設定整個租使用者型應用程式目錄。 請參閱[設定您的 Office 365 租使用者](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)，並遵循「建立應用程式目錄」網站一節。 
+- 如果您已布建整個租使用者的應用程式目錄，您必須存取具有上傳套件之許可權的帳戶。 一般來說，此帳戶具有 SharePoint 系統管理員角色。 
 - 若具有該角色的帳戶不能運作，請移至 SharePoint 系統管理中心，並尋找應用程式目錄網站集合的網站集合管理員，並以其中一個網站集合管理員身分登入，或新增網站集合管理員失敗的 SharePoint 系統管理員帳戶。 
 - 您也需要存取屬於 SharePoint 租使用者管理員的帳戶。
 
@@ -76,7 +73,7 @@ SharePoint 通訊網站具有預設語言。 預設語言會決定您用來查�
 3. 如有必要，請新增其他語言，然後按一下 [**儲存**]。 
 4. 繼續進行步驟2。 
 
->!記如果您需要將自訂內容從網站遷移至新建立的網站，請參閱[遷移自訂內容](Migrate custom content)。 
+>!記如果您需要將自訂內容從網站遷移至新建立的網站，請參閱本檔稍後的「遷移自訂內容」一節。 
 
 ## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>步驟 2-從 GitHub 取得網頁元件套件和安裝程式腳本
 在設定過程中，您將需要 Microsoft 365 學習路徑網頁元件套件和 PowerShell 安裝程式腳本。
@@ -129,8 +126,9 @@ SharePoint 通訊網站具有預設語言。 預設語言會決定您用來查�
 5. 在 [共用郵件] 中新增[流覽網站的](https://docs.microsoft.com/Office365/CustomLearning/custom_explore)連結，然後按一下 [**共用**]。
 
 ## <a name="migrate-custom-content"></a>遷移自訂內容
-依照上述步驟重新建立學習路徑網站後，您必須移動**CustomPlaylists**清單和**CustomAssets**清單的內容。 您也可以選擇性地移動實際自訂資產的自訂頁面，如果這些頁面位於現有的學習路徑網站中，您也可以將它刪除。 由於**CustomPlaylists**清單中的所有專案，此工作可能會很困難，因為**CustomAssets**清單中的清單專案識別碼會隱藏在每個播放清單專案的 JSONData 欄位中。 所以，只要將**CustomPlaylists**清單的內容從一個網站移至另一個網站，就無法滿足要求。 此外， **CustomAssets**清單會在清單專案的 [JSONData] 欄位中包含自訂資產頁面的絕對 URL。 若資產未移動，且網站未重新命名（因而將絕對 URL 變更為資產頁面），則**CustomAssets**可以保留。 不過，您必須手動修正專案。 由於這種遷移類型的複雜度，我們建議您考慮登記我們的一個學習路徑合作夥伴，以協助您進行這項轉換。
+依照上述步驟重新建立學習路徑網站後，您必須移動**CustomPlaylists**清單和**CustomAssets**清單的內容。 您也可以選擇性地移動實際自訂資產的自訂頁面，如果這些頁面位於現有的學習路徑網站中，您也可以將它刪除。 由於**CustomPlaylists**清單中的所有專案，此工作可能會很困難，因為**CustomAssets**清單中的清單專案識別碼會隱藏在每個播放清單專案的 JSONData 欄位中。 所以，只要將**CustomPlaylists**清單的內容從一個網站移至另一個網站，就無法滿足要求。 此外， **CustomAssets**清單會在清單專案的 [JSONData] 欄位中包含自訂資產頁面的絕對 URL。 若資產未移動，且網站未重新命名（因而將絕對 URL 變更為資產頁面），則**CustomAssets**可以保留。 不過，您必須手動修正專案。 由於這種遷移類型的複雜度，我們建議您考慮登記我們的一個學習路徑合作夥伴，以協助您進行這項轉換。 
 
 ### <a name="next-steps"></a>後續步驟
-- [自訂](custom_overview.md)組織的訓練體驗。
+- 請參閱[自訂學習路徑](custom_overview.md)。 
+- 請參閱[翻譯網站頁面](custom_translate_page_ml.md)。
 
