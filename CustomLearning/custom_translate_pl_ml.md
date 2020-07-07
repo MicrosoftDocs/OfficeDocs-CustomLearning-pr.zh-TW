@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: 翻譯學習路徑自訂播放清單
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: 翻譯學習路徑自訂播放清單
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039003"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048131"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>翻譯學習路徑自訂播放清單
 透過學習路徑，使用自訂播放清單的方式，取決於您設定學習路徑的方式。  
@@ -137,5 +135,5 @@ ms.locfileid: "45039003"
 3. 進行頁面的翻譯，然後按一下 [**發佈**]。   
 
 ## <a name="for-more-information"></a>相關資訊
-- 如需自訂學習路徑的詳細資訊，請參閱[自訂學習路徑](custom_overview.md)。  
+- 如需自訂學習路徑的詳細資訊，請參閱[自訂學習路徑](custom_overview.md)。 
 

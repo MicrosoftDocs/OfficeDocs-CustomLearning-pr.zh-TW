@@ -5,14 +5,13 @@ title: 學習路徑手動設定
 ms.date: 02/10/2019
 description: 學習路徑手動設定
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038973"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043275"
 ---
-# <a name="learning-pathways-manual-setup"></a>學習路徑手動設定
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>深入瞭解多語系之手動安裝的路徑
 
 Microsoft 365 教學路徑為需要支援下列其中一種案例的組織提供手動設定：
 
@@ -39,7 +38,7 @@ Microsoft 365 教學路徑為需要支援下列其中一種案例的組織提供
 - 執行 PowerShell 腳本，它會將您的租使用者設定為教學路徑所依據的工件。
 - 流覽至 CustomLearningAdmin 中的 [.aspx 網站] 頁面，載入管理網頁元件以初始化自訂內容設定。
 
-## <a name="prerequisites"></a>先決條件
+## <a name="prerequisites"></a>必要條件
 為了確保成功手動設定「學習路徑」網頁元件，必須符合下列必要條件。 
 
 - 您必須已設定並設定整個租使用者型應用程式目錄。 請參閱[設定您的 Office 365 租使用者](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)，並遵循「建立應用程式目錄」網站一節。 

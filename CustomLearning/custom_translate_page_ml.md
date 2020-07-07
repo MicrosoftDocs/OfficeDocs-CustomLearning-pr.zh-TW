@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: 轉譯網站頁面
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: 轉譯網站頁面
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038983"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048111"
 ---
 # <a name="translate-site-pages"></a>轉譯網站頁面
 在您開始翻譯「學習路徑」網站之前，請務必瞭解多語系功能如何搭配學習路徑使用的幾個重要概念。 
 - 網站資訊-導覽、標誌和網站名稱轉譯需要在使用者的語言設定檔中查看和轉譯網站。  
 - 「學習路徑」網頁元件必須以使用者的語言設定檔進行查看，其才會以非英文語言顯示。 網頁元件和 Microsoft 提供的內容已為您轉譯。 如需語言設定檔的詳細資訊，請參閱[變更您的個人語言和區域設定](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。
-- 您設定學習路徑的方式會決定您是否有翻譯的頁面可供使用。 使用 SharePoint 布建服務布建的新網站，可使用九種語言的翻譯頁面。 您建立的已更新網站或網站需要手動轉譯。 請參閱[多語系學習路徑的安裝選項](custom_setupoptions_ml.md)。
+- 您設定學習路徑的方式會決定您是否有翻譯的頁面可供使用。 使用 Microsoft 365 的「檢查手冊」服務布建的新網站，可使用九種語言的翻譯頁面。 您建立的已更新網站或網站需要手動轉譯。 請參閱[多語系學習路徑的安裝選項](custom_setupoptions_ml.md)。
 - 針對通訊網站 SharePoint 線上多語言功能，可啟用教學路徑的多語系支援。 若要深入瞭解 SharePoint 線上多種語言功能，請參閱[建立多語系通訊網站、頁面和新聞](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>使用新布建的網站
-如果您從 SharePoint 布建服務布建新的學習路徑網站，已翻譯的頁面已可供您使用。 根據預設，網站會提供下列頁面：
+如果您已從 Microsoft 365 [查詢] 的 [查詢] 頁面服務布建新的學習路徑網站，則已翻譯的頁面已可供您使用。 根據預設，網站會提供下列頁面：
 
 - 首頁 .aspx
 - Start-with-Six-Simple-Steps .aspx

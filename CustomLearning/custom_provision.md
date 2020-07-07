@@ -1,66 +1,112 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 佈建 Microsoft 365 學習路徑網站
+title: 提供新的學習路徑解決方案
 ms.date: 02/10/2019
-description: 佈建學習路徑網站 SharePoint 佈建服務透過 Microsoft 365
-ms.openlocfilehash: 7bffd8ae68099e8def1fa7a8b8620d95b4b65740
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
-ms.translationtype: MT
+description: 使用 Microsoft 365 考察簿服務布建 Microsoft 365 學習路徑網站
+ms.openlocfilehash: 2ab7ca9c7c66ce86be09fcfd95d3ccfd18682777
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956673"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048121"
 ---
-# <a name="provision-microsoft-365-learning-pathways"></a>佈建 Microsoft 365 學習路徑
-
-SharePoint Online 佈建服務時，Office 365 租用戶系統管理員可以啟動簡單按幾下的佈建程序。 佈建服務是佈建學習路徑的建議的方法。 它是快速又簡單，而且只需幾分鐘開始程序。 開始之前與佈建服務，但請確定您已符合佈建的必要條件。
+# <a name="provision-a-new-learning-pathways-solution"></a>提供新的學習路徑解決方案 
+在其承租人中未布妥學習路徑的組織，可使用 SharePoint 的「查詢手冊」服務來新增多語系學習路徑解決方案。 使用此選項，「教學」路徑 SharePoint 範本會轉譯成九種語言，且最少可用於修改。
 
 > [!IMPORTANT]
-> 截至 5/21/2019，Microsoft 365 學習路徑是以前稱為自訂了解 Office 365 方案的新名稱。 如果您有已佈建自訂了解 Office 365 或更早版本的 Microsoft 365 學習組織中的路徑，並想要更新的解決方案，請遵循 「 更新方案 」 中的指示[Microsoft 365 學習路徑讀我檔案](https://github.com/pnp/custom-learning-office-365)。 如果您在提供 Microsoft 365 學習路徑第一次，請參閱 Microsoft 365 學習路徑文件中的 [[佈建 Microsoft 365 學習路徑指示]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision)。  
+> 如果您已在租使用者中布建學習路徑，建議您[更新](custom_update.md)學習路徑。 如果您安裝新的學習路徑實例，您必須手動將現有網站的任何自訂轉移至新網站。 
 
-## <a name="prerequisites"></a>先決條件
+## <a name="prerequisites-for-multilingual-support"></a>多語系支援的必要條件
  
-若要成功設定 Microsoft 365 學習路徑佈建服務時，人員佈建必須符合下列先決條件： 
+若要成功設定 Microsoft 365 教學路徑與「查閱書」服務，進行布建的人員必須符合下列先決條件： 
  
-- 佈建學習路徑的人員必須是租用戶的租用戶系統管理員，其中學習路徑佈建。  
-- 租用戶應用程式目錄必須能夠使用中的 SharePoint 系統管理中心的 [應用程式] 選項。 如果您的組織沒有 SharePoint 租用戶應用程式目錄，請參閱[SharePoint Online 的文件](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog)建立一個。  
-- 佈建學習路徑的人員必須是租用戶應用程式目錄網站集合擁有人。 如果佈建學習路徑的人員不是網站集合擁有人的應用程式目錄[完成這些指示](addappadmin.md)，並繼續。 
+- 提供教學路徑的人員必須是安裝教學路徑的承租人租使用者管理員。  
+- 租使用者應用程式目錄必須可在 SharePoint 系統管理中心的 [App] 選項內使用。 如果您的組織沒有 SharePoint 租使用者應用程式目錄，請參閱[SharePoint 線上檔](https://docs.microsoft.com/sharepoint/use-app-catalog)以建立一個。 在建立應用程式目錄之前，您必須至少等候兩小時之後，再提供學習路徑。  
+- 提供教學路徑的人員必須是租使用者應用程式目錄的網站集合擁有者。 如果人員提供的學習路徑不是應用程式目錄的網站集合擁有者，請[完成這些指示](addappadmin.md)並繼續。 
 
-### <a name="to-provision-learning-pathways"></a>若要佈建學習路徑
+## <a name="ensure-the-tenant-admin-account-doesnt-have-a-language-selected"></a>確定租使用者管理員帳戶未選取語言
+在您布建學習路徑之前，請確定租使用者的系統管理員帳戶未選取語言。 以下說明如何確認系統管理員帳戶未選取語言。 
+1.  使用 Edge 系統管理設定檔，移至 office.com。
+2.  輸入使用者認證（如有必要）。
+3.  在 Microsoft 365 中，按一下 [**所有應用程式**] > Delve。 
+4.  按一下 [**我**  >  的**更新設定檔**]。
+5.  向中向左下向下方，按一下 [**如何變更語言和地區設定**]。
+6.  按一下 [**這裡**]，然後按一下省略號 **...**。
+7.  在 [**我的顯示語言**] 底下，您應該會看到**沒有選取語言**。 如果已選取語言，請將其取消選取。
 
-1. 移至[Microsoft 365 學習路徑方案] 頁面](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)。
-2. 按一下 [**新增至您的租用戶**。 如果您未登入您的租用戶，佈建服務會要求您的租用戶系統管理員認證。 
-3. 從 [權限要求] 對話方塊中，選取**代表您的組織同意**，，然後選取 [**接受**。
+### <a name="to-provision-learning-pathways"></a>提供學習路徑
 
-佈建服務需要這些權限，以建立租用戶應用程式目錄、 安裝應用程式至租用戶應用程式目錄及佈建網站範本。 在您的租用戶上沒有沒有整體影響，而且目的方案安裝明確使用這些權限。 您必須接受繼續進行安裝這些權限。
+1. 移至[Microsoft 365 學習路徑方案頁面](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)。
+2. 按一下 [**新增至您的租使用者**]。 如果您未登入到您的租使用者，提供服務會要求您提供租使用者系統管理員認證。 
+3. 在 [要求的許可權] 對話方塊中，選取 [**代表您的組織同意**]，然後選取 [**接受**]。
 
-4. 完成安裝適當地佈建的 [資訊] 頁面上的欄位。 在最低限度下輸入想要取得以佈建到網站佈建程序與目的地 URL 的相關通知的電子郵件地址。  
+「檢查手冊」服務需要這些許可權才能建立租使用者應用程式目錄、將應用程式安裝至租使用者應用程式目錄，以及布建網站範本。 您的租使用者沒有整體影響。 這些許可權會明確用於解決方案安裝的目的。 您必須接受這些許可權，才能繼續安裝。
+
+4. 在 [布建資訊] 頁面上，根據您的安裝填寫適當的欄位。 請至少輸入您要取得其布建程式及網站目的地 URL 相關通知的電子郵件地址。  
 > [!NOTE]
-> 讓您網站的目的地 URL 至員工，例如 「 / 網站/MyTraining 」 或 「 / teams/LearnMicrosoft365 「 易記的某個項目。
+> 將網站的目的地 URL 做為便於員工（如 "/sites/MyTraining" 或 "/teams/LearnMicrosoft365"）的內容。
 
 ![inst_options.png](media/inst_options.png)
 
-6. 按一下 [**佈建**時安裝學習路徑至租用戶環境準備就緒]。  佈建程序需要 15 分鐘。 將會透過 （若要在佈建] 頁面所輸入的通知電子郵件地址） 的電子郵件通知您該網站時可供存取。 
+6. 準備好將學習路徑安裝至您的租使用者**環境時，** 按一下 [布建]。  布建程式最多可能需要15分鐘。 當網站準備好時，您會透過電子郵件通知您。 
 
 > [!IMPORTANT]
-> 租用戶系統管理員佈建的學習路徑網站必須移至網站，然後開啟 [ **CustomLearningAdmin.aspx**初始化學習路徑系統屬性。 現階段，租用戶系統管理員也應該將指派擁有者至網站。 
+> 布建「學習路徑」網站的承租人管理員必須前往該網站，然後開啟**CustomLearningAdmin**以初始化學習路徑系統管理員屬性。 此時，租使用者管理員也應指派網站的擁有者。 
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>驗證成功佈建並初始化 CustomConfig 清單
+## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>驗證布建成功和初始化 CustomConfig 清單
 
-佈建完成時，租用戶系統管理員佈建網站上，會收到一封電子郵件從 PnP 佈建服務。 電子郵件包含網站的連結。 此時，租用戶系統管理員應移至使用中電子郵件提供和設定用於第一次使用網站的連結的網站：
+布建完成後，布建網站的租使用者系統管理員會從「查閱書」服務接收電子郵件。 電子郵件包含網站的連結。 此時，租使用者管理員應該會使用電子郵件中提供的連結前往網站，並設定網站以供第一次使用：
 
-- 請移至 `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`。 開啟**CustomLearningAdmin.aspx**初始化設定學習路徑的第一次使用**CustomConfig**清單項目。 您應該會看到看起來像這樣的頁面：
+- 請移至 `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`。 開啟**CustomLearningAdmin**會初始化**CustomConfig**清單專案，以設定第一次使用的學習路徑。 您應該會看到如下所示的頁面：
 
-![cg adminapppage.png](media/cg-adminapppage.png)
+![cg-adminapppage.png](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>將擁有者新增至網站
-租用戶系統管理員，也不太可能您要自訂網站，讓您將需要指派至網站的幾個擁有者的人。 讓他們可以修改網站頁面並 rebrand 網站擁有人在網站上擁有系統管理權限。 他們也能夠隱藏和顯示內容透過學習路徑來傳遞網頁組件。 此外，他們必須能夠建置自訂播放清單，並將它們指派給自訂的子類別。  
+作為租使用者系統管理員，您不太可能是自訂網站的人員，所以您必須將少數擁有者指派給網站。 擁有者具有網站的管理許可權，可供使用者修改網站頁面及才能重塑網站。 他們也可以隱藏及顯示內容，以及建立自訂的播放清單和子類別。  
 
-1. 從 SharePoint**設定**] 功能表中，按一下 [**網站權限**]。
-2. 按一下 [**進階權限設定**。
-3. 按一下 [ **Microsoft 365 學習路徑擁有者**。
-4. 按一下 [**新增** > **將使用者新增到這個群組**，然後新增您想要做為擁有者的人員。 
-5. 在共用郵件中，將連結新增至[瀏覽網站](custom_exploresite.md)，然後按一下 [**共用**]。
+1. 在 [SharePoint**設定**] 功能表中，按一下 [**網站許可權**]。
+2. 按一下 [**高級許可權設定**]。
+3. 按一下 [ **Microsoft 365 學習路徑擁有**者]。
+4. 按一下 [**新增**  >  **使用者至此群組**]，然後新增您想要成為擁有者的人員。 
+5. 在 [共用郵件] 中新增[流覽網站的](custom_exploresite.md)連結，然後按一下 [**共用**]。
 
-### <a name="next-steps"></a>後續步驟
-- 瀏覽網站和網頁組件中所提供的[預設的內容](custom_exploresite.md)。
+## <a name="add-translators-to-the-site"></a>將翻譯人員新增至網站
+如果您將使用該網站的翻譯人員，您可以將許可權指派給他們。 翻譯人員需要成員許可權或更高許可權。 
+
+## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>選擇在網站上使用多種語言的選項
+SharePoint 的「考察手冊」服務以九種語言建立學習路徑網站。 適用的建議如下：
+- 關閉您不想要支援的語言
+- 如果您不支援多語系網站，請關閉 [多語言] 功能。 請參閱本主題稍後的「關閉多種語言支援」一節。
+
+### <a name="remove-languages-you-dont-want-to-support"></a>移除不想要支援的語言
+針對選擇只支援一種語言的組織，除了預設英文語言之外，我們建議移除不支援的語言。 
+1. 從 [學習路徑] 網站中，選取頁面右上角的 [**設定**]，然後選取 [**網站資訊**]。
+2. 在 [網站資訊] 窗格的底部，選取 [**查看所有網站設定**]。
+3. 在 [**網站管理**] 下，選取 [**語言設定**]。
+4. 在 [**讓頁面和新聞轉譯成多種語言**] 底下，將開關滑動至 [**開啟**]。 預設值應為 On。
+5. 在 [新增或移除網站語言] 底下，按一下 [**移除**]，移除網站不需要的語言。 下列會顯示 [語言設定] 頁面的範例，除了預設英文語言之外，還會顯示網站支援的義大利文。
+
+![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+
+> [!NOTE]
+> 移除語言時，不能移除預設的英文語言。 
+
+### <a name="assign-translators"></a>指派翻譯員
+如果您想要翻譯頁面，可選擇為每種語言指派一或多個翻譯人員（網站的預設語言除外）。 
+- 在 [**翻譯人員**] 欄中，開始輸入您想要成為翻譯人員的名稱，然後從清單中選取名稱。 
+
+> [!NOTE]
+> 您組織的 Active Directory 中的任何人都可以指派成翻譯工具。 指派為翻譯人員的人員不會自動獲得適當的許可權。 當沒有網站的「編輯」許可權的人員嘗試存取網站時，會將其導向至可要求存取的網頁。
+
+## <a name="turn-off-multilingual-support"></a>關閉多語言支援
+例如，如果您不想要使用多語系網站，則建議您關閉多語系功能。 
+
+1. 從 [學習路徑] 網站中，選取頁面右上角的 [**設定**]，然後選取 [**網站資訊**]。
+2. 在 [網站資訊] 窗格的底部，選取 [**查看所有網站設定**]。
+3. 在 [**網站管理**] 下，選取 [**語言設定**]。
+4. 在 [**讓頁面和新聞轉譯成多種語言**] 底下，將開關滑動至 [**開啟**]。 預設值應為 On。
+- 在 [**允許翻譯頁面和新聞**] 底下，選取 [**關閉**]。 
+
+### <a name="add-languages"></a>新增語言
+學習路徑支援9種語言，但建議您只新增您必須用來支援「學習路徑」網站的語言。 您可以在任何時候新增語言則。 
+- 在 [**新增或移除網站語言**] 底下，開始在 [**選取] 或 [輸入語言**] 中輸入語言名稱，或從下拉式清單中選擇語言。 您可以重複此步驟來新增多種語言。 您可以隨時在網站中新增或移除語言，只要回到此頁面。
