@@ -1,12 +1,18 @@
-# [開始使用](index.md)
-## [Microsoft 365 學習路徑設定選項](custom_setupoptions.md)
-## [佈建 Microsoft 365 學習路徑](custom_provision.md)
+# [開始使用](index.md)  
+## [設定學習路徑的選項](custom_setupoptions.md)
+## [佈建學習路徑](custom_provision.md)
+## [更新學習路徑](custom_update.md)
+## [手動設定](custom_manualsetup.md)
 ## [探索 Microsoft 365 學習路徑網站](custom_exploresite.md)
-## [獨立網頁組件設定](custom_manualsetup.md)
-# 新功能 
+# 新增功能 
 ## [內容更新](custom_contentupdates.md) 
 ## [管理內容更新](custom_contentupdatesmanage.md)
 ## [功能更新](custom_featureupdates.md)
+# 多語系支援
+## [學習路徑的多語系支援](custom_overview_ml.md)
+## [翻譯網站頁面](custom_translate_page_ml.md)
+## [翻譯學習路徑自訂播放清單](custom_translate_pl_ml.md)
+## [翻譯網站名稱、瀏覽和頁尾](custom_sitenamenav_ml.md)
 # [系統管理成功中心](custom_successcenter.md)
 ## 規劃學習內容 
 ### [規劃您的學習內容](custom_plancontent.md)
