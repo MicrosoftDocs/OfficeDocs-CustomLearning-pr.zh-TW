@@ -4,11 +4,12 @@ ms.author: pkrebs
 title: 提供新的學習路徑解決方案
 ms.date: 02/10/2019
 description: 使用 Microsoft 365 考察簿服務布建 Microsoft 365 學習路徑網站
-ms.openlocfilehash: 2ab7ca9c7c66ce86be09fcfd95d3ccfd18682777
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
+ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048121"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146534"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>提供新的學習路徑解決方案 
 在其承租人中未布妥學習路徑的組織，可使用 SharePoint 的「查詢手冊」服務來新增多語系學習路徑解決方案。 使用此選項，「教學」路徑 SharePoint 範本會轉譯成九種語言，且最少可用於修改。
@@ -39,6 +40,8 @@ ms.locfileid: "45048121"
 1. 移至[Microsoft 365 學習路徑方案頁面](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)。
 2. 按一下 [**新增至您的租使用者**]。 如果您未登入到您的租使用者，提供服務會要求您提供租使用者系統管理員認證。 
 3. 在 [要求的許可權] 對話方塊中，選取 [**代表您的組織同意**]，然後選取 [**接受**]。
+
+![應用程式 catologue 同意的影像](media/app-catologue-consent.png)
 
 「檢查手冊」服務需要這些許可權才能建立租使用者應用程式目錄、將應用程式安裝至租使用者應用程式目錄，以及布建網站範本。 您的租使用者沒有整體影響。 這些許可權會明確用於解決方案安裝的目的。 您必須接受這些許可權，才能繼續安裝。
 
