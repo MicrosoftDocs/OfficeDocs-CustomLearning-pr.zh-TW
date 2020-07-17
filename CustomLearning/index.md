@@ -6,6 +6,7 @@ ms.date: 7/6/2020
 description: 深入瞭解 Microsoft 365 的教學途徑如何加快組織中 Microsoft 365 服務的使用和採用。 學習路徑包括自訂的 SharePoint 線上網頁元件，以及可輕鬆布建至您的 Microsoft 365 租使用者的新式 SharePoint 線上通訊訓練網站。
 ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043235"
