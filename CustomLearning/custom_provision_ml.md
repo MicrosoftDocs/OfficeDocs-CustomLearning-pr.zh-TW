@@ -7,7 +7,7 @@ description: 透過 SharePoint 布建服務布建 Microsoft 365 學習路徑網�
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
 ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/05/2020
 ms.locfileid: "45038993"

@@ -7,7 +7,7 @@ description: 更新多語言支援的學習路徑
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
 ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/02/2020
 ms.locfileid: "45031699"
