@@ -32,6 +32,7 @@
 ### [將資產新增至自訂播放清單](custom_addassets.md)
 ### [建立子類別](custom_createnewcat.md)
 ### [新增和編輯 Microsoft 365 學習路徑網頁組件](custom_addwebpart.md)
+### [排序子類別和播放清單](custom_sortsubplay.md)
 ### [學習路徑內容的連結](custom_linking.md)
 ### [搜尋學習路徑內容](custom_search.md)
 ## [推動採用](driveadoption.md)
