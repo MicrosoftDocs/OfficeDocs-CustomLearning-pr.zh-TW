@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 學習路徑概述
 ms.date: 7/6/2020
 description: 深入瞭解 Microsoft 365 的教學途徑如何加快組織中 Microsoft 365 服務的使用和採用。 學習路徑包括自訂的 SharePoint 線上網頁元件，以及可輕鬆布建至您的 Microsoft 365 租使用者的新式 SharePoint 線上通訊訓練網站。
-ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 81a456dc0234aaa84f497538db8198efaefd3e26
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043235"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199343"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 學習路徑 
 Microsoft 365 學習途徑是一種可自訂的隨選教學解決方案，其設計目的是為了增加組織中 Microsoft 365 服務的使用和採用。    
@@ -17,7 +17,7 @@ Microsoft 365 學習途徑是一種可自訂的隨選教學解決方案，其設
 > [!IMPORTANT]
 > 為了回應客戶意見反應，學習途徑現在提供了九種語言的多語言支援。 如需如何針對學習路徑啟用多語系支援的資訊和指示，請閱讀下列主題： 
 >- [學習路徑的多語系支援概述](custom_overview_ml.md) 
->- [學習路徑的設定選項](custom_setupoptions.md)  
+>- [設定學習路徑的選項](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>來自 Microsoft 的隨選自訂訓練
 
@@ -30,8 +30,8 @@ Microsoft 365 教學路徑提供：
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
-## <a name="sharepoint-online-provisioning-service"></a>SharePoint 線上布建服務 
-可以從 SharePoint 線上布建服務布建學習路徑。 當您布建 Microsoft 365 學習路徑時，組織會取得一個 SharePoint 線上通訊網站，其設計為現成的訓練入口網站，以及一份「學習路徑」網頁元件（與訓練內容的線上目錄關聯）。 
+## <a name="sharepoint-look-book-service"></a>SharePoint 參閱 book service
+您可以從 SharePoint 的「查閱手冊」服務中布建學習路徑。 當您布建 Microsoft 365 學習路徑時，組織會取得一個 SharePoint 線上通訊網站，其設計為現成的訓練入口網站，以及一份「學習路徑」網頁元件（與訓練內容的線上目錄關聯）。 
 
 ![cg-provision.png](media/cg-provision.png)
 

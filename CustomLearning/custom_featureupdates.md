@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: 學習路徑功能更新
 ms.date: 10/20/2019
 description: 學習路徑功能更新
-ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048091"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199333"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>2020年7月版本4.0 功能更新 
 
 下列新功能已新增至 Microsoft 365 學習路徑版本4.0。 
 
-## <a name="multilingual-support-for-learning-pathways"></a>學習路徑的多語言支援 
+## <a name="multilingual-support-for-learning-pathways"></a>學習路徑的多語系支援 
 現在有九種語言的教學途徑支援多種語言。  
 - English     
 - 簡體中文 
@@ -28,6 +28,12 @@ ms.locfileid: "45048091"
 - 西班牙文 
 
 如需詳細資訊，請參閱[瞭解多](custom_overview.md)語系的路徑。 
+
+## <a name="sort-subcategories-and-playlists"></a>排序子類別和播放清單
+
+現在，您可以在學習路徑中排序子類別和播放清單。 例如，如果您將自訂的播放清單新增至子類別，您可以排序播放清單，使自訂的播放清單先顯示在排序次序中。 
+
+如需詳細資訊，請參閱[排序子類別和播放清單](custom_sortsubplay.md)。 
 
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>用於教學路徑自訂子類別的影像選擇器 
 學習路徑現在為自訂播放清單和子類別提供了便於使用的影像選取器。  在過去的版本中，您可以變更播放清單的影像，但不能變更子類別。  
