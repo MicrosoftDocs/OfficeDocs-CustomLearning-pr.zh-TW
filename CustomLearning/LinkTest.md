@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 學習路徑概述
 ms.date: 7/6/2020
 description: 深入瞭解 Microsoft 365 的教學途徑如何加快組織中 Microsoft 365 服務的使用和採用。 學習路徑包括自訂的 SharePoint 線上網頁元件，以及可輕鬆布建至您的 Microsoft 365 租使用者的新式 SharePoint 線上通訊訓練網站。
-ms.openlocfilehash: f44f183abde3341cb8e176a15120d0f5b2390e56
-ms.sourcegitcommit: e44f60be18f4bc8faf58788ae4f131f0b066619d
+ms.openlocfilehash: 16197850e6ee14e4de77fb19fb96acbbcd530004
+ms.sourcegitcommit: c47986107ce45d89ba7f093c85f664f03033eb99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798758"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46845545"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 學習路徑 
 Microsoft 365 學習途徑是一種可自訂的隨選教學解決方案，其設計目的是為了增加組織中 Microsoft 365 服務的使用和採用。    
@@ -48,6 +48,7 @@ Microsoft 365 學習途徑是透過 GitHub 上的 [線上問題清單](https://a
 ## <a name="link-test"></a>連結測試
 這是 [內部連結測試](custom_setupoptions.md)。 這是 [外部連結測試](https://adoption.microsoft.com/)。
 這是重新 [導向連結測試](https://aka.ms/CustomLearningHelp)。
+這是 [新連結 {](http://stackoverflow.com)： target = "_blank" rel = "noopener"}。
 
 ## <a name="additional-resources"></a>其他資源
-您可以使用 Microsoft 365 學習路徑網站，提供任何新的或現有的使用者群組論壇的連結。 若尚未啟動內部使用者群組，請考慮讓使用者分享其成功，並彼此深入瞭解。  如果您沒有時間 nurture 內部使用者群組，您和您的員工可以加入 [Microsoft Office 365 冠軍社區](https://aka.ms/O365Champions) ，以進行每月訓練、線上社區的成員資格，以及及早存取 Office 365 的工具和資源。
+您可以使用 Microsoft 365 學習路徑網站，提供任何新的或現有的使用者群組論壇的連結。 若尚未啟動內部使用者群組，請考慮讓使用者分享其成功，並彼此深入瞭解。  如果您沒有時間 nurture 內部使用者群組，您和您的員工可以加入 [Microsoft Office 365 冠軍社區](https://aka.ms/O365Champions) ，以進行每月訓練、線上社區的成員資格，以及及早存取 Office 365 的工具和資源。  
