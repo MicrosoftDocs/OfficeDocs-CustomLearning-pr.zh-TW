@@ -1,17 +1,23 @@
 ---
-標題: ''
-ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Office 365 的生活中的當日-會議在辦公室
+description: 準備好一天使用 Office 365 的快速步驟
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32056088"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233635"
 ---
-# <a name="meeting-at-the-office"></a>在辦公室的會議
+# <a name="meeting-at-the-office"></a>辦公室會議
 
-![埋首 visual](media/ditl_meeting.png)
+![上路程視覺](media/ditl_meeting.png)
 
-它是 10:00 AM 和您的會議時間。 在這個部分，我們將顯示您如何讓會議更具生產力。  這包括會議準備與 Office 365 工具的最佳做法。  
+您的會議是 10:00 AM 和時間。 在本節中，我們將告訴您如何讓會議更有效率。  這涉及會議準備和 Office 365 工具的最佳作法。  
 
 ## <a name="tools"></a>工具
 - Outlook
@@ -19,48 +25,48 @@ ms.locfileid: "32056088"
 - 商務用 Skype
 - OneNote
 
-## <a name="checklist-for-your-meeting"></a>您的會議的的檢查清單
-- 規劃及通訊錄的會議
+## <a name="checklist-for-your-meeting"></a>會議檢查清單
+- 規劃及預訂會議
 - 加入會議
-- 在會議中呈現的資訊
-- 在會議中使用 OneNote 共同建立與備忘稿
-- 在會議中使用 Planner 來追蹤該專案的動作項目
+- 在會議中呈現資訊
+- 在會議中使用 OneNote 以進行共同建立和記事
+- 使用會議中的規劃人員追蹤專案的動作專案
 - 結束會議
  
-## <a name="plan-and-book-your-meeting"></a>規劃及通訊錄的會議
-儘可能是您可以以確保您的會議是具有生產力的一些事項：
+## <a name="plan-and-book-your-meeting"></a>規劃及預訂會議
+您可以執行一些工作，以確保您的會議盡可能生產力：
 
-1. **您需要的會議嗎？** 請考慮先需要核准者與共享聊天室中的檔案。  
-1. **已清除議程。**  在您的線上會議邀請的 [附註] 區段中包含會議議程，如此可以準備出席者。
-1. **記錄您的會議** 與可能不參加的人員共用會議或更新版本同時備忘稿，則您可以用於 Microsoft Teams 會議錄製函式。  
+1. **您是否需要會議？** 請先考慮在聊天中與必要的核准者共用檔案。  
+1. **有明確的議程。**  在線上會議邀請的 [附注] 區段中，加入您的會議議程，讓出席者可以做好準備。
+1. **錄製會議**  在 Microsoft 小組中使用會議錄製功能，與其他無法參加會議或稍後 transcribe 筆記的人員共用會議。  
 
-現在您準備好要通訊錄的會議： 通訊錄使用 Microsoft Teams 會議或商務用 Skype 在 Outlook 中詳細說明。 這麼做這樣可讓您包含從不同位置的小組成員、 錄製會議及強化通訊利用視訊 （如果有的話）。 
+現在，您已準備好預訂該會議：使用 Outlook 中的 Microsoft 小組或商務用 Skype 詳細資料來預訂會議。 這樣做可讓您加入來自不同位置的小組成員、記錄會議，以及使用影片 (何時可以) 增強通訊。 
 
-![在 Outlook 中的 microsoft teams ](media/ditl_teamsoutlook.png)
+![Outlook 中的團隊 ](media/ditl_teamsoutlook.png)
 
 ## <a name="join-a-meeting"></a>加入會議
-從任何地方加入。 它就能夠從任何位置使用行動裝置，藉由呼叫會議詳細資料中的撥入號碼，或使用行動應用程式的商務會議加入 Microsoft Teams 或 Skype。 當使用行動裝置 app，是了解適用於您或您的國家/地區的行動裝置的資料使用量限制。
+從任何地方加入。 您可以使用行動裝置從任何地方加入 Microsoft 團隊或商務用 Skype 會議，方法是撥打會議詳細資料中的撥入號碼或使用行動應用程式。 使用行動應用程式時，請關注適用于您或您的國家/地區的行動資料使用量限制。
 
 ![小組會議加入通知](media/ditl_teamsjoin.png)
 
 > [!TIP]
-> **使用耳機。** 如果您從您的電腦連線桌上，使用耳機，而您的電腦內建麥克風和喇叭來確保較佳的通話品質。
+> **使用頭戴式耳機。** 如果您是從書桌上的電腦連線，請使用耳機（而非電腦的內建麥克風和揚聲器），以確保更高的通話品質。
 
 > [!TIP]
-> 開啟您的視訊 ！ 相機可用時，值得使用它們，安排面對面通訊提供只使用語音時可以未接的非表達提示。 別擔心，您髮型看起來很棒。 
+> 開啟您的影片！ 當相機可供使用時，有必要使用這些相機，因為面對面通訊會提供在使用語音時可能錯過的非口頭提示。 別擔心，您的頭髮看起來很美觀。 
 
-## <a name="present-information-in-a-meeting"></a>在會議中呈現的資訊
-共用您的裝置的內容是著重會議，並提供內容的討論內容很棒的方法。 在 [一般] 共用整個螢幕可以是個好主意。 這表示提到螢幕上的所有文字，會顯示在畫面的每個人參加會議。 避免此問題，只要選取您想要在 Microsoft Teams 中共用的內容。 
+## <a name="present-information-in-a-meeting"></a>在會議中呈現資訊
+從您的裝置共用內容是一種非常好的方式，可聚焦會議，並提供討論的內容。 一般說來，共用您的整個畫面可能是不好的主意。 這表示出現在螢幕上的所有專案都會出現在參加會議的每一個人的畫面上。 只要選取您想要在 Microsoft 小組中共用的內容，就可以避免這樣做。 
 
 ## <a name="use-onenote-in-a-meeting"></a>在會議中使用 OneNote
-OneNote 可以允許即時共同作業及共同建立，使其成為腦力激盪理想工具，並請注意在會議中的時間。 只要每個人都有權存取 OneNote 共用的所在位置，您可以張貼筆記本的連結，並啟動腦力激盪立即。
+OneNote 可讓您進行即時共同作業和共同作業，使其成為靈感觸發的理想工具和會議的記事記錄。 只要所有人都可以存取共用 OneNote 所在的位置，您就可以將連結發佈至筆記本並立即開始靈感觸發。
 
-您可以建立會議備忘稿小組筆記本中的特定一節。 您也可以在 OneNote 中使用 「 會議詳細資料 」 功能，來建立頁面的會議詳細資料的摘要。
+您可以在小組筆記本中為會議筆記建立特定的區段。 您也可以使用 OneNote 中的「會議詳細資料」功能，建立包含會議詳細資料摘要的頁面。
 
-## <a name="use-planner-in-a-meeting"></a>在會議中使用規劃
-直接新增到專案計劃的 [動作項目會儲存您從抄錄它們事實之後。 它是最佳作法是在大型專案會議來指派某人擔任追蹤 & 記事的巨集指令。 這通常是另一個人比個別執行會議。 動作項目提醒都會直接傳送至個別收件者，它會指派為的提醒，如果項目通過它的到期日。 
+## <a name="use-planner-in-a-meeting"></a>在會議中使用 Planner
+直接將交辦事項新增至專案的計畫，可讓您在事實後抄錄這些交辦事項。 大型 project 會議中的最佳作法是將人員指派至動作追蹤 & 記事。 這通常與召開會議的個別人員不同。 動作專案提醒會直接傳送給其所指派的個人，但如果專案通過其到期日，便會以提醒形式傳送給該專案。 
 
-![規劃工作](media/ditl_task.png)
+![Planner 任務](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>結束會議
-當已討論議程的所有項目時，結束會議，無論時間。 指派並傳送給所有參與者的動作項目。 如果您進行共同作業 Microsoft Teams 中，您可以輕鬆地共用動作項目中的適當的通道。 也可輸入及在會議期間，提供快速的方式，來追蹤完成，也可以是[Microsoft Teams 中存取](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)在 Planner 中指派動作項目。 
+討論議程上的所有專案時，不論時間為何，結束會議。 指派動作專案並將其傳送給所有參與者。 如果您是在 Microsoft 小組中進行共同作業，您可以輕鬆地在適當的通道中共用動作專案。 在會議期間，也可以在 Planner 中輸入或指派動作專案，提供一種快速的方式來追蹤可 [在 Microsoft 小組中存取](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)的完成專案。 

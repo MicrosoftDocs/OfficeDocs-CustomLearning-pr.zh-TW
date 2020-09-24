@@ -1,34 +1,35 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 隱藏和顯示技術
+title: 隱藏及顯示技術
 ms.date: 05/20/2019
-description: 如何隱藏和顯示技術
-ms.openlocfilehash: e1e19bc29c84be9471939ab4c20a85207a828b61
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+description: 如何隱藏及顯示技術
+ms.service: sharepoint online
+ms.openlocfilehash: 7644e4ee3c0f990cb31ccf30af261c0e137bf596
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886680"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234295"
 ---
 # <a name="hide-and-show-technology"></a>隱藏和顯示技術
 
-在某些情況下，您會想要隱藏您的組織中不支援技術的內容。 隱藏技術功能被為了防止技術出現整個網頁組件。 它提供了更廣泛的方法若要隱藏和顯示內容比隱藏子類別或播放清單。 例如，您可以隱藏 Yammer 子類別，但 Yammer 可能仍會出現在特定案例播放清單，如 < 使用 Yammer 連接您的組織 」。 若要確保特定技術的內容不會公開給使用者，請將其隱藏技術。 
+在某些情況下，您可能會想要隱藏組織不支援之技術的內容。 隱藏技術功能的設計是為了避免技術出現在整個網頁元件中。 它提供更廣泛的隱藏及顯示內容的方式，而不是依子類別或播放清單隱藏內容。 例如，您可以隱藏 Yammer 子類別，但是 Yammer 仍會顯示在某些案例播放清單中，例如「以 Yammer 連線您的組織」。 若要確定特定技術的內容未公開給使用者，請依技術加以隱藏。 
 
 ## <a name="hide-a-technology"></a>隱藏技術
 
-1. 從 Microsoft 365 學習路徑 [**首頁**] 頁面，按一下 [**建議播放清單**] 磚。
-2. 從自訂學習網頁組件中，選取 [ **Aministration**圖示]。
-3. 在下拉式清單方塊中右上方區段的 [**管理**] 頁面上，選取 [**技術**。
-本範例中，按一下 [] 頁面的左窗格中的 [ **Yammer**然後按一下 [旁 Yammer eyeball。  
+1. 從 [Microsoft 365 **學習路徑] 首頁，** 按一下建議的 **播放清單** 磚。
+2. 從自訂學習網頁元件中，選取 [ **Aministration** ] 圖示。
+3. 在 [ **管理** ] 頁面右上方的下拉式清單方塊中，選取 [ **技術**]。
+在此範例中，按一下頁面左窗格中的 [ **yammer** ]，然後按一下 Yammer 旁的 eyeball。  
 
-![cg hidetech.png](media/cg-hidetech.png)
+![cg-hidetech.png](media/cg-hidetech.png)
 
-### <a name="verify-the-playlist-is-hidden"></a>確認隱藏播放清單
-- 若要確認隱藏**Yammer**技術，與載入，**建議使用播放清單**] 頁面上選取 [瀏覽器] 索引標籤，然後重新整理頁面。 您會注意到**連線您的組織使用 Yammer**播放清單會隱藏。 
+### <a name="verify-the-playlist-is-hidden"></a>確認播放清單已隱藏
+- 若要驗證 **Yammer** 技術是否已隱藏，請選取 [瀏覽器] 索引標籤（載入 **建議的播放清單** 頁面），然後重新整理頁面。 您會注意到 **您的組織與 Yammer** 播放清單的連線已隱藏。 
 
-![cg hidetechrefresh.png](media/cg-hidetechrefresh.png)
+![cg-hidetechrefresh.png](media/cg-hidetechrefresh.png)
 
 ## <a name="unhide-a-technology"></a>取消隱藏技術
 
-- 從 [**管理**] 頁面上，選取一種技術，然後選取要取消隱藏它隱藏技術 eyeball。 本範例中，取消隱藏**Yammer**技術。 
+- 在 [ **管理** ] 頁面上，選取技術，然後為隱藏的技術選取 eyeball 以取消隱藏。 在此範例中，會取消隱藏 **Yammer** 技術。 

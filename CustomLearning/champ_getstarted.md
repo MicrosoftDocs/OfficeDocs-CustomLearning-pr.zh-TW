@@ -1,45 +1,51 @@
 ---
-標題: ''
-ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: 冠軍計畫的最佳作法
+description: 運用我們的冠軍計畫最佳作法，促進 Office 365 的採用
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: e60a9a1a392789f864aecd71804bbba174098d9a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055386"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233455"
 ---
-# <a name="establish-champions-for-user-adoption"></a>建立使用者採用冠軍 
+# <a name="establish-champions-for-user-adoption"></a>建立擁護器以供使用者採用 
 
-組織變更管理功能的變更目標群組的人員行為的美工圖案。 沒有很大的科學和研究支援此做法。 這些文章中我們會協助您磁碟機將導致商務成果，公司中的主要服務採用。  下列最佳作法，我們將縮短您次若要從 Office 365 租用可測量值。  
+組織變更管理是變更人員目標群組行為的剪貼畫。 這項作法有大量的科學和研究支援。 在這些文章中，我們將協助您推動採用重要服務，以在公司中導致商務成果。  遵循我們的最佳作法，可縮短從 Office 365 取得可測評價值的時間。  
 
-冠軍程式是推動採用不可或缺的一部分。 在您的公司這些影響因數提供許多需要支援及鼓勵到已採用新技術的員工。 檢閱這些頁面，以建立您的採用計劃和執行精銳的程式取得通知。 
+擁護器程式是推動採用的重要部分。 貴公司中的這些影響因素，對採用新技術的員工提供許多必要的支援和 encouragement。 請複習這些頁面，以瞭解如何建立採用計畫，以及如何執行您自己的冠軍計畫。 
 
 > [!NOTE]
-> 您可以更新或取代這個播放清單資訊的相關參考的程式整個組織。
+> 您可以將此播放清單更新或取代為您組織中參考的您自己的程式資訊。
 
-## <a name="who-are-champions-and-what-makes-them-tick"></a>有冠軍以及何謂它們刻度？
+## <a name="who-are-champions-and-what-makes-them-tick"></a>誰是冠軍，哪些人會作出決定？
 
-冠軍不只需什麼它們，但是也會興奮，分享其知識和協助其了解更有效的解決方案的同事找到他們。 冠軍是使用現有工具通常迷惑和挫折熱心。 它們可協助您 win watercooler 紅挑戰 ！  
+擁護者不僅 passionate 其所做的事，也很興奮分享其知識，協助其共同工作人員瞭解更有效率的解決方案。 冠軍是 enthusiastic，通常會使現有工具不滿意。 他們將協助您贏得 watercooler 的商業挑戰賽！  
 
-我們認為您務必獎勵冠軍有意義的方式。 一些建議如下：
+我們認為以有意義的方式獎勵冠軍是很重要的。 建議的一些建議如下：
 
-- 若要參與員工績效考核精銳程式中允許成功的成員資格
-- 確認使用的 Office swag 和員工份額報酬您最成功冠軍  
-- 洽詢您冠軍持續的訓練與他們可以一起傳遞至其他員工的內容 
+- 允許擁護者計畫中的成功成員資格參加員工的績效審查
+- 使用 Office swag 和員工 perks，認可您最成功的冠軍。  
+- 與您的冠軍接洽，以進行訓練，以及他們可以傳遞給其他員工的內容 
 
-精銳特質不會不通常洽詢因為這些報酬，而因為它會建立它們可提供給員工滿意度更有意義和可測量的經驗。 
+冠軍的個人風格通常不會因為這些獎勵而進行接洽，但因為其會為員工滿意度帶來更具意義且可測評的經驗。 
 
-## <a name="why-are-champions-important"></a>為什麼會冠軍重要？ 
+## <a name="why-are-champions-important"></a>冠軍為何很重要？ 
 
-透過同事學習是學習專業的環境中的最有效方法。 冠軍也會提供您採用程式有價值深入是什麼，關於您服務的部署、 訓練計畫和整體舉動有關您實作的變更無法正常運作。  
+透過共同工作者學習是在專業環境中最為有效的教學方式中。 冠軍也會為您的採用計畫提供重要的洞察力，與您的服務部署、訓練計畫和整體 sentiment 有關所實施之變更的相關資訊。  
 
-![百分比使用學習方法與實用性](media/champstats.png)
+![使用學習方法的百分比與 helpfulness](media/champstats.png)
 
-## <a name="how-will-champions-support-you"></a>如何將冠軍支援您？
+## <a name="how-will-champions-support-you"></a>冠軍會如何支援您？
 
-冠軍有助於減少的核心專案小組的資源造成負擔，並協助整個社群的磁碟機參與。 他們也會：
+冠軍可協助您降低核心專案小組資源的壓力，協助促進整個群組的參與。 它們也會：
 
-1. 建立 groundswell 成長的改良種工作採用熱誠
-1. 建置影響轉變與其小組的圓形
-1. 帶跨小組工作至生命週期的新方法
+1. 建立 groundswell enthusiasm 會成長採用改進的運作方式
+1. 在其團隊間建立影響圓形
+1. 將使用生命週期的新方法帶入整個小組中
 1. 識別業務挑戰及可能的解決方案
-1. 提供意見反應給專案小組和贊助者
+1. 為專案小組和贊助者提供意見反應

@@ -1,7 +1,18 @@
 ---
-標題：                     #使用 Office 365 的一天 - 早晨喝咖啡的描述：               # 使用 Office 365 作者，因應當天狀況的快速步驟：{github-id}        # karuanag ms.author: {ms-alias}      # karuanag ms.date: {@date}           # 02/01/2019 ms.topic: getting-started  # how-to
+title: 使用 Office 365-早上咖啡的生活中的一天
+description: 準備好一天使用 Office 365 的快速步驟
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 5da7b3eb0e7b66c81c0bf3586509719c912ab609
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233695"
 ---
-
 # <a name="during-morning-coffee"></a>在早晨喝咖啡的時間裡
 
 ![早晨咖啡圖片](media/ditl_coffee.png)

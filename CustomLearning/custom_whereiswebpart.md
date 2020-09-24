@@ -1,67 +1,68 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Microsoft 365 學習網頁組件的何處
+title: Microsoft 365 學習網頁元件的位置
 ms.date: 02/15/2019
-description: 了解學習路徑： 網頁組件會出現在學習路徑網站
-ms.openlocfilehash: f84ce82233612c0b7892177defb2a8ca28618b68
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+description: 瞭解「學習路徑」網頁元件在「學習路徑」網站中的顯示位置
+ms.service: sharepoint online
+ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956553"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233745"
 ---
-# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 學習路徑的所在網頁組件？ 
+# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 學習路徑網頁組件在哪裡？ 
 
-當您組織中佈建學習路徑時，租用戶網站和網頁組件新增至貴組織的 SharePoint 學習路徑。 佈建的一部分，Microsoft 365 學習網頁組件新增至下列頁面的 Microsoft 365 學習路徑網站：
+在組織中布建學習路徑時，會將「學習路徑」網站和網頁元件新增至組織的 SharePoint 租使用者。 在布建過程中，Microsoft 365 學習網頁元件會新增至 Microsoft 365 學習路徑網站的下列頁面：
 
-- 開始-與-6-簡單-Steps.aspx 
-- 建議 Playlists.aspx
-- 取得開始使用 Office 365 aspx
-- Get-啟動-與-Microsoft-Teams.aspx
-- Get-啟動-與-OneDrive.aspx
-- Get-啟動-與-SharePoint.aspx
-- 學習路徑系統成功 Center.aspx
+- Start-with-Six-Simple-Steps .aspx 
+- Recommended-Playlists .aspx
+- 開始使用-Office 365
+- Get-started-with-Microsoft-Teams .aspx
+- Get-started-with-OneDrive .aspx
+- Get-started-with-SharePoint .aspx
+- 學習路徑管理員成功中心 .aspx
 
-每一頁中，網頁組件是以不同方式來顯示的類別、 子類別、 播放清單或資產設計用來支援] 頁面上之目的的設定。 學習路徑網頁組件中，我們將顯示後面章節中，可以被新增至任何 SharePoint] 頁面上，並篩選要顯示特定類別、 子類別、 播放清單或只資產。 讓我們看看。 
+針對每個頁面，網頁元件會以不同方式設定，以顯示設計用來支援頁面目的的類別、子類別、播放清單或資產。 [學習路徑] 網頁元件將在稍後的區段中示範，您可以新增至任何 SharePoint 頁面並篩選，以顯示特定類別、子類別、播放清單或僅限資產。 讓我們看看。 
 
-## <a name="view-microsoft-teams-playlists"></a>檢視 Microsoft Teams 播放清單
+## <a name="view-microsoft-teams-playlists"></a>查看 Microsoft 團隊播放清單
 
-以下是**開始使用 Microsoft Teams**小組顯示學習播放清單篩選網頁組件頁面的範例。 
+以下是「 **Microsoft 小組入門** 」頁面的範例，其中包含已篩選的網頁元件，可顯示小組的學習播放清單。 
 
-- 從學習路徑的首頁] 頁面上，選取**要開始使用 Microsoft Teams**。
+- 從 [學習路徑] 首頁中，選取 [ **開始使用 Microsoft 小組**]。
 
 ![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
 
-- 按一下 [**首頁**] 功能表上的學習路徑網站回到網站首頁上的功能表。
+- 按一下 [學習路徑] 網站功能表上的 [ **首頁** ] 功能表，以回到 [網站] 首頁。
 
-![cg homebtnmenu.png](media/cg-homebtnmenu.png)
+![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
 
-## <a name="view-the-six-simple-steps-playlist"></a>檢視六個簡單的步驟播放清單
+## <a name="view-the-six-simple-steps-playlist"></a>查看六個簡單的步驟播放清單
 
-**開始-與-6-簡單-Steps.aspx**頁面網頁組件已設定為六個簡單的步驟播放清單中顯示的第一個資產。 
+**Start-with-Six-Simple-Steps**頁面上的網頁元件會設定為顯示六個簡單步驟播放清單中的第一個資產。 
 
-- 從學習路徑的首頁] 頁面上，按一下 [**開始使用六個簡單的步驟**。 
+- 從 [學習路徑] 首頁，按一下 [ **從六個簡單的步驟開始**]。 
 
 ![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
-## <a name="view-all-microsoft-365-training"></a>檢視所有的 Microsoft 365 教育訓練
+## <a name="view-all-microsoft-365-training"></a>流覽所有 Microsoft 365 訓練
 
-在**Microsoft 365 訓練**] 頁面上的網頁組件設定為顯示所有類別和子類別提供從學習路徑目錄。 這包括來自 Microsoft 的子類別，以及您為組織建立任何子類別。
+**Microsoft 365 訓練**頁面上的網頁元件會設定為顯示「學習路徑」目錄中所有可用的類別和子類別。 這包括來自 Microsoft 的子類別，以及您為組織建立的任何子類別。
 
-- 從學習路徑的首頁] 頁面上，按一下 [ **Microsoft 365 教育訓練**。 出現 [] 頁面會出現在網頁組件以顯示所有類別和子類別提供從自訂學習目錄設定。
+- 從 [學習路徑] 首頁，按一下 [ **Microsoft 365 訓練**]。 隨即出現頁面，並將網頁元件設定為顯示自訂學習目錄中所有的類別和子類別。
 
 ![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
-- 按一下 [**首頁**] 功能表上的學習路徑網站回到網站首頁上的功能表。
+- 按一下 [學習路徑] 網站功能表上的 [ **首頁** ] 功能表，以回到 [網站] 首頁。
 
-## <a name="view-the-web-part-on-the-admin-success-center-page"></a>在管理中心成功] 頁面上檢視網頁組件
+## <a name="view-the-web-part-on-the-admin-success-center-page"></a>在 [系統管理成功中心] 頁面上查看網頁元件
 
-在**管理中心成功**] 頁面上的 [網頁組件被設定為篩選所有可供系統致勝中心播放清單。 下列範例所示，網頁組件新增至頁面，也包含系統資源的 [快速連結。 
+「系統 **管理員成功中心** 」頁面上的網頁元件會設定為篩選系統管理員成功中心所有可用的播放清單。 如下列範例所示，網頁元件會新增至包含系統管理員資源快速連結的頁面。 
 
-- 從首頁學習路徑] 頁面上，按一下 [**系統管理致勝中心快速入門**。 button. 
+- 從 [學習路徑] 首頁，按一下 **[開始使用系統管理員成功中心**]。 button. 
 
-![cg adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
+![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
 
-- 按一下 [**首頁**] 功能表上的學習路徑網站回到網站首頁上的功能表。
+- 按一下 [學習路徑] 網站功能表上的 [ **首頁** ] 功能表，以回到 [網站] 首頁。
 

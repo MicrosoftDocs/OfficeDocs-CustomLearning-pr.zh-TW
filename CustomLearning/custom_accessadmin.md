@@ -3,32 +3,33 @@ author: pkrebs
 ms.author: pkrebs
 title: 學習路徑管理
 ms.date: 02/15/2019
-description: How to： 存取自訂學習系統管理] 頁面上，從 [網頁組件或功能表
-ms.openlocfilehash: 86526f4c4b3d46360ab2c63a503bfd80e0848c13
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+description: 操作方法從網頁元件或功能表存取自訂學習管理頁面
+ms.service: sharepoint online
+ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886930"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233325"
 ---
-# <a name="access-the-learning-pathways-administration-page"></a>學習路徑管理] 頁面的存取
+# <a name="access-the-learning-pathways-administration-page"></a>存取「學習路徑管理」頁面
 
-學習路徑管理是從 [CustomLearningAdmin.aspx] 頁面上加以管理。 只有 SharePoint 系統管理員可管理本頁。 以瀏覽網站的成員權限的使用者不會看到**管理**齒輪圖示上的網頁組件。 此外，只有系統管理員必須能夠開啟 [管理] 頁面上，從 SharePoint**首頁**] 功能表底下的**學習路徑管理**功能表項目。 
+學習路徑管理是從 CustomLearningAdmin 頁面進行管理。 只有 SharePoint 管理員才能使用此管理頁面。 在網頁元件上，具有成員許可權的使用者將無法在網頁元件上看到 **管理** 的齒輪圖示。 此外，只有管理員才能從 SharePoint [**首頁**] 功能表底下的 [**學習路徑管理**] 功能表項目目中開啟 [管理] 頁面。 
 
 > [!IMPORTANT]
-> 在 [自訂學習管理頁面，例如隱藏的產品子類別或播放清單，所做的變更會反映在所有執行個體中的網頁組件。 此外，建議您只有一個系統管理員次因為自訂學習不提供衝突偵測，如果有多人同時使用] 頁面上進行從 [管理] 頁面的變更。  
+> 在 [自訂學習管理] 頁面上所做的變更（例如隱藏產品子類別或播放清單）將會反映在網頁元件的所有實例中。 此外，建議您在同時從 [管理] 頁面進行變更時，只會有一個系統管理員進行變更，因為自訂學習不會在多個人員同時使用頁面時提供碰撞偵測。  
 
-## <a name="access-from-the-learning-pathways-web-part---preferred-method"></a>存取來自學習路徑網頁組件的慣用方法
-開啟 [管理] 頁面上，從網頁組件是慣用的方法，因為它會在新的瀏覽器索引標籤開啟的頁面。使用此方法之後，很容易檢查或修改您的工作索引標籤式的頁面之間來回翻轉。  
+## <a name="access-from-the-learning-pathways-web-part---preferred-method"></a>從「學習路徑網頁元件-偏好」方法存取
+從網頁元件開啟 [管理] 頁面是慣用的方法，因為它會在新的瀏覽器索引標籤中開啟頁面。使用此方法時，很容易在索引標籤頁面之間來回翻轉以檢查或修改您的工作。  
 
-1. 從 Microsoft 365 學習路徑 [**首頁**] 頁面，按一下 [ **Office 365 訓練**磚。
-2. 下列範例所示，按一下 [網頁組件中的 [**管理**] 圖示  
+1. 從 [Microsoft 365 **學習路徑] 首頁，** 按一下 [ **Office 365 訓練** ] 磚。
+2. 在網頁元件中，按一下 [ **管理** ] 圖示，如下列範例所示。  
 
-![cg adminaccbtn.png](media/cg-adminaccbtn.png)
+![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
-## <a name="access-from-the-home-menu-item"></a>從 [首頁] 功能表項目存取
-而不是瀏覽至 [網頁組件] 頁面上，管理員可以存取 [管理] 頁面上，從 SharePoint**首頁**功能表項目。 
+## <a name="access-from-the-home-menu-item"></a>從首頁功能表項目存取
+管理員可以從「SharePoint **首頁** 」功能表項目存取「管理」頁面，而不是流覽至網頁元件的頁面。 
 
-- 從 Microsoft 365 學習路徑首頁上，按一下 [**首頁**] 功能表，然後按一下 [ **Microsoft learning 管理**。
+- 在 [Microsoft 365 學習路徑] 首頁上，按一下 [ **首頁** ] 功能表，然後按一下 [ **microsoft 學習管理**]。
 
-![cg adminaccmenu.png](media/cg-adminaccmenu.png)
+![cg-adminaccmenu.png](media/cg-adminaccmenu.png)

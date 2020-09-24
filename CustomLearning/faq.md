@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Microsoft 365 學習路徑的常見問題
 ms.date: 02/10/2019
 description: Microsoft 365 學習路徑的常見問題資訊
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141366"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233535"
 ---
 # <a name="frequently-asked-questions"></a>常見問題集
 
@@ -19,7 +20,7 @@ Microsoft 365 學習路徑發行是一項 ..org 的工作，專門用來變更�
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>在我的租使用者環境中安裝 Microsoft 365 學習路徑的必要條件為何？
 
-- 已啟用 SharePoint 線上和通訊網站。
+- 已啟用 SharePoint Online 和通訊網站。
 - 將要布建 CLO365 的個人必須是安裝目標租使用者的租使用者系統管理員。
 - 租使用者 "應用程式目錄" 必須可用於 SharePoint 系統管理中心的「應用程式」選項中。
 - 如果建立新的應用程式目錄，則需要30分鐘以上的等候時間，才能完全布建應用程式目錄。 嘗試在建立租使用者應用程式目錄之後，直接布建 Microsoft 365 教學路徑，將會導致「學習路徑」解決方案的布建錯誤。 
@@ -34,7 +35,7 @@ Microsoft 365 學習路徑發行是一項 ..org 的工作，專門用來變更�
 Microsoft 365 學習路徑目前是 Beta 預覽。 請在評估時考慮下列專案，以規劃及實施 Microsoft 365 學習路徑：
 
 - 就像在任何 Beta 方案中，我們的服務管理小組都會保留變更服務及其元件的權利。 當我們積極解決 bug 和 UX 問題時，您可能需要更新 WebPart。
-- 若要更新網頁元件，您必須從我們的 GitHub 存放庫下載該網頁元件，並將其上傳至您的租使用者應用程式目錄。 請參閱 Microsoft 365 學習路徑[自述](https://github.com/pnp/custom-learning-office-365/blob/master/README.md)檔的「更新解決方案」一節。 
+- 若要更新網頁元件，您必須從我們的 GitHub 存放庫下載該網頁元件，並將其上傳至您的租使用者應用程式目錄。 請參閱 Microsoft 365 學習路徑 [自述](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) 檔的「更新解決方案」一節。 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 教學路徑中提供的語言為何？
 
@@ -44,25 +45,25 @@ Microsoft 365 學習路徑目前是 Beta 預覽。 請在評估時考慮下列�
 - 法文  
 - 德文 
 - 義大利文 (義大利) 
-- 日文（日本）  
-- 葡萄牙文（巴西） 
-- 俄文（俄文）  
+- 日本 (日本)   
+- 葡萄牙文 (巴西)  
+- 俄文 (俄文)   
 - 西班牙文 
 
 > 對荷蘭文言的支援，將不會包含在教學路徑的後續版本中的支援。 我們將在未來繼續評估新的語言選項。
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>在我們的承租人環境中安裝網站所需的時間多久？
 
-根據我們的安裝測試，它應該需要不到15分鐘的時間。 這不包括針對您的需求自訂網站所需的時間。
+根據我們的安裝測試，它應該需要不到15分鐘的時間。 這不包括按您的需求自訂網站所需的時間。
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 教學是指開放的來源方案和含義為何？
 
-Microsoft 365 學習途徑是開放式來源軟體（OSS）解決方案，如此一來，對 OSS 有一組優點和考慮 germane：
+Microsoft 365 學習途徑是開放來源軟體 (OSS) 解決方案，因此，其具有對 OSS 的一組優點和考慮 germane：
 
 #### <a name="benefits"></a>效益 
 - **Microsoft 365 學習途徑是免費的解決方案：** 客戶可以在他們的承租人中安裝解決方案，加以自訂，並讓使用者可以使用
-- **OSS 可讓您快速開發及**共同作業： 所有開啟的來源方案都可供廣泛的投稿人員群組使用。  Microsoft 致力於這種促進創新的方法。  為了確保我們所提供的體驗可為我們最廣泛的客戶提供好處，我們的核心服務管理小組會預約適當的權利，以判斷哪些發佈內容會與我們的官方組建合併。  
-- **OSS 可與合作夥伴**共同作業：Microsoft 與數名學習協力廠商合作，以支援其未來擴充的工作，以及對 Microsoft 365 教學路徑的貢獻。 我們將在這些計畫變成定稿時提供詳細資訊。 
+- **OSS 可讓您快速開發及**  共同作業： 所有開啟的來源方案都可供廣泛的投稿人員群組使用。  Microsoft 致力於這種促進創新的方法。  為了確保我們所提供的體驗可為我們最廣泛的客戶提供好處，我們的核心服務管理小組會預約適當的權利，以判斷哪些發佈內容會與我們的官方組建合併。  
+- **OSS 可與合作夥伴** 共同作業：Microsoft 與數名學習協力廠商合作，以支援其未來擴充的工作，以及對 Microsoft 365 教學路徑的貢獻。 我們將在這些計畫變成定稿時提供詳細資訊。 
     
 #### <a name="implications"></a>影響
 - **OSS 並非商業可用產品：** 商業產品包括更新及修補程式，並隨附于收費支援合同中。 Microsoft 目前提供檔、更新及修補 Microsoft 365 的教學路徑，是以改進此特定商務案例的承諾為基礎。 我們的計畫是繼續投資學習路徑，但是客戶應注意，我們的服務管理小組以後可能會變更策略。 任何未來對 Microsoft 365 學習路徑所做的變更都會在生效之前進行傳遞。 
@@ -77,11 +78,11 @@ Microsoft 365 學習途徑是開放式來源軟體（OSS）解決方案，如此
 
 ### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>我需要重新安裝網站;我該怎麼做？
 
-遵循[這裡](custom_provision.md)發佈的安裝指示。
+遵循 [這裡](custom_provision.md)發佈的安裝指示。
 
 > [!NOTE]
 > 如果您已在先前的安裝中停用遙測，且想要繼續遙測停用，您必須遵循在此停用遙測的指示。
 
-### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>我們對 Microsoft 365 學習路徑的實施進行更新。 如果重新安裝網站，我們會失去這些更新（對網站範本，播放清單進行）？
+### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>我們對 Microsoft 365 學習路徑的實施進行更新。 如果重新安裝網站，將無法 (網站範本，播放清單) 進行這些更新？
 
 如果您在目前的安裝上重新安裝網站，將會遺失個別頁面和自訂播放清單的自訂。  

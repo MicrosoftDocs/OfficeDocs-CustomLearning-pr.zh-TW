@@ -1,65 +1,66 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 學習路徑的 Microsoft 365 的疑難排解
+title: 疑難排解 Microsoft 365 學習路徑
 ms.date: 02/10/2019
-description: 了解如何疑難排解 Microsoft 365 學習路徑
-ms.openlocfilehash: de46b9c754dac36de230b36ec4a5542518a1dcd5
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+description: 深入瞭解如何疑難排解 Microsoft 365 教學路徑
+ms.service: sharepoint online
+ms.openlocfilehash: 8d8b418c7a4b2c025391eb4527af86b02738c532
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247678"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233865"
 ---
-# <a name="troubleshoot-microsoft-365-learning-pathways"></a>學習路徑的 Microsoft 365 的疑難排解
+# <a name="troubleshoot-microsoft-365-learning-pathways"></a>疑難排解 Microsoft 365 教學路徑
 
-在這裡進行疑難排解時使用 Microsoft 365 學習路徑或 SharePoint Online 佈建服務可能發生的問題的秘訣。
+以下是 Microsoft 365 教學路徑或 SharePoint 線上布建服務可能發生之問題的疑難排解提示。
 
-## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>如何知道您是否擁有租用戶系統管理員權限
+## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>如何知道您是否有承租人系統管理員許可權
 
-登入 SharePoint Online 佈建服務和佈建自訂學習需要租用戶系統管理員權限。 如果您急需登入 SharePoint Online 佈建服務的問題，請確定您已獲指派全域系統管理員角色。 自訂學習解決方案需要租用戶系統管理員權限，又稱為 Office 365 全域系統管理員角色。 以下是如何判斷是否您已獲指派全域系統管理員角色。
+登入 SharePoint 線上布建服務，以及布建自訂學習要求承租人系統管理員許可權。 如果您遇到 SharePoint 線上布建服務的登入問題，請確定您已被指派全域系統管理員角色。 自訂學習解決方案需要租使用者系統管理員許可權，否則稱為 Office 365 全域系統管理員角色。 以下是判斷您是否已被指派全域系統管理員角色的方法。
 
 1.  登入 Office.com。
-2.  按一下 [**系統管理**
-3.  [**使用者**] 下方選取 [**作用中使用者**
+2.  按一下 [**管理**]
+3.  在 [**使用者**] 底下，選取 [作用中**使用者**]
 4.  搜尋您的名稱
-5.  按一下您在搜尋結果中的名稱。 全域系統管理員應該會看到您的角色。
+5.  按一下搜尋結果中的名稱。 您應該會看到全域管理員的角色。
 
-![cg globaladminrole.png](media/cg-globaladminrole.png)
+![cg-globaladminrole.png](media/cg-globaladminrole.png)
 
 ### <a name="if-you-dont-have-the-global-administrator-role"></a>如果您沒有全域系統管理員角色
-- 尋找組織中的全域系統管理員和擁有該登入服務，或已將其指派給您的全域系統管理員角色的人員。
+- 尋找組織中的全域系統管理員，讓該人員登入服務，或讓他們為您指派全域系統管理員角色。
 
-## <a name="tenant-app-catalog-troubleshooting"></a>疑難排解的租用戶應用程式目錄
-自訂學習需要應用程式目錄]，以目標租用戶中佈建。 建立的應用程式目錄需要全域系統管理員權限。 以下是為一般應用程式目錄問題進行疑難排解步驟：
+## <a name="tenant-app-catalog-troubleshooting"></a>租使用者應用程式目錄疑難排解
+自訂學習需要在目標租使用者中布建應用程式目錄。 建立應用程式目錄需要全域管理員許可權。 以下是常見應用程式目錄問題的疑難排解步驟：
 
-### <a name="how-to-know-if-you-have-a-tenant-app-catalog"></a>如何知道您是否擁有租用戶應用程式目錄 
-首先，請確定您具備全域系統管理員權限。 請參閱上述的租用戶系統管理員權限的步驟。
+### <a name="how-to-know-if-you-have-a-tenant-app-catalog"></a>如何知道您是否有租使用者應用程式目錄 
+針對初學者，請確定您具有全域管理員許可權。 請參閱上述租使用者管理員許可權的步驟。
 
-1. 從 Office 365 中，按一下 [**系統管理員**，請按一下展開箭頭 >，按一下 [**顯示所有** > **系統管理中心** > **SharePoint**。
-2. 按一下 [**傳統系統 SharePoint 管理中心** > **apps** > **應用程式目錄**。
-3. 在**應用程式**，您應該會看到標題為**Distribute SharePoint 相關應用程式**的磚。 如果您看到磚，您必須租用戶應用程式目錄。 請參閱以下 [**如何確定您是網站 Colllection...** ] 區段。 如果您沒有看到 [您需要建立您的租用戶的租用戶應用程式目錄] 磚。 請參閱 <<c0>如何建立租用戶應用程式目錄] 區段下方。
+1. 從 Office 365，按一下 [**管理**]，按一下展開箭號 >，然後按一下 [**顯示所有**系統  >  **管理中心**]  >  **SharePoint**。
+2. 按一下 [**傳統系統管理員 SharePoint 中心**  >  **應用**  >  **程式] 應用程式目錄**。
+3. 在 [ **應用程式**] 底下，您應該會看到一個貼上標題為「 **散佈應用程式 SharePoint**。 如果您看到的是磚，表示您有租使用者應用程式目錄。 請參閱 how **to 確定您的網站 Colllection ...** ] 區段。 如果您看不到所需的磚，您將需要為您的租使用者建立承租人應用程式目錄。 請參閱 **如何建立租使用者應用程式目錄** 一節。
 
-### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>如何確保您的租用戶應用程式目錄網站集合擁有人 
-若要佈建學習路徑的 Microsoft 365，您必須是租用戶應用程式目錄網站集合擁有人。 以下是如何判斷您是否擁有者。
+### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>如何確保您是租使用者應用程式目錄上的網站集合擁有者 
+若要布建 Microsoft 365 學習路徑，您必須是租使用者應用程式目錄上的網站集合擁有者。 以下是判斷您是否為擁有者的方式。
 
-1. 從 Office 365 中，按一下 [**系統管理員**，請按一下展開箭頭 >，按一下 [**顯示所有** > **系統管理中心** > **SharePoint**。
-2. 按一下 [**傳統系統 SharePoint 管理中心**]，然後選取 [**應用程式目錄**。
-3. 選取**擁有者**，並請確定您是網站集合擁有者。 它看起來應該像這樣。
+1. 從 Office 365，按一下 [**管理**]，按一下展開箭號 >，然後按一下 [**顯示所有**系統  >  **管理中心**]  >  **SharePoint**。
+2. 按一下 [ **傳統 Admin SharePoint Center**]，然後選取 **應用程式目錄**。
+3. 選取 [ **擁有**者]，然後確定您是網站集合擁有者。 它看起來應該像這樣。
  
-![cg sitecollectionowner.png](media/cg-sitecollectionowner.png)
+![cg-sitecollectionowner.png](media/cg-sitecollectionowner.png)
 
-### <a name="how-to-create-a-tenant-app-catalog-if-one-doesnt-exists"></a>如何建立租用戶應用程式目錄，如果其中一個不存在 
-1. 使用您的 SharePoint Online 系統管理員帳戶登入 Office 365。
-2. 按一下 [**系統**]。
-3. 在**系統管理中心**中，按一下 [ **SharePoint**]。 
-4. 按一下 [**應用程式** > **應用程式目錄**。
-5. 按一下 [**建立新的應用程式目錄網站**]，然後按一下 [**確定]**。 
-6.  輸入應用程式目錄的資訊。 您可能想要包含一個以上的系統管理員。 下列範例會示範。  
+### <a name="how-to-create-a-tenant-app-catalog-if-one-doesnt-exists"></a>如何建立租使用者應用程式目錄（若有的話） 
+1. 使用您的 SharePoint 線上系統管理員帳戶登入 Office 365。
+2. 按一下 [ **管理**]。
+3. 在 [系統 **管理中心**] 底下，按一下 [ **SharePoint**]。 
+4. 按一下 [**應用**  >  **程式應用程式目錄**]。
+5. 按一下 [ **建立新的應用程式目錄網站**]，然後按一下 **[確定]**。 
+6.  輸入應用程式目錄的資訊。 您可能想要包含一個以上的系統管理員。 下列範例所示。  
 
-![cg appcatalogfinish.png](media/cg-appcatalogfinish.png)
+![cg-appcatalogfinish.png](media/cg-appcatalogfinish.png)
 
-7.  這樣就完成了。 您已經完成。 但是，您將移至佈建自訂學習之前，您需要等候至少 30 分鐘，以確定應用程式目錄建立完畢。 
+7.  這樣就完成了。 您已經完成。 但在您進入自訂教學之前，您至少需要等候30分鐘，確定應用程式目錄建立已完成。 
 
 > [!IMPORTANT]
-> 請等候至少 30 分鐘後再佈建自訂學習建立租用戶應用程式目錄。 這可確保佈建程序的應用程式目錄是 SharePoint 內完成。 
+> 在建立承租人應用程式目錄之後，請至少等候30分鐘，再提供自訂學習。 這可確保應用程式目錄布建程式在 SharePoint 內完成。 

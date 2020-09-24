@@ -1,54 +1,46 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 概觀
+title: 自訂學習路徑
 ms.date: 02/18/2019
-description: 自訂學習 for Office 365 系統管理員的概觀
-ms.openlocfilehash: 6aee3a93a5109b37e43a7118bd98ca31e8b9ac1f
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: 自訂學習路徑
+ms.service: sharepoint online
+ms.openlocfilehash: 56027e48917cbdeeb2187f87497f3281fff3c23a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055628"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234225"
 ---
-# <a name="customize-the-learning-experience"></a>自訂的學習體驗
+# <a name="customize-learning-pathways"></a>自訂學習路徑
 
-簡介自訂學習運作的 Office 365，Microsoft 提供的新的解決方案設計用來加速使用情況和採用 Office 365 組織內。 自訂學習，您可以進行下列作業：
-- 量身訂做為您的環境的 Office 365 學習和採用率內容 
-- 隱藏或顯示內容以反映服務或貴組織中支援的功能 
-- 保留內容和使用者目前與學習從 Microsoft 內容的最新摘要 
-- 建立自訂播放清單及製作特別為您的使用者需求的類別
+Microsoft 365 教學路徑提供各種方式，可讓您自訂群組織的內容。 例如，您可以：  
+- 修改教學路徑 SharePoint 網站-變更網站名稱、徽標和使用者。 修改 [提問] 和 [取得協助] 頁面，以建立您自己的説明中心。 
+- 隱藏或顯示內容，以反映組織中支援的服務或功能 
+- 專為使用者的需求建立自訂的播放清單和子類別
+- 組建具有篩選內容的登陸頁面以支援商務成果，例如促進 Microsoft 團隊的採用、Outlook 行動性，或與 Microsoft 365 的共同作業。
 
-![cg introducing.png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
-## <a name="how-does-custom-learning-work"></a>自訂學習如何運作？
+## <a name="requirements-and-permissions"></a>需求和許可權
 
-了解 Office 365 （簡稱為自訂學習） 的自訂是由三個部分所組成： 
-1. Microsoft online 目錄內容的即時摘要
-2. SharePoint 通訊網站
-3. SharePoint 網頁組件 
+開始使用自訂學習路徑指導之前，請確定您的 SharePoint 租使用者管理員已設定教學路徑。 如果您不確定是否已設定，請聯繫 SharePoint 租使用者管理員，確認已布建教學路徑。 此外，請務必取得教學路徑 SharePoint 網站的 URL。 如果您是租使用者系統管理員，且尚未布建學習路徑，請參閱布建 [學習路徑](custom_provision.md)。 
 
-![cg howitworks.png](media/cg-howitworks.png)
+### <a name="permissions-to-provision-learning-pathways"></a>提供學習路徑的許可權
 
-## <a name="requirements-and-permissions"></a>需求和權限
+- 租使用者系統管理員（也稱為 Office 365 全域系統管理員）
+- 具有網站上擁有者權限的 SharePoint 網站集合系統管理員
 
-開始之前與本指南，確保自訂學習具有已設定由您 SharePoint 租用戶系統管理員。 如果您不確定如果它設定好之後，請連絡您的 SharePoint 租用戶系統管理員，若要確認已佈建自訂學習。 也請務必要取得自訂學習 SharePoint 網站的 URL。 如果您是租用戶系統管理員，而且尚未佈建自訂學習，請參閱 <<c0>佈建自訂學習。 
-
-### <a name="permissions-to-provision-custom-learning"></a>佈建自訂學習的權限
-
-- 租用戶系統管理員，也就是 Office 365 全域系統管理員
-- SharePoint 網站集合管理員與擁有者網站的權限
-
-### <a name="permissions-to-use-custom-learning-administration-features"></a>使用自訂學習管理功能的權限
+### <a name="permissions-to-use-learning-pathways-administration-features"></a>使用學習路徑管理功能的許可權
 
 - 網站集合管理員
-- SharePoint 擁有者或成員的權限
+- SharePoint 擁有者或成員許可權
 
-### <a name="permissions-to-use-the-custom-learning-site-as-a-user"></a>若要使用自訂學習站台作為使用者的權限
+### <a name="permissions-to-use-the-learning-pathways-site-as-a-user"></a>以使用者身分使用學習路徑網站的許可權
 
-- Office 365 使用者權限/SharePoint 網站訪客權限或更高層級
+- Office 365 使用者權限/SharePoint 網站訪客權限或較高
 
-## <a name="get-started-with-customization"></a>自訂快速入門
-一旦您已確定滿足您有自訂的網站和網頁組件的必要權限，該是時候來開始使用的自訂程序。 
+## <a name="get-started-with-customization"></a>開始使用自訂
+在您確保具備自訂網站和網頁元件的必要許可權之後，就可以開始使用自訂程式。 
 
-- 若要開始，請參閱[移至的自訂學習網站](custom_goto.md)。
+- 若要開始，請參閱 [移至 [學習路徑] 網站](custom_goto.md)。

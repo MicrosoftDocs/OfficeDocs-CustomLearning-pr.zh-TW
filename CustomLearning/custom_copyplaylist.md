@@ -3,37 +3,38 @@ author: pkrebs
 ms.author: pkrebs
 title: 複製播放清單
 ms.date: 02/18/2019
-description: 如何將複製播放清單
-ms.openlocfilehash: 0dce25a5ce9922d9a6a534144b29fc5b7ae90da6
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+description: 如何複製播放清單
+ms.service: sharepoint online
+ms.openlocfilehash: f97b2e45f60a9d26f715f80ab29ae754b4dd0e1f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956522"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234535"
 ---
 # <a name="copy-a-playlist"></a>複製播放清單
-通常，組織需要移除或取代資產組織所建立的資產，藉此修改 Microsoft 提供的播放清單。 例如，您可能想要移除六個簡單的步驟播放清單的開頭的步驟。 現在您可以使用學習路徑複製播放清單中可用的功能輕易地複製六個簡單的步驟播放清單及只移除資產，取代資產，或新增新的資產。 
+組織非常經常需要透過組織所建立的資產移除或取代資產，以修改 Microsoft 提供的播放清單。 例如，您可能想要移除從六個簡單步驟播放清單開始的步驟。 現在，您可以使用學習路徑副本播放清單功能輕鬆複製六個簡單的步驟播放清單，只需要移除資產、更換資產或新增資產。 
 
-## <a name="to-copy-a-playlist"></a>若要複製播放清單
+## <a name="to-copy-a-playlist"></a>複製播放清單
 
-1. 從 Microsoft 365 學習路徑 [**首頁**] 頁面，按一下 [ **Office 365 訓練**。
-2. 按一下 [**管理**] 圖示。
-3. 在**第一天**下, 按一下**六個簡單的步驟-歡迎使用 Office 365**播放清單，，然後按一下 [**複製播放清單**。 
-4. 按一下 [**編輯詳細資料**，然後填入**標題**與**描述**] 欄位中所示在下列範例中，然後按一下 [**儲存的詳細資料**。  
+1. 在 [Microsoft 365 **學習路徑] 首頁上** ，按一下 [ **Office 365 訓練**]。
+2. 按一下 [ **管理** ] 圖示。
+3. 在 [ **第一天**] 底下，按一下 **六個簡單的步驟-歡迎使用 Office 365** 播放清單，然後按一下 [ **複製播放清單**]。 
+4. 按一下 [ **編輯詳細資料**]，然後填入 [ **標題** ] 和 [ **描述** ] 欄位（如下列範例所示），然後按一下 [ **儲存詳細資料**]。  
  
-![cg copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
+![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
 
-## <a name="add-or-remove-assets-from-a-playlist"></a>從新增或移除資產播放清單
-自訂播放清單，您可以進行下列作業：
-- 新增和移除 Microsoft 資產，但不是能編輯 microsoft 資產
-- 新增、 移除及編輯自訂的現有 SharePoint 資產，從您的組織或您所建立的 SharePoint 資產。 
+## <a name="add-or-remove-assets-from-a-playlist"></a>新增或移除播放清單中的資產
+使用自訂播放清單，您可以：
+- 新增和移除 Microsoft 資產，但不編輯 Microsoft 的資產
+- 新增、移除及編輯您組織中的自訂現有 SharePoint 資產，或 SharePoint 您建立的資產。 
 
-### <a name="remove-an-asset-from-a-playlist"></a>資產移除播放清單
-- 捲動 [**管理**] 頁面，然後按一下 [**播放清單資產**下的 [**步驟 5 的刪除圖示。設定行動裝置 app**。 
+### <a name="remove-an-asset-from-a-playlist"></a>移除播放清單中的資產
+- 向下流覽 [ **管理** ] 頁面，然後在 [ **播放清單資產** ] 底下，按一下步驟5的刪除圖示 **。設定行動應用程式**。 
 
-## <a name="verify-the-asset-is-removed-from-the-playlist"></a>確認資產移除從播放清單
-1. 會傳回與**Microsoft 365 訓練**頁面] 索引標籤。
-2. 按一下 [**第一天**，然後按一下 [**簡單的五個步驟的歡迎使用 Office 365**播放清單。 
-3. 按一下 [透過若要確認已移除資產播放清單。
+## <a name="verify-the-asset-is-removed-from-the-playlist"></a>確認資產已從播放清單中移除
+1. 使用 [ **Microsoft 365 訓練** ] 頁面回到索引標籤。
+2. 按 [ **第一天**]，然後按一下 **五個簡單的步驟-歡迎使用 Office 365** 播放清單。 
+3. 依序按一下播放清單，確認資產是否已移除。
 
 

@@ -1,27 +1,33 @@
 ---
-標題: ''
-ms.openlocfilehash: 606e1da0f195534e5c23fd6d587daa2935005cd4
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: 擁護者計畫的最佳作法-收集意見反應
+description: 運用我們的冠軍計畫最佳作法，促進 Office 365 的採用
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 56549c66672d98a217e5dedbf88392855c0dd685
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055273"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233435"
 ---
 # <a name="collect-feedback-from-your-employees"></a>從您的員工收集意見反應
 
-新的共同作業體驗採用是關於變更您的使用者的行為。 人類的變更需要訓練，鼓勵，誤判的範例。 它也有重大要在轉換期間覺得聽到的人員。 如果您先前已在組織中建立成功的意見反應方法，請考慮展開到包含 Office 365 實作。 如果您未完成之前，請考慮下列方法之一：
+採用新的共同作業經驗是關於變更使用者的行為。 「人工變更」需要訓練、encouragement 及積極的範例。 在轉換期間，人們也會聽到人們的感覺。 如果您先前已在組織中建立成功的回饋方法，請考慮將其展開以包含您的 Office 365 實施。 如果您先前尚未執行此作業，請考慮使用下列其中一種方法：
 
-## <a name="use-yammer-to-provide-an-open-community-for-best-practices-and-support-for-the-experience"></a>使用 Yammer，以開啟社群提供最佳作法和支援體驗。
-社群導向的意見反應方法需要冠軍和服務擁有者投入。 建立為已推出的技術祕開啟 Yammer 社群。 舉個例說您可能會有一般一份運作的 Office 365 或選擇 [設為目標的 Office、 Microsoft Teams 或其他技術使用者。  我們建議您在這些成員之間旋轉的 Yammer 社群建立監視排程。 
+## <a name="use-yammer-to-provide-an-open-community-for-best-practices-and-support-for-the-experience"></a>使用 Yammer 為最佳作法和支援體驗提供開啟的社區。
+社區導向的意見反應方法需要擁護者和服務擁有者。 建立 targetted 的 Yammer 社區，以供您所推出的技術使用。 例如，Office 365 的一般是一個一般的，您可以選擇將它設定為 Office、Microsoft 團隊或其他技術的使用者。  建議您為 Yammer 社區建立監視排程，以在這些成員之間旋轉。 
 
-## <a name="creating-an-org-wide-team-within-microsoft-teams-up-to-2500"></a>建立的全組織小組內 Microsoft Teams （最多 2500)
-較小的組織的全組織、 公用小組也可以提供重心意見反應和說明。  請考慮建立稱為 「 詢問修 」 來促進冠軍與員工之間的通訊通道。  請記住，目前 Microsoft Teams 的限制為 2500年人員還是此將在未來增加。 您可以深入了解[這篇文章](https://docs.microsoft.com/en-us/microsoftteams/create-an-org-wide-team)中的全組織小組。 
+## <a name="creating-an-org-wide-team-within-microsoft-teams-up-to-2500"></a>在 Microsoft 團隊內部建立全組織小組 (高達 2500) 
+若為小型組織，組織範圍的公開小組也可以為意見反應及協助提供重心。  考慮建立一個名為 "Ask a 冠軍" 的通道，以促進冠軍與員工之間的通訊。  請記住，目前的 Microsoft 小組限制為2500人員，但今後會增加。 您可以在 [本文](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)中深入瞭解整個組織的團隊。 
 
-## <a name="microsoft-forms-for-employee-surveys"></a>Microsoft Forms 員工問卷
+## <a name="microsoft-forms-for-employee-surveys"></a>員工調查的 Microsoft 表單
 
-使用[Microsoft Forms](https://support.office.com/en-us/forms)與機碼進行部署的相關的簡短問卷一組使用者。  我們建議您寄出這些問卷開頭、 中間以及服務部署的尾端。  這會提供您寶貴的資料，若要繼續改善您的方法。  
+使用 [Microsoft Forms](https://support.office.com/forms) ，使用主要使用者組對您的部署進行簡短調查。  我們建議您在開始時、中間和服務部署結束時，送出這些調查。  這將提供重要的資料，以繼續改善您的方法。  
 
-## <a name="highlight-the-wins-share-showcases"></a>反白顯示 Wins： 共用 Showcases
-當您繼續沿著此旅程，您會發現員工使用 Office 365 其發揮創意會意外並 delight 您的 showcases。 我們建議您針對共用這些 showcases。 這會鼓勵其他人是創新，教育使用者可能會是前面的採用曲線的終止，並表揚使用者已採取仔細考慮如何於其環境中的最佳使用 Office 365 的時間。 設定的識別設定數 showcases 每季可以測量的目標是維護採用後盾很有幫助。
+## <a name="highlight-the-wins-share-showcases"></a>反白顯示 Wins：共用展示
+當您繼續此次旅程時，您會發現展示其創造性的 Office 365 員工將會感到驚訝並愉悅感您。 我們建議您廣泛分享這些展示。 這會鼓勵其他人具有創新性、教育可能在採用曲線中的使用者，並獎勵如何在其環境中最佳使用 Office 365 的人員。 設定評估每個季度的集合數目可度量的目標，有助於維護採用勢頭。
 
-共用這些 showcases 在激勵其他員工，並協助他們了解 Office 365 的優點您公用社群。  
+在您的公用社區中共用這些展示，以鼓舞其他員工，並協助他們瞭解 Office 365 的益處。  

@@ -4,36 +4,37 @@ ms.author: pkrebs
 title: 移至 Microsoft 365 學習路徑網站
 ms.date: 02/18/2019
 description: 移至 Microsoft 365 學習路徑網站
-ms.openlocfilehash: 9b10552f17028b384b60b71f92e132686a65d776
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 5d102092f639e91c39dc163b0acab004d5605d86
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956620"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234375"
 ---
 # <a name="go-to-the-microsoft-365-learning-pathways-site"></a>移至 Microsoft 365 學習路徑網站
 
-Microsoft 365 學習 Office 365 網站的路徑網站裝載於您的 Office 365 租用戶，因此您必須登入 Office 365 來取得站台。 如果您尚未登入 Office 365，立即登入。 
+Office 365 網站的 Microsoft 365 教學路徑網站主控于您的 Office 365 租使用者，所以您必須登入 Office 365 以取得網站。 若尚未登入 Office 365，請立即登入。 
 
 ## <a name="sign-in"></a>登入  
 
-1.  開啟網頁瀏覽器並瀏覽至 office.com 或貴組織的登入的位置。 
+1.  開啟網頁瀏覽器，並瀏覽至 office.com 或貴組織的登入位置。 
 2.  使用您的使用者名稱和密碼登入。
-3.  瀏覽至網站使用您的租用戶系統管理員所提供的 URL 位置或從 Office 365 家用版] 頁面上，選取 SharePoint，然後選取 [Microsoft 365 學習路徑網站。 
-5. 按一下以查看一套完整的訓練播放清單可與 Microsoft 365 學習路徑的**Microsoft 365 訓練**] 磚。 
+3.  使用您的承租人系統管理員提供的 URL，流覽至網站的位置，或從 Office 365 首頁選取 [SharePoint]，然後選取 [Microsoft 365 學習路徑] 網站。 
+5. 按一下 [ **microsoft 365 訓練** ] 磚，查看完整的訓練播放清單套件，以供 Microsoft 365 學習路徑使用。 
 
-## <a name="view-all-the-learning-pathways-content"></a>檢視所有學習路徑內容
-Microsoft 365 訓練] 頁面上主控網頁組件設定為顯示所有可用的學習路徑的訓練學習路徑。 
+## <a name="view-all-the-learning-pathways-content"></a>查看所有學習路徑內容
+Microsoft 365 訓練頁面會主控「學習路徑」網頁元件，設定為顯示所有可用於學習路徑的訓練。 
 
-1. 若要檢視所有類別和子類別頁面上向下拉動捲軸。
-2. 開始進行有點輪胎的。 按一下少數子類別，然後按一下 [取得風格學習路徑內容組織方式的一些播放清單。 
+1. 向右下向左下頁面以查看所有類別和子類別。
+2. 一位開始輪胎。 按一下一些子類別，然後按一下一些播放清單，以瞭解如何組織學習路徑內容。 
 
-## <a name="navigate-through-learning-pathways-playlists"></a>瀏覽學習路徑播放清單
-瀏覽學習路徑播放清單已改善根據上使用者的意見反應。 
+## <a name="navigate-through-learning-pathways-playlists"></a>流覽學習路徑播放清單
+導覽透過學習路徑播放清單已根據使用者的意見反應進行改進。 
 
-1. 按一下 [ **Microsoft Teams**子類別，然後按一下 [**安裝程式，並自訂您的小組**播放清單。 下列範例所示，您會看到播放清單。
-2. 按一下 [下一步] 和 [上一頁] 按鈕來瀏覽播放清單
-3. 按一下 [檢視播放清單的內容，並瀏覽至特定主題的導覽列中的下拉式箭號
-4. 按一下切換全螢幕模式] 按鈕，以全螢幕檢視資產。 按一下 [切換全螢幕模式中，以返回預設瀏覽模式。
-5. 使用階層連結來瀏覽回子類別或網頁組件的 [首頁] 頁面。  
+1. 按一下 [ **Microsoft 小組** ] 子類別，然後按一下 **設定和自訂小組** 播放清單。 您會看到播放清單，如下列範例所示。
+2. 按一下 [下一步] 和 [上一步] 按鈕流覽播放清單
+3. 按一下導覽列中的下拉式箭頭，以查看播放清單的內容，並流覽至特定主題。
+4. 按一下 [切換全螢幕模式] 按鈕，以全屏模式查看資產。 再次按一下 [切換全螢幕模式]，以回到預設的瀏覽模式。
+5. 使用軌跡瀏覽回到網頁元件的子類別或首頁。  
 
