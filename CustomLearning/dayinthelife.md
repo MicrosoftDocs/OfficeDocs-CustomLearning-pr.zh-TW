@@ -1,6 +1,10 @@
-# <a name="day-in-the-life-with-office-365"></a><span data-ttu-id="8a0e2-101">與 Office 365 生命週期中的一天</span><span class="sxs-lookup"><span data-stu-id="8a0e2-101">Day in the Life with Office 365</span></span>
+---
+職稱： # 冠軍計畫最佳作法說明： # Drive 使用 Office 365 與我們的冠軍計畫最佳作法： {github-識別碼} # karuanag ms. author： {ms-alias} # karuanag 毫秒。主題： 02/01/2019 @date {開始 # how to ms. 服務： sharepoint online
+---
 
-<span data-ttu-id="8a0e2-102">若要改善您的團隊合作，在任何裝置上使用 Office 365 雲端服務。</span><span class="sxs-lookup"><span data-stu-id="8a0e2-102">Use Office 365 cloud services to improve your teamwork on any device.</span></span>  <span data-ttu-id="8a0e2-103">關注我們透過這些常見的案例，以查看如何您可以簡化您的共同作業、 通訊和內容建立當您移到您的日子。</span><span class="sxs-lookup"><span data-stu-id="8a0e2-103">Follow us through these common scenarios to see how you can streamline your collaboration, communication, and content creation as you go through your day.</span></span>  
+# <a name="day-in-the-life-with-office-365"></a><span data-ttu-id="9aa71-102">Office 365 生命週期中的一天</span><span class="sxs-lookup"><span data-stu-id="9aa71-102">Day in the Life with Office 365</span></span>
 
-![Life visual 中的一天](media/m365day.png)
+<span data-ttu-id="9aa71-103">使用 Office 365 雲端服務提升您在任何裝置上的團隊合作。</span><span class="sxs-lookup"><span data-stu-id="9aa71-103">Use Office 365 cloud services to improve your teamwork on any device.</span></span>  <span data-ttu-id="9aa71-104">請在這些常見案例中追蹤，以瞭解在您一天內，您可以如何簡化共同作業、通訊和內容建立。</span><span class="sxs-lookup"><span data-stu-id="9aa71-104">Follow us through these common scenarios to see how you can streamline your collaboration, communication, and content creation as you go through your day.</span></span>  
+
+![生命視覺效果中的日](media/m365day.png)
 

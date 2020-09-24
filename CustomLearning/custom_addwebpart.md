@@ -1,44 +1,45 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 新增及編輯 Microsoft 365 學習路徑網頁組件
+title: 新增和編輯 Microsoft 365 學習路徑網頁元件
 ms.date: 02/17/2019
-description: 新增 Microsoft 365 學習路徑網頁組件至 SharePoint 頁面
-ms.openlocfilehash: 1b3f4c15410ed9d528aad35198f02426a2de6fa2
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+description: 將 Microsoft 365 學習路徑網頁元件新增至 SharePoint 頁面
+ms.service: sharepoint online
+ms.openlocfilehash: 35b07940f0f71dd3c8398412c755d514a951b6d1
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248094"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234655"
 ---
-# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a><span data-ttu-id="665af-103">新增及編輯 Microsoft 365 學習路徑網頁組件</span><span class="sxs-lookup"><span data-stu-id="665af-103">Add and Edit the Microsoft 365 learning pathways web part</span></span>
+# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a><span data-ttu-id="e9e9d-103">新增和編輯 Microsoft 365 學習路徑網頁元件</span><span class="sxs-lookup"><span data-stu-id="e9e9d-103">Add and Edit the Microsoft 365 learning pathways web part</span></span>
 
-<span data-ttu-id="665af-104">Microsoft 365 學習路徑可讓您靈活地新增學習路徑網頁組件至 SharePoint] 頁面上，Microsoft 365，然後篩選的網頁組件，以符合頁面的學習目標內容。</span><span class="sxs-lookup"><span data-stu-id="665af-104">Microsoft 365 learning pathways gives you the flexibility to add the Microsoft 365 learning pathways web part to a SharePoint page, and then filter the contents of the Web part to meet the learning objectives for the page.</span></span> <span data-ttu-id="665af-105">例如，您無法建立 「 讓切換至 OneDrive 」 頁面，然後新增網頁組件再將其設定為顯示特別為您的組織建立的自訂 OneDrive 移轉播放清單。</span><span class="sxs-lookup"><span data-stu-id="665af-105">For example, you could create a "Make the Switch to OneDrive" page, then add the Web part and configure it to show custom OneDrive migration playlists created especially for your organization.</span></span>
+<span data-ttu-id="e9e9d-104">Microsoft 365 學習路徑可讓您靈活地將 Microsoft 365 學習路徑網頁元件新增至 SharePoint 頁面，然後篩選網頁元件的內容，以符合頁面的學習目標。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-104">Microsoft 365 learning pathways gives you the flexibility to add the Microsoft 365 learning pathways web part to a SharePoint page, and then filter the contents of the Web part to meet the learning objectives for the page.</span></span> <span data-ttu-id="e9e9d-105">例如，您可以建立 [切換至 OneDrive] 頁面，然後新增網頁元件，並將其設定為顯示專門為組織建立的自訂 OneDrive 遷移播放清單。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-105">For example, you could create a "Make the Switch to OneDrive" page, then add the Web part and configure it to show custom OneDrive migration playlists created especially for your organization.</span></span>
 
-1.  <span data-ttu-id="665af-106">按一下 [SharePoint 齒輪圖示，，然後按一下 [**新增工作] 頁面**。</span><span class="sxs-lookup"><span data-stu-id="665af-106">Click the SharePoint Gear icon, and then click **Add a page**.</span></span>
-2.  <span data-ttu-id="665af-107">按一下左側的 [] 頁面上的 [**新增新區段 （+）** ，然後按一下 [**一欄**。</span><span class="sxs-lookup"><span data-stu-id="665af-107">Click **Add a new section (+)** on the left-hand side of the page, and then click **One Column**.</span></span>
-3.  <span data-ttu-id="665af-108">按一下 [ **+**，然後選取 [ **Microsoft 365 學習路徑**網頁組件。</span><span class="sxs-lookup"><span data-stu-id="665af-108">Click **+**, then select **Microsoft 365 learning pathways** web part.</span></span> 
+1.  <span data-ttu-id="e9e9d-106">按一下 SharePoint 齒輪圖示，然後按一下 [ **新增頁面**]。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-106">Click the SharePoint Gear icon, and then click **Add a page**.</span></span>
+2.  <span data-ttu-id="e9e9d-107">按一下頁面左側的 [ \*\*新增新的區段 (+) \*\* ，然後按一下 [ **一欄**]。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-107">Click **Add a new section (+)** on the left-hand side of the page, and then click **One Column**.</span></span>
+3.  <span data-ttu-id="e9e9d-108">按一下 **+** ，然後選取 [ **Microsoft 365 學習路徑** 網頁元件]。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-108">Click **+**, then select **Microsoft 365 learning pathways** web part.</span></span> 
 
-![cg webpartadd.png](media/cg-webpartadd.png)
+![cg-webpartadd.png](media/cg-webpartadd.png)
 
-## <a name="edit-the-custom-learning-web-part"></a><span data-ttu-id="665af-110">編輯自訂學習網頁組件</span><span class="sxs-lookup"><span data-stu-id="665af-110">Edit the Custom Learning web part</span></span>
-<span data-ttu-id="665af-111">您可以編輯 Microsoft 365 學習路徑網頁組件以顯示所有可用自訂學習內容或特定的類別、 子類別、 播放清單或資產。</span><span class="sxs-lookup"><span data-stu-id="665af-111">You can the edit the Microsoft 365 learning pathways web part to show all the available Custom Learning content or a specific category, subcategory, playlist, or asset.</span></span> 
+## <a name="edit-the-custom-learning-web-part"></a><span data-ttu-id="e9e9d-110">編輯自訂學習網頁元件</span><span class="sxs-lookup"><span data-stu-id="e9e9d-110">Edit the Custom Learning web part</span></span>
+<span data-ttu-id="e9e9d-111">您可以編輯 Microsoft 365 學習路徑網頁元件，以顯示所有可用的自訂教學內容，或特定類別、子類別、播放清單或資產。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-111">You can the edit the Microsoft 365 learning pathways web part to show all the available Custom Learning content or a specific category, subcategory, playlist, or asset.</span></span> 
 
-1.  <span data-ttu-id="665af-112">按一下 [**編輯網頁組件**]。</span><span class="sxs-lookup"><span data-stu-id="665af-112">Click **Edit web part**.</span></span>
+1.  <span data-ttu-id="e9e9d-112">按一下 [ **編輯網頁元件**]。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-112">Click **Edit web part**.</span></span>
 
-![cg webpartedit.png](media/cg-webpartedit.png)
+![cg-webpartedit.png](media/cg-webpartedit.png)
 
-2. <span data-ttu-id="665af-114">在 [自訂學習屬性] 窗格中，篩選下列的網頁組件。</span><span class="sxs-lookup"><span data-stu-id="665af-114">In the Custom Learning Properties pane, filter the Web part for the following.</span></span> 
+2. <span data-ttu-id="e9e9d-114">在 [自訂學習屬性] 窗格中，篩選下列的網頁元件。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-114">In the Custom Learning Properties pane, filter the Web part for the following.</span></span> 
 
-- <span data-ttu-id="665af-115">網頁組件模式： 完整</span><span class="sxs-lookup"><span data-stu-id="665af-115">Webpart Mode: Full</span></span>
-- <span data-ttu-id="665af-116">篩選： 子類別</span><span class="sxs-lookup"><span data-stu-id="665af-116">Filter: Subcategory</span></span>
-- <span data-ttu-id="665af-117">子類別： Excel</span><span class="sxs-lookup"><span data-stu-id="665af-117">Subcategory: Excel</span></span>
+- <span data-ttu-id="e9e9d-115">Webpart 模式：完整</span><span class="sxs-lookup"><span data-stu-id="e9e9d-115">Webpart Mode: Full</span></span>
+- <span data-ttu-id="e9e9d-116">篩選：子類別</span><span class="sxs-lookup"><span data-stu-id="e9e9d-116">Filter: Subcategory</span></span>
+- <span data-ttu-id="e9e9d-117">子類別： Excel</span><span class="sxs-lookup"><span data-stu-id="e9e9d-117">Subcategory: Excel</span></span>
 
-3. <span data-ttu-id="665af-118">您的頁面現在看起來應該類似下列影像：</span><span class="sxs-lookup"><span data-stu-id="665af-118">Your page should now look something like the following image:</span></span> 
+3. <span data-ttu-id="e9e9d-118">您的頁面現在看起來應該像下列圖像：</span><span class="sxs-lookup"><span data-stu-id="e9e9d-118">Your page should now look something like the following image:</span></span> 
 
-![cg webpartfilter.png](media/cg-webpartfilter.png)
+![cg-webpartfilter.png](media/cg-webpartfilter.png)
 
-## <a name="add-a-title-and-publish-the-page"></a><span data-ttu-id="665af-120">新增標題並發佈頁面</span><span class="sxs-lookup"><span data-stu-id="665af-120">Add a title and publish the page</span></span>
-1. <span data-ttu-id="665af-121">在 [頁面的 [標題] 區域中，輸入 「 建立您自己的經驗 」。</span><span class="sxs-lookup"><span data-stu-id="665af-121">In the title area of the page, type "Create your own experience".</span></span>
-2. <span data-ttu-id="665af-122">按一下標題區域中的 [**編輯網頁組件**] 圖示，選取 [**純文字**在**版面配置**] 下，然後關閉 [**內容**] 窗格。</span><span class="sxs-lookup"><span data-stu-id="665af-122">Click the **Edit web part** icon in the Title area, select **Plain** under **Layout**, and then close the **Properties** pane.</span></span>
-3. <span data-ttu-id="665af-123">按一下 **[發佈]**。</span><span class="sxs-lookup"><span data-stu-id="665af-123">Click **Publish**.</span></span>
+## <a name="add-a-title-and-publish-the-page"></a><span data-ttu-id="e9e9d-120">新增標題併發布頁面</span><span class="sxs-lookup"><span data-stu-id="e9e9d-120">Add a title and publish the page</span></span>
+1. <span data-ttu-id="e9e9d-121">在頁面的 [標題] 區域中，輸入「建立您自己的經驗」。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-121">In the title area of the page, type "Create your own experience".</span></span>
+2. <span data-ttu-id="e9e9d-122">按一下標題區域中的 [**編輯網頁元件**] 圖示，然後在 [**版面**配置] 底下選取 [**純**文本]，然後關閉 [**屬性**] 窗格。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-122">Click the **Edit web part** icon in the Title area, select **Plain** under **Layout**, and then close the **Properties** pane.</span></span>
+3. <span data-ttu-id="e9e9d-123">按一下 **[發佈]**。</span><span class="sxs-lookup"><span data-stu-id="e9e9d-123">Click **Publish**.</span></span>

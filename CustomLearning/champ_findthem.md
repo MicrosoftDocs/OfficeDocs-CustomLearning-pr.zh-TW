@@ -1,29 +1,35 @@
 ---
-標題: ''
-ms.openlocfilehash: 9e05bd63cf1f534bcb912f6d578df4ce95a4660e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: 擁護者計畫的最佳作法-尋找冠軍
+description: 運用我們的冠軍計畫最佳作法，促進 Office 365 的採用
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: d3dc0b573469e8990c7b82014f645bcd4824a282
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055346"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233465"
 ---
-# <a name="finding-your-champions"></a><span data-ttu-id="7b451-102">尋找您冠軍</span><span class="sxs-lookup"><span data-stu-id="7b451-102">Finding your Champions</span></span> 
+# <a name="finding-your-champions"></a><span data-ttu-id="b9ee8-103">尋找您的冠軍</span><span class="sxs-lookup"><span data-stu-id="b9ee8-103">Finding your Champions</span></span> 
 
-<span data-ttu-id="7b451-103">很可能已經知道屬於您冠軍，即使您目前沒有正式的方案。</span><span class="sxs-lookup"><span data-stu-id="7b451-103">It is likely you already know who your champions are, even if you do not currently have a formal program.</span></span>  <span data-ttu-id="7b451-104">這些是人員人員：</span><span class="sxs-lookup"><span data-stu-id="7b451-104">These are people who:</span></span>
+<span data-ttu-id="b9ee8-104">即使您目前沒有正式的計畫，您也很可能已經知道您的冠軍冠軍是誰。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-104">It is likely you already know who your champions are, even if you do not currently have a formal program.</span></span>  <span data-ttu-id="b9ee8-105">以下是下列人員：</span><span class="sxs-lookup"><span data-stu-id="b9ee8-105">These are people who:</span></span>
 
-<span data-ttu-id="7b451-105">通常會看到可能關切這個限制目前解決方案為雖然嘗試新項目，即使之前其他同事的相關協助其他人與現有的技術享受教導和了解新技術</span><span class="sxs-lookup"><span data-stu-id="7b451-105">Are often seen helping others with existing technology Enjoy teaching and learning about new technology May be vocal about the limitations of current solutions Are keen to try new things, even before other co-workers</span></span>
+<span data-ttu-id="b9ee8-106">通常會看到協助現有技術的人員欣賞和瞭解新的技術可能會 vocal，以嘗試使用新的解決方案，甚至是在其他共同工作者之前</span><span class="sxs-lookup"><span data-stu-id="b9ee8-106">Are often seen helping others with existing technology Enjoy teaching and learning about new technology May be vocal about the limitations of current solutions Are keen to try new things, even before other co-workers</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="7b451-106">冠軍是不同於享受單獨技術的新軟體測試人員。</span><span class="sxs-lookup"><span data-stu-id="7b451-106">Champions are different from people who enjoy testing new software for the technology alone.</span></span> <span data-ttu-id="7b451-107">冠軍多不勝**協助其他人**無論內容為何。</span><span class="sxs-lookup"><span data-stu-id="7b451-107">Champions thrive on **helping others** regardless of context.</span></span> 
+> <span data-ttu-id="b9ee8-107">擁護者與僅針對技術測試新軟體的人員不同。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-107">Champions are different from people who enjoy testing new software for the technology alone.</span></span> <span data-ttu-id="b9ee8-108">擁護人員在 **協助其他人員** 上，不論內容為何。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-108">Champions thrive on **helping others** regardless of context.</span></span> 
 
-## <a name="start-small-and-grow"></a><span data-ttu-id="7b451-108">啟動小型及成長上</span><span class="sxs-lookup"><span data-stu-id="7b451-108">Start small and grow</span></span>
+## <a name="start-small-and-grow"></a><span data-ttu-id="b9ee8-109">開始小型和成長</span><span class="sxs-lookup"><span data-stu-id="b9ee8-109">Start small and grow</span></span>
 
-<span data-ttu-id="7b451-109">如果您的組織沒有目前的精銳程式或您想要重振一個您已傳送邀請給一小群的已知符合上述的設定檔的人員。</span><span class="sxs-lookup"><span data-stu-id="7b451-109">If your organization does not have a current Champion program or you would like to reinvigorate the one you have send an invitation to a small group of known people who fit the above profile.</span></span>  <span data-ttu-id="7b451-110">蒐集然後一起討論新程式的目標，並取得他們的意見反應。</span><span class="sxs-lookup"><span data-stu-id="7b451-110">Gather then together to discuss the goals of the new program and get their feedback.</span></span> <span data-ttu-id="7b451-111">True 是表示冠軍要與其為已聽取其語音覺得好像它們屬於建立某個項目。</span><span class="sxs-lookup"><span data-stu-id="7b451-111">True Champions like to have their voice heard and feel as if they are a part of creating something.</span></span>  
+<span data-ttu-id="b9ee8-110">如果您的組織沒有目前的冠軍計畫，或是您想要 reinvigorate 您已傳送邀請給符合上述設定檔之一小組的已知人員。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-110">If your organization does not have a current Champion program or you would like to reinvigorate the one you have send an invitation to a small group of known people who fit the above profile.</span></span>  <span data-ttu-id="b9ee8-111">然後再召集一併討論新程式的目標，並取得其意見反應。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-111">Gather then together to discuss the goals of the new program and get their feedback.</span></span> <span data-ttu-id="b9ee8-112">True 的擁護者喜歡其語音，也就像是建立某些專案的一部分一樣。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-112">True Champions like to have their voice heard and feel as if they are a part of creating something.</span></span>  
 
-## <a name="provide-structure"></a><span data-ttu-id="7b451-112">提供結構</span><span class="sxs-lookup"><span data-stu-id="7b451-112">Provide structure</span></span>
+## <a name="provide-structure"></a><span data-ttu-id="b9ee8-113">提供結構</span><span class="sxs-lookup"><span data-stu-id="b9ee8-113">Provide structure</span></span>
 
-<span data-ttu-id="7b451-113">成功精銳程式有前置字元和定期排程，以符合與討論，目前的問題。</span><span class="sxs-lookup"><span data-stu-id="7b451-113">Successful champion programs have a leader and a regular schedule to meet and discuss current issues.</span></span>  <span data-ttu-id="7b451-114">在最低限度下的每月會議會在社群中建立正文化特性和內部成長的重要部分。</span><span class="sxs-lookup"><span data-stu-id="7b451-114">Monthly meetings at a minimum are an important part of creating a positive culture in the community and fostering growth.</span></span>  
+<span data-ttu-id="b9ee8-114">成功的冠軍計畫具有領導者和定期排程，可達成並討論目前的問題。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-114">Successful champion programs have a leader and a regular schedule to meet and discuss current issues.</span></span>  <span data-ttu-id="b9ee8-115">每月會議最少是在社區中建立積極文化和促進成長的重要部分。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-115">Monthly meetings at a minimum are an important part of creating a positive culture in the community and fostering growth.</span></span>  
 
-<span data-ttu-id="7b451-115">您也可以使用 Microsoft Teams 建立團隊合作冠軍的計劃中樞。</span><span class="sxs-lookup"><span data-stu-id="7b451-115">You can also use Microsoft Teams to create a hub for your Teamwork Champions' program.</span></span>  <span data-ttu-id="7b451-116">可以在[本文](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)中找到該小組結構的範例。</span><span class="sxs-lookup"><span data-stu-id="7b451-116">An example for that team structure can be found in [this article](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams).</span></span>
+<span data-ttu-id="b9ee8-116">您也可以使用 Microsoft 小組為您團隊合作之擁護者的計畫建立中樞。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-116">You can also use Microsoft Teams to create a hub for your Teamwork Champions' program.</span></span>  <span data-ttu-id="b9ee8-117">您可以在 [本文](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams)中找到該小組結構的範例。</span><span class="sxs-lookup"><span data-stu-id="b9ee8-117">An example for that team structure can be found in [this article](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams).</span></span>
 
-![團隊合作精銳小組] 索引標籤](media/teams-adoption-tab-example.png)
+![團隊合作冠軍小組選項卡](media/teams-adoption-tab-example.png)
