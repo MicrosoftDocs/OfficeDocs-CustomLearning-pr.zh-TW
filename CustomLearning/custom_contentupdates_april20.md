@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 學習路徑內容更新
+title: 學習路徑內容更新四月
 ms.date: 3/30/2020
 description: 學習2020年4月內容更新的途徑
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234791"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261675"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 學習路徑內容更新
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Microsoft 365 教學四月的內容更新
 學習途徑致力於遵循每季內容更新週期。 下列清單2020年4月的內容更新。
 
 ## <a name="april-2020-content-updates"></a>2020年4月的內容更新
@@ -29,7 +29,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>遠端工作 (2 個新的播放清單/11 個新資產) 
 已將新的工作遠端子類別新增至可提供下列播放清單和資產功能的教學路徑： 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![可遠端作業播放清單的教學路徑](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>從遠端工作 (5 個新資產) 
 - 從 Office 365 遠端工作
@@ -38,7 +38,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 儲存您的工作檔案
 - 高級備選項
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>與 Office 365 合作的最佳作法 (6 個新資產) 
-- 開始使用
+- 入門
 - 共用
 - 共同作者
 - 檔中聊天
@@ -72,7 +72,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 ### <a name="office-for-the-web"></a>Office 網頁版
 適用于 web 的 office 提供一組播放清單，供使用者用來在網頁上建立、共用及共同作業的案例。 這組內容對從 Google G 套件切換至 Microsoft 365 的組織也很有價值。
 #### <a name="get-started-5-new-assets"></a>開始 (5 個新資產) 
-- 開始使用
+- 入門
 - 使用搜尋來尋找
 - 建立新檔
 - 回復至工作
