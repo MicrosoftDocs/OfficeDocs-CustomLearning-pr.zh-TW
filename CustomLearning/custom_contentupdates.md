@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: 學習路徑內容更新
 ms.date: 3/30/2020
 description: 學習路徑內容更新
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261687"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336401"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 學習路徑內容更新
 學習途徑致力於遵循每季內容更新週期。 下列列出9月2020的內容更新。
 
 ## <a name="september-2020-content-updates"></a>2020年9月內容更新
 學習途徑致力於遵循每季內容更新週期。 若要深入瞭解如何套用內容更新，以及如何管理內容更新，請參閱 [管理內容更新](custom_contentupdatesmanage.md)。 
+
+> [!IMPORTANT]
+> 九月份內容更新已發行為英文版。 簡體中文的內容更新 (簡化的) 、法文、德文、義大利文、日文、葡萄牙文 (巴西) 、俄文及西班牙文即將推出。  
 
 ### <a name="security"></a>安全性
 已新增新的安全性子類別與播放清單和資產，可協助使用者在辦公室和家裡更安全地運作。 
@@ -165,7 +168,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 儲存您的工作檔案
 - 高級備選項
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>與 Office 365 合作的最佳作法 (6 個新資產) 
-- 入門
+- 開始使用
 - 共用
 - 共同作者
 - 檔中聊天
@@ -199,7 +202,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 ### <a name="office-for-the-web"></a>Office 網頁版
 適用于 web 的 office 提供一組播放清單，供使用者用來在網頁上建立、共用及共同作業的案例。 這組內容對從 Google G 套件切換至 Microsoft 365 的組織也很有價值。
 #### <a name="get-started-5-new-assets"></a>開始 (5 個新資產) 
-- 入門
+- 開始使用
 - 使用搜尋來尋找
 - 建立新檔
 - 回復至工作
