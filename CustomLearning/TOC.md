@@ -14,6 +14,7 @@
 ## [翻譯學習路徑自訂播放清單](custom_translate_pl_ml.md)
 ## [翻譯網站名稱、瀏覽和頁尾](custom_sitenamenav_ml.md)
 # [系統管理成功中心](custom_successcenter.md)
+## [使用具學習路徑的 Advisor for Teams 協助您推出 Microsoft Teams](custom_teamsadvisor.md)
 ## 規劃學習內容 
 ### [規劃您的學習內容](custom_plancontent.md)
 ### [支援遠端員工的資源](custom_plancontent_remoteresources.md)
