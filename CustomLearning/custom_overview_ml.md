@@ -6,16 +6,16 @@ ms.date: 07/06/2020
 description: 學習路徑的多語系支援
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint online
-ms.openlocfilehash: 9df06c27b038b168383e1f0ad8632a68d4c0244f
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: e4069549cc5218ecc991a797f8a177e40c777e8e
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234155"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573395"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>學習路徑的多語系支援
 
-如果您的組織跨越不同的人口，您可以讓 Microsoft 365 教學路徑以多種語言提供。 學習路徑目前支援九種語言。 英文是預設語言。 支援的語言包括：   
+如果您的組織跨越不同的人口，您可以讓 Microsoft 365 教學路徑以多種語言提供。 學習路徑目前支援十種語言。 英文是預設語言。 支援的語言包括：   
 
 - 英文    
 - 簡體中文
@@ -26,6 +26,7 @@ ms.locfileid: "48234155"
 - 葡萄牙文 (巴西) 
 - 俄文 (俄文) 
 - 西班牙文
+- 荷蘭文
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>熟悉 SharePoint 線上多種語言功能
 針對通訊網站 SharePoint 線上多語言功能，可啟用教學路徑的多語系支援。

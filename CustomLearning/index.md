@@ -5,18 +5,18 @@ title: Microsoft 365 學習路徑概述
 ms.date: 9/24/2020
 description: 深入瞭解 Microsoft 365 的教學途徑如何加快組織中 Microsoft 365 服務的使用和採用。 學習路徑包括自訂的 SharePoint 線上網頁元件，以及可輕鬆布建至您的 Microsoft 365 租使用者的新式 SharePoint 線上通訊訓練網站。
 ms.service: o365-solutions
-ms.openlocfilehash: 8589b205ead505229ff8416b862c851c766b444f
-ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
+ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49614621"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573405"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 學習路徑 
 Microsoft 365 學習途徑是一種可自訂的隨選教學解決方案，其設計目的是為了增加組織中 Microsoft 365 服務的使用和採用。    
 
 > [!IMPORTANT]
-> 學習途徑致力於遵循每季內容更新週期。 從9/24/2020，我們已更新九月份內容更新的學習路徑內容。 若要深入瞭解九月份2020內容更新，請參閱 [內容更新](custom_contentupdates.md)。 若要瞭解如何套用內容更新及如何管理內容，請參閱 [管理內容更新](custom_contentupdatesmanage.md)。  
+> 學習途徑致力於遵循每季內容更新週期。 從3/1/2021，我們已更新三月份內容更新的學習路徑內容。 若要深入瞭解三月份內容更新，請參閱 [內容更新](custom_contentupdates.md)。 若要瞭解如何套用內容更新及如何管理內容，請參閱 [管理內容更新](custom_contentupdatesmanage.md)。  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>來自 Microsoft 的隨選自訂訓練
 

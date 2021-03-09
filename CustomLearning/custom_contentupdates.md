@@ -5,21 +5,142 @@ title: 學習路徑內容更新
 ms.date: 3/30/2020
 description: 學習路徑內容更新
 ms.service: o365-solutions
-ms.openlocfilehash: a292e0daa81b384bad8cf45fd2a9e0a1dc3257e7
-ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
+ms.openlocfilehash: 1cd46031ceb2ef1c88099d5556887aa7ea72cc80
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49614631"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573415"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 學習路徑內容更新
-學習途徑致力於遵循每季內容更新週期。 下列列出9月2020的內容更新。
-
-## <a name="september-2020-content-updates"></a>2020年9月內容更新
 學習途徑致力於遵循每季內容更新週期。 若要深入瞭解如何套用內容更新，以及如何管理內容更新，請參閱 [管理內容更新](custom_contentupdatesmanage.md)。 
 
-> [!IMPORTANT]
-> 九月份的內容更新已發行為英文、中文 (簡體) 、法文、德文、義大利文、日文、葡萄牙文 (巴西) 、俄文及西班牙文。  
+## <a name="march-2021-content-updates"></a>2021年3月內容更新
+下表列出2021年3月的內容更新。 
+
+### <a name="hybrid-workplace"></a>混合式工作區
+為了協助組織轉換至混合式工作區，其中員工在家中和 office 中工作，我們提供了一些播放清單，以協助使用者執行更有效率的會議、建立包容會議環境、共同作業 asychronously，以及使用即時事件來吸引大型的使用者。 混合式工作區子類別包含下列播放清單和資產。
+
+#### <a name="run-effective-meetings"></a>執行有效的會議
+- 執行有效的會議
+- 混合式會議
+- 混合式會議空間考慮
+- 在混合式會議之前、期間和之後要執行的動作
+- 排程有效的會議
+- 規劃和領導有效的會議
+- 在混合式會議中之前、期間和之後與您的受眾互動
+- 會議檢查清單
+- 減少會議 fatigue
+
+#### <a name="create-inclusive-meeting-environments"></a>建立非獨佔會議環境
+- 建立非獨佔會議環境
+- 使會議和相關內容可供所有
+- 在會議中限制干擾
+- 在不同時區間培養的理解
+
+#### <a name="asynchronous-collaboration-and-co-authoring"></a>非同步共同作業及共同撰寫
+- 使用非同步共同作業縮小或取代會議
+- 共同作業及共同撰寫共用內容
+- 在 Microsoft 365 中共同作業的最佳作法
+- 共同撰寫 Microsoft 365 檔案
+- 文件共同作業及共同撰寫
+- 與 SharePoint、小組和 OneDrive 協同合作
+- 小組合作
+- 在 SharePoint 中使用文件庫
+- 常見共同撰寫錯誤疑難排解
+
+#### <a name="reach-large-audiences-with-live-events"></a>使用即時事件吸引大型的受眾
+- 使用即時事件來吸引大型物件
+- 開始使用 Microsoft 團隊即時事件
+- 規劃及排程小組中的活事件
+- 組織 live 偶數
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+Microsoft 小組已更新為下列內容。
+
+#### <a name="manage-meetings-playlist"></a>管理會議播放清單
+[管理會議] 播放清單具備下列新資產。
+- 小組會議的秘訣
+
+#### <a name="teams-on-the-go-playlist"></a>「移到」播放曲目上的小組
+「移到」播放清單中的小組已使用下列新資產進行更新。
+- 移至旅途上的頻道
+- 在旅途中建立頻道
+- 管理流覽上的通知
+
+#### <a name="manage-team-schedules-with-shifts"></a>使用倒班管理小組日程
+使用下列資產，新增了具有倒班播放清單的「管理小組排程」。
+- 什麼是倒班
+- 管理員的倒班
+- 建立倒班排程
+- 管理倒班排程
+- Firstline 工作者的倒班
+
+#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie、Tasks 及稱讚
+已使用下列資產新增 Walkie Talkie、Tasks 及稱讚播放清單。
+- 對講機
+- 使用團隊中的工作應用程式
+- 管理員的任務
+- Firstline 工作者的工作
+- 通訊和稱讚
+
+#### <a name="create-approvals"></a>建立核准
+已新增下列資產的「建立核准」播放清單。
+- 何謂核准？
+- 建立核准
+- 從聊天建立核准
+
+### <a name="lists"></a>清單
+新的清單子類別和播放清單已新增至學習路徑。
+
+#### <a name="get-started-with-lists"></a>開始使用清單
+「快速入門清單」播放清單包含下列新資產。
+- 從清單應用程式建立清單
+- 在小組通道中建立清單
+- 新增或編輯清單專案
+- 建立或變更清單的視圖
+- 編輯清單視圖
+- 尋找並管理您的清單
+- 共用清單或清單專案
+- 追蹤商務資訊
+
+### <a name="forms"></a>表單
+[建立表單] 和 [查看結果] 播放清單已使用下列新資產進行更新。
+
+#### <a name="create-a-form-and-view-results"></a>建立表單並查看結果
+- 建立新的表單或測驗
+- 共用表單以取得回應
+- 查看表單的結果
+- 在表單中使用分支邏輯
+- 將區段新增至您的問卷或問卷問卷
+
+### <a name="excel"></a>Excel
+已使用下列內容更新學習路徑中的 Excel。
+
+#### <a name="intro-to-excel"></a>Excel 簡介
+Excel 播放清單簡介包含下列新資產。
+- 建立下拉式清單
+
+#### <a name="linked-data-types"></a>連結資料類型
+新的連結資料類型播放清單已新增至與下列資產的教學路徑。 
+- 將文字轉換為組織資料型別
+- 使用資料選取器指定組織資料類型
+- 從組織資料類型中查看和插入資料
+
+#### <a name="formulas-and-functions"></a>公式與函數
+已將兩個新的資產新增至 [公式和功能] 播放清單。
+- XLOOKUP 函數
+- MATCH 函數
+
+### <a name="sharepoint"></a>SharePoint
+所有 SharePoint 的播放清單及資產都已更新。 更新的播放清單包括：
+- SharePoint Online Quick Start
+- 線上 SharePoint 簡介
+- 建立網站、文章和清單
+- 與 SharePoint 共用及同步
+
+## <a name="september-2020-content-updates"></a>2020年9月內容更新
+下表列出9月2020的內容更新。 
 
 ### <a name="security"></a>安全性
 已新增新的安全性子類別與播放清單和資產，可協助使用者在辦公室和家裡更安全地運作。 
@@ -173,7 +294,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 共同作者
 - 檔中聊天
 - 滿足
-- Mobile
+- 行動裝置
 
 ### <a name="teams-nine-new-assetssix-updated-assets"></a>小組 (九個新資產/六個更新的資產) 
 已對小組內容進行各種更新。 
@@ -313,7 +434,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 將內容新增至 Sway (11 資產) 
 - 自訂 Sway (五筆資產) 
 
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 - 存取快速入門 (四個資產) 
 - Access (三項資產簡介) 
 - 建立 (兩個資產的 Access 資料庫) 

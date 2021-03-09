@@ -5,19 +5,41 @@ title: 學習路徑功能更新
 ms.date: 10/20/2019
 description: 學習路徑功能更新
 ms.service: sharepoint online
-ms.openlocfilehash: 1f075671854906cd331c1706c669eac30c04ddec
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: dba6903553ef5b51bc6d1e727c0e61781f9db26a
+ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234425"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50573385"
 ---
-# <a name="july-2020-version-40-feature-updates"></a>2020年7月版本4.0 功能更新 
+# <a name="learning-pathways-version-40-feature-updates"></a>學習路徑版本4.0 功能更新
+下列包含學習路徑版本4.0 的功能更新。  
+
+## <a name="march-2021-feature-updates"></a>2021年3月的功能更新
+2021年3月的功能更新包含荷蘭文的多語系支援，以及「學習路徑」網頁元件代碼（即「開放來源」）的可用性。 
+
+### <a name="multilingual-support-for-dutch"></a>荷蘭文的多語系支援 
+學習途徑的多語系支援現在包括荷蘭文。 支援的語言清單包括： 
+- 英文     
+- 簡體中文 
+- 法文 
+- 德文 
+- 義大利文 (義大利) 
+- 日本 (日本)  
+- 葡萄牙文 (巴西)  
+- 俄文 (俄文)  
+- 西班牙文
+- 荷蘭文 
+
+### <a name="learning-pathways-web-part-is-now-open-source"></a>[學習路徑] 網頁元件現在已開啟來源
+「學習路徑」網頁元件現在可用為「開放來源」。 如需詳細資訊，請參閱 [貢獻輔助線](https://github.com/pnp/custom-learning-office-365#contributions)。
+
+## <a name="july-2020-version-40-feature-updates"></a>2020年7月版本4.0 功能更新 
 
 下列新功能已新增至 Microsoft 365 學習路徑版本4.0。 
 
-## <a name="multilingual-support-for-learning-pathways"></a>學習路徑的多語系支援 
-現在有九種語言的教學途徑支援多種語言。  
+### <a name="multilingual-support-for-learning-pathways"></a>學習路徑的多語系支援 
+學習途徑的多語系支援現在包括荷蘭文。 
 - 英文     
 - 簡體中文 
 - 法文 
@@ -27,6 +49,7 @@ ms.locfileid: "48234425"
 - 葡萄牙文 (巴西)  
 - 俄文 (俄文)  
 - 西班牙文 
+
 
 如需詳細資訊，請參閱 [瞭解多](custom_overview.md)語系的路徑。 
 
