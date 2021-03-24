@@ -5,12 +5,12 @@ title: 提供新的學習路徑解決方案
 ms.date: 02/10/2019
 description: 使用 Microsoft 365 考察簿服務布建 Microsoft 365 學習路徑網站
 ms.service: sharepoint online
-ms.openlocfilehash: ff480e0ae2d5a530ed697df470cd499021ced01a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fd50eed38ea6f2073eb61b4d21545a73bc918a49
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234065"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162910"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>提供新的學習路徑解決方案 
 在其承租人中未布妥學習路徑的組織，可使用 SharePoint 的「查詢手冊」服務來新增多語系學習路徑解決方案。 使用此選項，「教學」路徑 SharePoint 範本會轉譯成九種語言，且最少可用於修改。 
@@ -23,7 +23,7 @@ ms.locfileid: "48234065"
 若要成功設定 Microsoft 365 教學路徑與「查閱書」服務，進行布建的人員必須符合下列先決條件：   
  
 - 提供教學路徑的人員必須是安裝教學路徑的承租人租使用者管理員。  
-- 租使用者應用程式目錄必須可在 SharePoint 系統管理中心的 [App] 選項內使用。 如果您的組織沒有 SharePoint 租使用者應用程式目錄，請參閱 [SharePoint 線上檔](https://docs.microsoft.com/sharepoint/use-app-catalog) 以建立一個。 在建立應用程式目錄之前，您必須至少等候兩小時之後，再提供學習路徑。  
+- 租使用者應用程式目錄必須可在 SharePoint 系統管理中心的 [App] 選項內使用。 如果您的組織沒有 SharePoint 租使用者應用程式目錄，請參閱 [SharePoint 線上檔](/sharepoint/use-app-catalog) 以建立一個。 在建立應用程式目錄之前，您必須至少等候兩小時之後，再提供學習路徑。  
 - 提供教學路徑的人員必須是租使用者應用程式目錄的網站集合擁有者。 如果人員提供的學習路徑不是應用程式目錄的網站集合擁有者，請 [完成這些指示](addappadmin.md) 並繼續。 
 
 ## <a name="ensure-the-tenant-admin-account-doesnt-have-a-language-selected"></a>確定租使用者管理員帳戶未選取語言
@@ -31,7 +31,7 @@ ms.locfileid: "48234065"
 1.  使用 Edge 系統管理設定檔，移至 office.com。
 2.  如有必要，請輸入使用者認證 () 。
 3.  在 Microsoft 365 中，按一下 [ **所有應用程式** ] > Delve。 
-4.  按一下 [**我**  >  的**更新設定檔**]。
+4.  按一下 [**我**  >  的 **更新設定檔**]。
 5.  向中向左下向下方，按一下 [ **如何變更語言和地區設定**]。
 6.  按一下 [ **這裡**]，然後按一下省略號 **...**。
 7.  在 [ **我的顯示語言**] 底下，您應該會看到 **沒有選取語言**。 如果已選取語言，請將其取消選取。
@@ -68,7 +68,7 @@ ms.locfileid: "48234065"
 
 1. 在 [SharePoint **設定** ] 功能表中，按一下 [ **網站許可權**]。
 2. 按一下 [ **高級許可權設定**]。
-3. 按一下 [ **Microsoft 365 學習路徑擁有**者]。
+3. 按一下 [ **Microsoft 365 學習路徑擁有** 者]。
 4. 按一下 [**新增**  >  **使用者至此群組**]，然後新增您想要成為擁有者的人員。 
 5. 在 [共用郵件] 中新增 [流覽網站的](custom_exploresite.md) 連結，然後按一下 [ **共用**]。
 

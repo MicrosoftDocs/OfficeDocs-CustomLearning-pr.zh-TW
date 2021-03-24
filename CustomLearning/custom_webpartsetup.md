@@ -5,12 +5,12 @@ title: 布建自訂學習網站
 ms.date: 02/10/2019
 description: 透過 SharePoint 布建引擎提供 Office 365 網站的自訂學習
 ms.service: sharepoint online
-ms.openlocfilehash: feebef7f351aab4cd1efe7f87596dad98dba7536
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233755"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162920"
 ---
 # <a name="provision-custom-learning"></a>提供自訂學習
 
@@ -21,7 +21,7 @@ ms.locfileid: "48233755"
 若要使用提供服務 [SharePoint 線上](https://provisioning.sharepointpnp.com)布建服務成功設定自訂教學，進行布建的人員必須符合下列先決條件： 
  
 - 人員布建的自訂學習必須是租使用者 Administratorof 的承租人，將會布建自訂教學。  
-- 租使用者應用程式目錄必須可在 SharePoint 系統管理中心的 [App] 選項內使用。 如果您的組織沒有 SharePoint 租使用者應用程式目錄，請參閱 [SharePoint 線上檔](https://docs.microsoft.com/sharepoint/use-app-catalog) 以建立一個。  
+- 租使用者應用程式目錄必須可在 SharePoint 系統管理中心的 [App] 選項內使用。 如果您的組織沒有 SharePoint 租使用者應用程式目錄，請參閱 [SharePoint 線上檔](/sharepoint/use-app-catalog) 以建立一個。  
 - 人員布建的自訂學習必須是租使用者應用程式目錄的網站集合擁有者。 如果人員布建自訂學習不是應用程式目錄的網站集合擁有者，請 [完成這些指示](addappadmin.md) 並繼續。 
 
 ### <a name="to-provision-custom-learning"></a>提供自訂學習
@@ -62,7 +62,7 @@ ms.locfileid: "48233755"
 
 1. 在 [SharePoint **設定** ] 功能表中，按一下 [ **網站許可權**]。
 2. 按一下 [ **高級許可權設定**]。
-3. 按一下 [ **自訂學習的 Office 365 擁有**者]。
+3. 按一下 [ **自訂學習的 Office 365 擁有** 者]。
 4. 按一下 [**新增**  >  **使用者至此群組**]，新增您要擁有者的人員，然後按一下 [**共用**]。
 
 8. 按一下頁面右上角的 **下列** 選項，以追蹤網站。  

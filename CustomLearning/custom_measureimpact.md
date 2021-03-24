@@ -5,12 +5,12 @@ title: 衡量 Microsoft 365 學習路徑的影響
 ms.date: 02/10/2019
 description: 如何衡量 Microsoft 365 學習路徑的影響
 ms.service: sharepoint online
-ms.openlocfilehash: 30614a048871f298019246f4dfe3f6563ee33729
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 3f803959a7fe14c2c67bb232a5f9ade31218ab11
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234245"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163040"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>評估 Microsoft 365 學習路徑的影響
 
@@ -25,7 +25,7 @@ SharePoint Online 網站擁有者，您可以查看顯示使用者與網站互�
 ![cg-measureimpactreport.png](media/cg-measureimpactreport.png)
 
 ## <a name="organization-level-impact"></a>組織層級影響
-Office 365 Admin Center SharePoint 網站使用狀況報告可讓系統管理員取得您從 Office 365 網站（相對於所有其他 SharePoint 網站）取得之價值的高層級視圖。 請參閱 [報告詳細資料](https://docs.microsoft.com/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide)。
+Office 365 Admin Center SharePoint 網站使用狀況報告可讓系統管理員取得您從 Office 365 網站（相對於所有其他 SharePoint 網站）取得之價值的高層級視圖。 請參閱 [報告詳細資料](/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide)。
  
 遵循參考的文章： 
 1. 瞭解如何取得 SharePoint 網站使用量報告 
@@ -34,5 +34,4 @@ Office 365 Admin Center SharePoint 網站使用狀況報告可讓系統管理員
 
 ## <a name="feedback"></a>意見反應
 
-到目前為止，報告只限于 SharePoint 網站層級。 出借 [使用者語音](https://go.microsoft.com/fwlink/?linkid=2109552) 論壇的投票，以協助改善增強型報告功能要求的優先順序。   
-
+到目前為止，報告只限于 SharePoint 網站層級。 出借 [使用者語音](https://go.microsoft.com/fwlink/?linkid=2109552) 論壇的投票，以協助改善增強型報告功能要求的優先順序。

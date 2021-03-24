@@ -5,12 +5,12 @@ title: 學習路徑內容更新
 ms.date: 3/30/2020
 description: 學習路徑內容更新
 ms.service: o365-solutions
-ms.openlocfilehash: 1cd46031ceb2ef1c88099d5556887aa7ea72cc80
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573415"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163080"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 學習路徑內容更新
 學習途徑致力於遵循每季內容更新週期。 若要深入瞭解如何套用內容更新，以及如何管理內容更新，請參閱 [管理內容更新](custom_contentupdatesmanage.md)。 
@@ -373,12 +373,12 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>支援遠端員工的資源
 您可以使用學習路徑，在您的學習路徑網站中建立登陸頁面以支援遠端工作者。 或者，您可以將「學習路徑」網頁元件新增至學習路徑網站上的現有支援頁面，並篩選網頁元件以顯示可遠端播放清單。 以下是 Microsoft 的部分熱門資源清單，可支援組織中的遠端工作。 
-- [如何推出 Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Microsoft Teams 中的會議和召集會議](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [使用 Microsoft 團隊支援遠端工作者](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [常見問題：支援您的遠端員工](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [如何推出 Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
+- [Microsoft Teams 中的會議和召集會議](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [使用 Microsoft 團隊支援遠端工作者](/microsoftteams/support-remote-work-with-teams)
+- [常見問題：支援您的遠端員工](/microsoftteams/faq-support-remote-workforce)
 - [Microsoft IT 針對員工啟用遠端工作的前9種方式](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft 小組訓練](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Microsoft 小組訓練](/microsoftteams/training-microsoft-teams-landing-page)
 - [教育版： Microsoft 教育中心](https://education.microsoft.com) 
 - [教育：遠端教學快速入門](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -434,7 +434,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 將內容新增至 Sway (11 資產) 
 - 自訂 Sway (五筆資產) 
 
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 - 存取快速入門 (四個資產) 
 - Access (三項資產簡介) 
 - 建立 (兩個資產的 Access 資料庫) 
@@ -445,4 +445,3 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 -  (一個資產) 建立表單
 - 建立兩個資產 (報告) 
 - 保護 (一資產的資料庫) 
-

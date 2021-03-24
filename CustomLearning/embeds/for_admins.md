@@ -5,18 +5,18 @@ author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: administration
-ms.openlocfilehash: 2eba717785b86eb03cb2d818040a4cc322ecf772
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: b5984d6ff84ee07a93aba52202cb394a6db6116b
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233545"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163050"
 ---
 # <a name="helpful-links-for-office-365-administrators"></a>Office 365 系統管理員的有用連結
 
 ## <a name="links-for-this-solution"></a>此解決方案的連結
 
-- [自訂學習](https://docs.microsoft.com/office365/customlearning) 服務資訊頁面 https://docs.microsoft.com/office365/customlearning
+- [自訂學習](/office365/customlearning) 服務資訊頁面 https://docs.microsoft.com/office365/customlearning
 - UserVoice 上的採用工具意見反應論壇 https://aka.ms/AdoptionFeedback 
 
 ## <a name="links-for-adoption-success-owners"></a>採用成功擁有者的連結
@@ -27,4 +27,4 @@ ms.locfileid: "48233545"
 - Microsoft 365 藍圖 https://aka.ms/M365Roadmap
 - 技術檔 https://docs.microsoft.com
 - FastTrack 服務部署支援 https://www.microsoft.com/fasttrack
-- 
+-

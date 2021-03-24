@@ -5,12 +5,12 @@ title: 學習路徑手動設定
 ms.date: 07/06/2020
 description: Microsoft 365 學習路徑手動設定
 ms.service: sharepoint online
-ms.openlocfilehash: 2bac25e736ec463e5d7f561eaa782a7d27eab65e
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 511b4e5d7d251a1e3fbffcefb01d4ba1f139e5a1
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234285"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163070"
 ---
 # <a name="learning-pathways-manual-setup"></a>學習路徑手動設定
 
@@ -42,7 +42,7 @@ Microsoft 365 教學路徑為需要支援下列其中一種案例的組織提供
 ## <a name="prerequisites"></a>必要條件
 為了確保成功手動設定「學習路徑」網頁元件，必須符合下列必要條件。 
 
-- 您必須已設定並設定整個租使用者型應用程式目錄。 請參閱 [設定您的 Office 365 租使用者](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) ，並遵循「建立應用程式目錄」網站一節。 
+- 您必須已設定並設定整個租使用者型應用程式目錄。 請參閱 [設定您的 Office 365 租使用者](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) ，並遵循「建立應用程式目錄」網站一節。 
 - 如果您已布建整個租使用者的應用程式目錄，您必須存取具有上傳套件之許可權的帳戶。 一般來說，此帳戶具有 SharePoint 系統管理員角色。 
 - 若具有該角色的帳戶不能運作，請移至 SharePoint 系統管理中心，並尋找應用程式目錄網站集合的網站集合管理員，並以其中一個網站集合管理員身分登入，或新增網站集合管理員失敗的 SharePoint 系統管理員帳戶。 
 - 您也需要存取屬於 SharePoint 租使用者管理員的帳戶。
@@ -82,7 +82,7 @@ SharePoint 通訊網站具有預設語言。 預設語言會決定您用來查�
 - 按一下 [ **下載** ]，將網頁元件套件和腳本儲存至本機磁片磁碟機。 在此程式的後續步驟中，您將會使用腳本和網頁元件套件。
 
 ## <a name="step-2---upload-the-web-part-to-the-tenant-app-catalog"></a>步驟 2-將網頁元件上傳至租使用者應用程式目錄
-若要設定 Microsoft 365 學習路徑，請將 customlearning 檔案上傳至整個租使用者的應用程式目錄，並加以部署。 如需如何將應用程式新增至應用程式目錄的詳細指示，請參閱 [Use The App Catalog for the SharePoint Online 環境可使用自訂商務應用程式](https://docs.microsoft.com/sharepoint/use-app-catalog) 。
+若要設定 Microsoft 365 學習路徑，請將 customlearning 檔案上傳至整個租使用者的應用程式目錄，並加以部署。 如需如何將應用程式新增至應用程式目錄的詳細指示，請參閱 [Use The App Catalog for the SharePoint Online 環境可使用自訂商務應用程式](/sharepoint/use-app-catalog) 。
 
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>步驟 3-布建/識別現代通訊網站
 請識別現有的 SharePoint 通訊網站，或在您的 SharePoint Online 租使用者中布建新的網站。 如需如何布建通訊網站的詳細資訊，請參閱 [在 SharePoint Online 中建立通訊網站](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) ，並遵循步驟來建立通訊網站。
@@ -99,10 +99,10 @@ SharePoint 通訊網站具有預設語言。 預設語言會決定您用來查�
 - **訪客群組** -查看網站內容所需的許可權。 
 
 ## <a name="step-6--execute-powershell-configuration-script"></a>步驟 6-執行 PowerShell 設定腳本
-您必須執行 PowerShell 腳本 `CustomLearningConfiguration.ps1` ，才能建立解決方案所使用的三個 [租使用者屬性](https://docs.microsoft.com/sharepoint/dev/spfx/tenant-properties) 。 此外，腳本會在網站頁面庫中建立兩個 [單一元件應用程式頁面](https://docs.microsoft.com/sharepoint/dev/spfx/web-parts/single-part-app-pages) ，以裝載系統管理員和使用者網頁元件的已知位置。
+您必須執行 PowerShell 腳本 `CustomLearningConfiguration.ps1` ，才能建立解決方案所使用的三個 [租使用者屬性](/sharepoint/dev/spfx/tenant-properties) 。 此外，腳本會在網站頁面庫中建立兩個 [單一元件應用程式頁面](/sharepoint/dev/spfx/web-parts/single-part-app-pages) ，以裝載系統管理員和使用者網頁元件的已知位置。
 
 1. 若尚未下載 SharePoint 線上管理命令介面，請立即下載。 請參閱 [SharePoint 線上管理命令介面下載](https://go.microsoft.com/fwlink/p/?LinkId=255251)。
-2. 您可能需要設定 PowerShell 執行原則，以執行腳本。 如需詳細資訊，請參閱 [關於執行原則](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)。
+2. 您可能需要設定 PowerShell 執行原則，以執行腳本。 如需詳細資訊，請參閱 [關於執行原則](/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)。
 3. 執行 `CustomLearningConfiguration.ps1` 腳本。 除了您的租使用者系統管理員認證之外，腳本會提示您輸入租使用者名稱和網站名稱。 考慮網站 URL 的下列範例， `https://contoso.sharepoint.com/sites/O365CL` `contoso` 是租使用者名稱，也就是 `O365CL` 網站名稱。 
 
 ### <a name="disabling-telemetry-collection"></a>停用遙測集合
@@ -131,5 +131,3 @@ SharePoint 通訊網站具有預設語言。 預設語言會決定您用來查�
 ### <a name="next-steps"></a>後續步驟
 - 請參閱 [自訂學習路徑](custom_overview.md)。 
 - 請參閱 [翻譯網站頁面](custom_translate_page_ml.md)。
-
-

@@ -6,12 +6,12 @@ ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: d3dc0b573469e8990c7b82014f645bcd4824a282
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: d7e3d5bf25a822c6c09245658726d255dbb82a3f
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233465"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162899"
 ---
 # <a name="finding-your-champions"></a>尋找您的冠軍 
 
@@ -30,6 +30,6 @@ ms.locfileid: "48233465"
 
 成功的冠軍計畫具有領導者和定期排程，可達成並討論目前的問題。  每月會議最少是在社區中建立積極文化和促進成長的重要部分。  
 
-您也可以使用 Microsoft 小組為您團隊合作之擁護者的計畫建立中樞。  您可以在 [本文](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams)中找到該小組結構的範例。
+您也可以使用 Microsoft 小組為您團隊合作之擁護者的計畫建立中樞。  您可以在 [本文](/MicrosoftTeams/teams-adoption-your-first-teams)中找到該小組結構的範例。
 
 ![團隊合作冠軍小組選項卡](media/teams-adoption-tab-example.png)

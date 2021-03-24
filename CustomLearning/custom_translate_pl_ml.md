@@ -5,12 +5,12 @@ title: 翻譯學習路徑自訂播放清單
 ms.date: 07/06/2020
 description: 翻譯學習路徑自訂播放清單
 ms.service: sharepoint online
-ms.openlocfilehash: ceb354a48c6add948d8d2ecd1f6f2762e6b819c5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: c5c4c3b34a721295bdcd2e89bad865bc6760d058
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233915"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162830"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>翻譯學習路徑自訂播放清單
 透過學習路徑，使用自訂播放清單的方式，取決於您設定學習路徑的方式。  
@@ -75,7 +75,7 @@ ms.locfileid: "48233915"
 
 > [!IMPORTANT]
 > - 除非您建立播放清單複本，否則 Microsoft 提供的播放清單已翻譯且無法修改。 您只可以新增自訂播放清單的語言。 
-> - 若要為自訂的播放清單和資產新增語言，必須啟用多語言支援和語言。 如需詳細資訊，請參閱 [設定語言設定](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings)。 
+> - 若要為自訂的播放清單和資產新增語言，必須啟用多語言支援和語言。 如需詳細資訊，請參閱 [設定語言設定](./custom_update_ml.md#set-language-settings)。 
 
 ### <a name="to-add-languages-for-an-existing-playlist"></a>新增現有播放清單的語言
 1.  從 [學習路徑] [ **主** ] 功能表中，按一下 [ **學習路徑管理**]。 
@@ -111,7 +111,7 @@ ms.locfileid: "48233915"
 
 > [!IMPORTANT]
 > - 除非您建立播放清單複本，否則 Microsoft 提供的播放清單已翻譯且無法修改。 您只可以新增自訂播放清單的語言。 
-> - 若要為自訂的播放清單和資產新增語言，必須啟用多語言支援和語言。 如需啟用多語系支援和選項的詳細資訊，請參閱 [設定語言設定](https://docs.microsoft.com/office365/customlearning/custom_update_ml#set-language-settings)。 
+> - 若要為自訂的播放清單和資產新增語言，必須啟用多語言支援和語言。 如需啟用多語系支援和選項的詳細資訊，請參閱 [設定語言設定](./custom_update_ml.md#set-language-settings)。 
 
 
 ## <a name="instructions-for-the-translator"></a>翻譯器的指示
@@ -136,6 +136,5 @@ ms.locfileid: "48233915"
 2. 向下滾動頁面，然後在 [資產] 底下，選取資產，選取語言，然後按一下 [開啟]。 
 3. 進行頁面的翻譯，然後按一下 [ **發佈**]。   
 
-## <a name="for-more-information"></a>相關資訊
-- 如需自訂學習路徑的詳細資訊，請參閱 [自訂學習路徑](custom_overview.md)。 
-
+## <a name="for-more-information"></a>如需詳細資訊
+- 如需自訂學習路徑的詳細資訊，請參閱 [自訂學習路徑](custom_overview.md)。

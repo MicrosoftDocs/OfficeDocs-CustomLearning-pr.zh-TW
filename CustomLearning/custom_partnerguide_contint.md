@@ -5,12 +5,12 @@ title: 合作夥伴整合模型
 ms.date: 3/9/2019
 description: 合作夥伴整合模型
 ms.service: sharepoint online
-ms.openlocfilehash: 91980782f64d101d3128daff81ed4e2b6205faa8
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234135"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162930"
 ---
 # <a name="partner-integration-models"></a>合作夥伴整合模型
 雖然不可能從「SharePoint 線上布建服務」的 [現成] 直接補充「現成」的 Microsoft 365 教學內容，但有數個整合模型可讓合作夥伴利用這些整合式的價值-新增服務提供服務。 以上的合作夥伴整合模型是以遞增複雜度和投資層級為序呈現。 因此，我們的指導方針是根據您的業務模型，建立更高級別的專業知識及畢業。
@@ -56,7 +56,7 @@ Microsoft 365 學習路徑的內容是由一組 JSON 檔案所驅動，其充當
 |&nbsp;&nbsp;TechnologyId      |與此內容相關的技術 GUID (選用–空字串)             |
 |&nbsp;&nbsp;SubjectId         |與此內容相關的主旨的 GUID (選用–空字串)                |
 |&nbsp;&nbsp;源            |來源陣列中，除了使用者新增的自訂資料以外，非特別用於 UX 的使用者會標示為 "承租人"，而 UX 系統管理員區域不允許編輯未標示為 "承租人" 的任何專案。                           |
-|&nbsp;&nbsp;*子類別 []*|子類別基本上是從層級2低的導覽層級。 結構與僅嵌套的類別相同。          |
+|&nbsp;&nbsp;*子類別 []*|Sub-Categories 基本上是從層級2低的導覽層級。 結構與僅嵌套的類別相同。          |
 |**聽眾 []**             |當與類別/子類別相關聯的播放清單是各物件標示時，就可以使用選擇器顯示可用的物件。 |         
 |&nbsp;&nbsp;Id                |物件的 GUID                                                                       |  
 |&nbsp;&nbsp;名字              |物件的顯示名稱                                                               |       
@@ -146,10 +146,10 @@ Admin 和 viewer 網頁元件已擴充，可讓使用者在其承租人中設定
 - 這主要適用于協力廠商重新發佈案例–手動播放清單設定過於麻煩 
 - 自訂內容套件是一項高級功能，只應該由具有管理 web 內容之經驗的合作夥伴使用。 不信任的內容來源可能會將不安全的內容引入您的網站。 您應只加入您信任的來源。
 
-> **重要事項** 在新增自訂內容套件之前，您必須已布建 Microsoft 365 學習路徑3.0 或更新版本。 如需有關布建 Microsoft 365 學習路徑的 informataion，請參閱布建 [microsoft 365 學習路徑](https://docs.microsoft.com/office365/customlearning/custom_provision)。
+> **重要事項** 在新增自訂內容套件之前，您必須已布建 Microsoft 365 學習路徑3.0 或更新版本。 如需有關布建 Microsoft 365 學習路徑的 informataion，請參閱布建 [microsoft 365 學習路徑](./custom_provision.md)。
 
 ### <a name="content-whitelisting"></a>內容 Whitelisting
-作為合作夥伴，您必須負責協助您的消費者，以確保您的內容在其環境中列入白名單。 我們建議您在環境中建立測試案例，以驗證您的內容可以是在防火牆內部的 SharePoint 頁面中。 遵循 [ [建立 SharePoint 頁面] 以取得自訂播放清單](https://docs.microsoft.com/office365/customlearning/custom_createnewpage) 指示，確認這屬於這種情況。
+作為合作夥伴，您必須負責協助您的消費者，以確保您的內容在其環境中列入白名單。 我們建議您在環境中建立測試案例，以驗證您的內容可以是在防火牆內部的 SharePoint 頁面中。 遵循 [ [建立 SharePoint 頁面] 以取得自訂播放清單](./custom_createnewpage.md) 指示，確認這屬於這種情況。
 
 ### <a name="add-a-content-pack-to-learning-pathways"></a>新增內容套件至學習路徑
 當您建立修改 JSON 並定義 CDN 之後，您可以將連絡人套件新增至學習路徑。 
@@ -175,8 +175,4 @@ Admin 和 viewer 網頁元件已擴充，可讓使用者在其承租人中設定
 6. 按一下網頁元件，然後按一下 [ **編輯** ] 圖示。
 7. 在 [ **選取學習來源** ] 方塊中，選取您的自訂內容套件，然後將該網頁元件篩選為您想要的內容。 下列範例提供篩選為自訂內容套件之播放清單之網頁元件的範例。
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)  
-
-
-
-
+![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)

@@ -5,12 +5,12 @@ title: 學習路徑內容更新四月
 ms.date: 3/30/2020
 description: 學習2020年4月內容更新的途徑
 ms.service: sharepoint online
-ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.openlocfilehash: 9cae2f1f3fe96a5e6496739ca194202a45286c2e
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261675"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163060"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Microsoft 365 教學四月的內容更新
 學習途徑致力於遵循每季內容更新週期。 下列清單2020年4月的內容更新。
@@ -38,12 +38,12 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 儲存您的工作檔案
 - 高級備選項
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>與 Office 365 合作的最佳作法 (6 個新資產) 
-- 入門
+- 開始使用
 - 共用
 - 共同作者
 - 檔中聊天
 - 滿足
-- Mobile
+- 行動裝置
 
 ### <a name="teams-9-new-assets6-updated-assets"></a>小組 (9 個新資產/6 個更新的資產) 
 已對小組內容進行各種更新。 
@@ -72,7 +72,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 ### <a name="office-for-the-web"></a>Office 網頁版
 適用于 web 的 office 提供一組播放清單，供使用者用來在網頁上建立、共用及共同作業的案例。 這組內容對從 Google G 套件切換至 Microsoft 365 的組織也很有價值。
 #### <a name="get-started-5-new-assets"></a>開始 (5 個新資產) 
-- 入門
+- 開始使用
 - 使用搜尋來尋找
 - 建立新檔
 - 回復至工作
@@ -122,12 +122,12 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>支援遠端員工的資源
 您可以使用學習路徑，在您的學習路徑網站中建立登陸頁面以支援遠端工作者。 或者，您可以將「學習路徑」網頁元件新增至學習路徑網站上的現有支援頁面，並篩選網頁元件以顯示可遠端播放清單。 以下是 Microsoft 的部分熱門資源清單，可支援組織中的遠端工作。 
-- [如何推出 Microsoft Teams](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Microsoft Teams 中的會議和召集會議](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [使用 Microsoft 團隊支援遠端工作者](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [常見問題：支援您的遠端員工](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [如何推出 Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
+- [Microsoft Teams 中的會議和召集會議](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [使用 Microsoft 團隊支援遠端工作者](/microsoftteams/support-remote-work-with-teams)
+- [常見問題：支援您的遠端員工](/microsoftteams/faq-support-remote-workforce)
 - [Microsoft IT 針對員工啟用遠端工作的前9種方式](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft 小組訓練](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Microsoft 小組訓練](/microsoftteams/training-microsoft-teams-landing-page)
 - [教育版： Microsoft 教育中心](https://education.microsoft.com) 
 - [教育：遠端教學快速入門](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -187,7 +187,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 將內容新增至 Sway (11 資產) 
 - 自訂 Sway (5 資產) 
 
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 - Access Quick Start (4 資產) 
 - Access (3 資產簡介) 
 - 建立 Access 資料庫 (2 資產) 
@@ -198,4 +198,3 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 - 建立表單 (1 資產) 
 -  (2 資產建立報告) 
 - 保護資料庫 (1 資產) 
-

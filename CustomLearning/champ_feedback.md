@@ -6,12 +6,12 @@ ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: 56549c66672d98a217e5dedbf88392855c0dd685
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 259952d15b960f1946ad7bed466ff44bcd23ccb6
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233435"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162880"
 ---
 # <a name="collect-feedback-from-your-employees"></a>從您的員工收集意見反應
 
@@ -21,7 +21,7 @@ ms.locfileid: "48233435"
 社區導向的意見反應方法需要擁護者和服務擁有者。 建立 targetted 的 Yammer 社區，以供您所推出的技術使用。 例如，Office 365 的一般是一個一般的，您可以選擇將它設定為 Office、Microsoft 團隊或其他技術的使用者。  建議您為 Yammer 社區建立監視排程，以在這些成員之間旋轉。 
 
 ## <a name="creating-an-org-wide-team-within-microsoft-teams-up-to-2500"></a>在 Microsoft 團隊內部建立全組織小組 (高達 2500) 
-若為小型組織，組織範圍的公開小組也可以為意見反應及協助提供重心。  考慮建立一個名為 "Ask a 冠軍" 的通道，以促進冠軍與員工之間的通訊。  請記住，目前的 Microsoft 小組限制為2500人員，但今後會增加。 您可以在 [本文](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)中深入瞭解整個組織的團隊。 
+若為小型組織，組織範圍的公開小組也可以為意見反應及協助提供重心。  考慮建立一個名為 "Ask a 冠軍" 的通道，以促進冠軍與員工之間的通訊。  請記住，目前的 Microsoft 小組限制為2500人員，但今後會增加。 您可以在 [本文](/microsoftteams/create-an-org-wide-team)中深入瞭解整個組織的團隊。 
 
 ## <a name="microsoft-forms-for-employee-surveys"></a>員工調查的 Microsoft 表單
 
@@ -30,4 +30,4 @@ ms.locfileid: "48233435"
 ## <a name="highlight-the-wins-share-showcases"></a>反白顯示 Wins：共用展示
 當您繼續此次旅程時，您會發現展示其創造性的 Office 365 員工將會感到驚訝並愉悅感您。 我們建議您廣泛分享這些展示。 這會鼓勵其他人具有創新性、教育可能在採用曲線中的使用者，並獎勵如何在其環境中最佳使用 Office 365 的人員。 設定評估每個季度的集合數目可度量的目標，有助於維護採用勢頭。
 
-在您的公用社區中共用這些展示，以鼓舞其他員工，並協助他們瞭解 Office 365 的益處。  
+在您的公用社區中共用這些展示，以鼓舞其他員工，並協助他們瞭解 Office 365 的益處。
