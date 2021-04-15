@@ -1,23 +1,25 @@
 ---
 title: Office 365 生命週期中的一天-與同事合作
-description: 準備好一天使用 Office 365 的快速步驟
+description: 立即準備好使用 Office 365 的那一天
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 029901ea81be9b649ee9e928591b929f8e1f462e
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+manager: alexb
+audience: itpro
+ms.service: sharepoint-online
+ms.openlocfilehash: 8c32e727b09eb7ed7b82e12821c95f18092ea91f
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233715"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749361"
 ---
 # <a name="collaborating-with-colleagues"></a>與同事合作
 
 ![上路程視覺](media/ditl_collab.png)
 
-與同事共同作業的 2:00 PM 和時間。 Office 365 為共同作業提供了一流的機遇，讓小組能夠以多種方式共同作業。 
+與同事共同作業的 2:00 PM 和時間。 Office 365 為共同作業提供了一流的機遇，讓小組能夠以多種方式共同運作。 
 
 ## <a name="tools"></a>工具
 - Microsoft Teams
@@ -28,7 +30,7 @@ ms.locfileid: "48233715"
 ## <a name="checklist-for-collaborating-with-colleagues"></a>與同事合作的檢查清單
 - 建立或加入 Microsoft 小組以共同作業
 - 從 OneDrive 建立及共用檔案 
-- Office 365 中的共同建立 
+- Office 365 中的 Cocreate 
 - 使用雲端附件
 
 ## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>建立或加入 Microsoft 小組共同合作

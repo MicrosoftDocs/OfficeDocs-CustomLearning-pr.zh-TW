@@ -1,16 +1,19 @@
 ---
+title: Microsoft 365 學習路徑常見問題
 author: karuanag
 ms.author: karuanag
-title: Microsoft 365 學習路徑的常見問題
 ms.date: 02/10/2019
-description: Microsoft 365 學習路徑的常見問題資訊
-ms.service: sharepoint online
-ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.topic: article
+manager: alexb
+audience: itpro
+description: Microsoft 365 學習路徑的常見問題資訊。
+ms.service: sharepoint-online
+ms.openlocfilehash: f791d6421740c3458be525a7e306b10edab58259
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233535"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749401"
 ---
 # <a name="frequently-asked-questions"></a>常見問題集
 
@@ -32,10 +35,10 @@ Microsoft 365 學習路徑發行是一項 ..org 的工作，專門用來變更�
 
 ### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>Microsoft 365 學習路徑在 Beta Preview 中的含義為何？ 
 
-Microsoft 365 學習路徑目前是 Beta 預覽。 請在評估時考慮下列專案，以規劃及實施 Microsoft 365 學習路徑：
+Microsoft 365 學習路徑目前是 Beta 預覽。 評估、規劃及實施 Microsoft 365 學習路徑時，請考慮下列事項：
 
-- 就像在任何 Beta 方案中，我們的服務管理小組都會保留變更服務及其元件的權利。 當我們積極解決 bug 和 UX 問題時，您可能需要更新 WebPart。
-- 若要更新網頁元件，您必須從我們的 GitHub 存放庫下載該網頁元件，並將其上傳至您的租使用者應用程式目錄。 請參閱 Microsoft 365 學習路徑 [自述](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) 檔的「更新解決方案」一節。 
+- 就像在任何 Beta 方案中，我們的服務管理小組都會保留變更服務及其元件的權利。 當您積極解決 bug 和 UX 問題時，可能需要更新 WebPart。
+- 若要更新網頁元件，您必須從我們的 GitHub 存放庫中下載該網頁元件，並將其上傳至您的租使用者應用程式目錄。 請參閱 Microsoft 365 學習路徑 [自述](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) 檔的「更新解決方案」一節。 
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 教學路徑中提供的語言為何？
 
@@ -56,17 +59,17 @@ Microsoft 365 學習路徑目前是 Beta 預覽。 請在評估時考慮下列�
 
 根據我們的安裝測試，它應該需要不到15分鐘的時間。 這不包括按您的需求自訂網站所需的時間。
 
-### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 教學是指開放的來源方案和含義為何？
+### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 學習路徑是開放來源解決方案，以及其含義為何？
 
-Microsoft 365 學習途徑是開放來源軟體 (OSS) 解決方案，因此，其具有對 OSS 的一組優點和考慮 germane：
+Microsoft 365 學習途徑是一種開放來源軟體， (OSS) 解決方案，因此會將一組優點和考慮因素 germane 至 OSS：
 
-#### <a name="benefits"></a>效益 
+#### <a name="benefits"></a>優點 
 - **Microsoft 365 學習途徑是免費的解決方案：** 客戶可以在他們的承租人中安裝解決方案，加以自訂，並讓使用者可以使用
-- **OSS 可讓您快速開發及**  共同作業： 所有開啟的來源方案都可供廣泛的投稿人員群組使用。  Microsoft 致力於這種促進創新的方法。  為了確保我們所提供的體驗可為我們最廣泛的客戶提供好處，我們的核心服務管理小組會預約適當的權利，以判斷哪些發佈內容會與我們的官方組建合併。  
+- **OSS 可讓您快速開發及**  共同作業： 所有的「開放來源」解決方案皆可供廣大投稿小組群組使用。  Microsoft 致力於這種促進創新的方法。  為了確保我們所提供的體驗可為我們最廣泛的客戶提供好處，我們的核心服務管理小組會預約適當的權利，以判斷哪些發佈內容會與我們的官方組建合併。  
 - **OSS 可與合作夥伴** 共同作業：Microsoft 與數名學習協力廠商合作，以支援其未來擴充的工作，以及對 Microsoft 365 教學路徑的貢獻。 我們將在這些計畫變成定稿時提供詳細資訊。 
     
 #### <a name="implications"></a>影響
-- **OSS 並非商業可用產品：** 商業產品包括更新及修補程式，並隨附于收費支援合同中。 Microsoft 目前提供檔、更新及修補 Microsoft 365 的教學路徑，是以改進此特定商務案例的承諾為基礎。 我們的計畫是繼續投資學習路徑，但是客戶應注意，我們的服務管理小組以後可能會變更策略。 任何未來對 Microsoft 365 學習路徑所做的變更都會在生效之前進行傳遞。 
+- **OSS 並非商業可用產品：** 商業產品包括更新及修補程式，並隨附于收費支援合同中。 Microsoft 目前提供檔、更新及修補 Microsoft 365 的教學路徑，是以改進此特定商務案例的承諾為基礎。 我們的計畫是在學習路徑中繼續投資，請注意我們的服務管理小組以後可能會變更策略。 任何未來對 Microsoft 365 學習路徑所做的變更都會在生效之前進行傳遞。 
 - **在 OSS 中，您可以透過 GitHub 上的線上問題清單支援 microsoft 365 教學路徑**：任何現有的 microsoft 支援合同都不會涵蓋 microsoft 365 學習路徑。 提交的問題是由 Microsoft 365 學習路徑服務擁有者和社區所會審。 問題解決方式服務層級與「付費的 Microsoft 支援合同」不符。  
 
 ### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>我們是否可以讓 Microsoft 365 教學成為主要 SharePoint 網站集合的子網站？

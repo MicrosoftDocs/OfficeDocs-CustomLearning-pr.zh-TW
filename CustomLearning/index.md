@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Microsoft 365 學習路徑概述
 ms.date: 9/24/2020
 description: 深入瞭解 Microsoft 365 的教學途徑如何加快組織中 Microsoft 365 服務的使用和採用。 學習路徑包括自訂的 SharePoint 線上網頁元件，以及可輕鬆布建至您的 Microsoft 365 租使用者的新式 SharePoint 線上通訊訓練網站。
+audience: itpro
 ms.service: o365-solutions
-ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.topic: article
+ms.openlocfilehash: 240c0da6294d8b00f95fa5dcf7f66d4eea6814bb
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573405"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749351"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 學習路徑 
 Microsoft 365 學習途徑是一種可自訂的隨選教學解決方案，其設計目的是為了增加組織中 Microsoft 365 服務的使用和採用。    

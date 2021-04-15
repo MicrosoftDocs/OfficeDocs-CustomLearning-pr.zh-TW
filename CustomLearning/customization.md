@@ -4,13 +4,16 @@ ms.author: karuanag
 title: 自訂訓練體驗
 ms.date: 02/10/2019
 description: 瞭解適用于 Office 365 自訂學習的各種自訂
-ms.service: sharepoint online
-ms.openlocfilehash: 9869fa83625dfa1d9180e9e7561a40a1c5e3af53
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+manager: alexb
+audience: itpro
+ms.topic: article
+ms.service: o365-administration
+ms.openlocfilehash: 5279c8afce9bc3c536b6af15bd4443b3a2e5594a
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233735"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749391"
 ---
 # <a name="customize-the-training-experience"></a>自訂訓練體驗
 
@@ -35,18 +38,18 @@ ms.locfileid: "48233735"
 
 若要自訂網站，請從功能表列中選取 [提問] 並取得 [說明]，然後按一下 [SharePoint 編輯] 按鈕，變更影像和連結。 
 
-![custom_ask.png](media/custom_ask.png)
+![提問並取得說明視窗](media/custom_ask.png)
 
 ## <a name="customize-available-services"></a>自訂可用的服務
 
-1.  流覽至網站中的 [自訂學習管理] 頁面 ![custom_admin.png](media/custom_admin.png)
+1.  流覽至網站中的自訂學習管理頁面 ![ 選取自訂學習管理](media/custom_admin.png)
 1. 選取 [ **技術** ]，以查看解決方案中包含的完整服務清單。
 1. 選取技術並 **按一下眼睛符號** ，以隱藏此內容。  再次按一下眼睛符號，以顯示經驗中的內容。 
 ![自 定義](media/custom_techlist.png)
 
 您可以針對經驗中的播放清單類別重複相同的程式。  只要選取 [類別] 選項，即可顯示/隱藏播放清單。 
 
-![custom_cat.png](media/custom_cat.png)
+![選取類別](media/custom_cat.png)
 
 ### <a name="next-steps"></a>後續步驟
 

@@ -3,20 +3,23 @@ author: pkrebs
 ms.author: pkrebs
 title: 手動安裝教學路徑
 ms.date: 02/18/2019
+manager: bpardi
 description: 手動安裝教學路徑
-ms.service: sharepoint online
-ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+audience: itpro
+ms.service: o365-administration
+ms.topic: article
+ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162840"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749311"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>手動安裝及設定 Office 365 的自訂學習
 
 Microsoft 自訂學習網頁元件是使用 [SharePoint Framework](/sharepoint/dev/spfx/sharepoint-framework-overview) 版本1.7.1 建立的。
 
-若要手動安裝和設定網頁元件和網站集合，您需要完成下列步驟：
+若要手動安裝和設定網頁元件和網站集合，您必須完成下列步驟：
 
 1. 確認您已符合所有必要條件。
 1. 在您的 Office 365 租使用者應用程式目錄中安裝 customlearning sppkg 檔案。
@@ -26,11 +29,11 @@ Microsoft 自訂學習網頁元件是使用 [SharePoint Framework](/sharepoint/d
 
 ## <a name="prerequisites"></a>必要條件
 
-您必須已設定並設定整個租使用者型應用程式目錄。 請參閱 [設定您的 Office 365 租使用者](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) ，並遵循 [建立應用程式目錄網站] 區段。 如果您已布建租使用者的應用程式目錄，您將需要存取權將套件上傳至其的帳戶，才可完成此設定程式。 一般來說，這是具有「SharePoint 系統管理員」角色的帳戶。 若具有該角色的帳戶無法運作，請移至 SharePoint 系統管理中心，並尋找應用程式目錄網站集合的網站集合管理員，並以其中一個網站集合管理員身分登入，或新增網站集合管理員失敗的 SharePoint 系統管理員帳戶。 您也需要存取屬於 SharePoint 租使用者管理員的帳戶。
+您必須已設定並設定整個租使用者型應用程式目錄。 請參閱 [設定您的 Office 365 租使用者](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) ，並遵循 [建立應用程式目錄網站] 區段。 如果您已布建整個租使用者的應用程式目錄，您將需要存取權將套件上傳至其的帳戶，才可完成此設定程式。 一般來說，此帳戶具有「SharePoint 系統管理員」角色。 若具有該角色的帳戶無法運作，請移至 SharePoint 系統管理中心，並尋找應用程式目錄網站集合的網站集合管理員，並以其中一個網站集合管理員身分登入，或新增網站集合管理員失敗的 SharePoint 系統管理員帳戶。 您也需要存取屬於 SharePoint 租使用者管理員的帳戶。
 
 ## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>將網頁元件上傳至租使用者應用程式目錄
 
-若要設定 Office 365 的自訂教學，請將 customlearning 檔案上傳至整個租使用者的應用程式目錄，然後加以部署。 如需如何將應用程式新增至應用程式目錄的詳細指示，請參閱 [使用應用程式目錄，讓您的 SharePoint 線上環境可使用自訂商務應用程式](/sharepoint/use-app-catalog) 。
+若要設定 Office 365 的自訂教學，請將 customlearning 檔案上傳至整個租使用者的應用程式目錄，然後加以部署。 如需如何將應用程式新增至應用程式目錄的詳細指示，請參閱 [Use The App Catalog for the SharePoint Online 環境可使用自訂商務應用程式](/sharepoint/use-app-catalog) 。
 
 ## <a name="provisionidentify-modern-communication-site"></a>布建/識別新式通訊網站
 
@@ -48,7 +51,7 @@ Microsoft 自訂學習網頁元件是使用 [SharePoint Framework](/sharepoint/d
 
 ### <a name="disabling-telemetry-collection"></a>停用遙測集合
 
-此解決方案的一部分包括匿名遙測追蹤加入宣告，預設為 [開啟]。 如果您正在執行手動安裝，而您想要關閉遙測追蹤，請變更 `CustomlearningConfiguration.ps1` 腳本以設定 $false 的 $optInTelemetry 變數。
+此解決方案的一部分包含匿名遙測追蹤加入宣告，其預設為 [開啟]。 如果您正在執行手動安裝，而您想要關閉遙測追蹤，請變更腳本， `CustomlearningConfiguration.ps1` 以設定 $false 的 $optInTelemetry 變數。
 
 如果您未執行手動安裝，且想要關閉遙測追蹤功能，當執行時，會包含另一個腳本，以 `TelemetryOptOut.ps1` 停用遙測追蹤。
 

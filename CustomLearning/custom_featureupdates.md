@@ -2,15 +2,15 @@
 author: pkrebs
 ms.author: pkrebs
 title: 學習路徑功能更新
-ms.date: 10/20/2019
+ms.date: 4/13/2021
 description: 學習路徑功能更新
-ms.service: sharepoint online
-ms.openlocfilehash: dba6903553ef5b51bc6d1e727c0e61781f9db26a
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.service: o365-solutions
+ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
+ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573385"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755279"
 ---
 # <a name="learning-pathways-version-40-feature-updates"></a>學習路徑版本4.0 功能更新
 下列包含學習路徑版本4.0 的功能更新。  
@@ -48,7 +48,8 @@ ms.locfileid: "50573385"
 - 日本 (日本)  
 - 葡萄牙文 (巴西)  
 - 俄文 (俄文)  
-- 西班牙文 
+- 西班牙文
+- 荷蘭文 
 
 
 如需詳細資訊，請參閱 [瞭解多](custom_overview.md)語系的路徑。 
@@ -65,9 +66,6 @@ ms.locfileid: "50573385"
 如需詳細資訊，請參閱：
 - [建立自訂的播放清單](custom_createnewplaylist.md)。 
 - [建立子類別](custom_createnewcat.md)
-
-> [!NOTE]
-> 對荷蘭文言的支援，將不會包含在教學路徑的後續版本中的支援。 我們將在未來繼續評估新的語言選項。
 
 ## <a name="november-2019-version-30-feature-updates"></a>2019年11月版本3.0 功能更新
 下列新功能主要是根據客戶的意見反應，新增至 Microsoft 365 學習路徑版本3.0。

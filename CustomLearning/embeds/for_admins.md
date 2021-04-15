@@ -3,14 +3,17 @@ title: 使用 Office 365 自訂教學的系統管理員的有用連結
 description: 使用 Office 365 自訂教學的系統管理員的有用連結
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
+ms.service: o365-administration
 ms.date: 02/01/2019
-ms.topic: administration
-ms.openlocfilehash: b5984d6ff84ee07a93aba52202cb394a6db6116b
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.topic: article
+ms.openlocfilehash: 693612e775cc9372279c22955c2d545bdeadc3be
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163050"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749321"
 ---
 # <a name="helpful-links-for-office-365-administrators"></a>Office 365 系統管理員的有用連結
 

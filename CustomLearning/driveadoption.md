@@ -3,15 +3,17 @@ title: 學習路徑的磁片磁碟機採用
 description: 學習路徑的磁片磁碟機採用
 author: karuanag
 ms.author: karuanag
+manager: alexb
+audience: itpro
 ms.date: 10/30/2019
-ms.topic: getting-started
-ms.service: sharepoint online
-ms.openlocfilehash: d19b3f25455e07efd8325899e0adb2f0a0c4adc2
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.topic: article
+ms.service: sharepoint-online
+ms.openlocfilehash: 699abcc2256f89787814671c60d7146671011222
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233565"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749331"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>促進學習路徑入口網站的採用
 當您自訂 Microsoft 365 學習路徑並將初始學習活動放在一起之後，就可以思考如何讓使用者回到 Microsoft 365 學習路徑，以進行進行中的學習和轉換。 您可以使用 Microsoft 提供的指南、採用套件及最佳作法，協助您執行成功的 Microsoft 365 教學路徑採用活動，我們提供指導方針、最佳做法和採用套件。 
