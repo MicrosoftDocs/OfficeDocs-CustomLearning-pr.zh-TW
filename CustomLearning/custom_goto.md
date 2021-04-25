@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 移至 Microsoft 365 學習路徑網站
 ms.date: 02/18/2019
 description: 移至 Microsoft 365 學習路徑網站
-ms.service: sharepoint online
-ms.openlocfilehash: 5d102092f639e91c39dc163b0acab004d5605d86
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 9fe715b04a86024938e4f4376ded1d381556a194
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234375"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999669"
 ---
 # <a name="go-to-the-microsoft-365-learning-pathways-site"></a>移至 Microsoft 365 學習路徑網站
 

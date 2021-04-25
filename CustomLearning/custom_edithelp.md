@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 自訂學習路徑網站
 ms.date: 02/15/2019
 description: 深入瞭解 Microsoft 365 學習路徑中提供的各種自訂
-ms.service: sharepoint online
-ms.openlocfilehash: e6479fdd35dcd6a27482fb3faa3facd35e4d52e7
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 44f11d02d86e8d3f8d3e32d5c3207fca384e9e2e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234475"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999809"
 ---
 # <a name="customize-the-site"></a>自訂網站
 

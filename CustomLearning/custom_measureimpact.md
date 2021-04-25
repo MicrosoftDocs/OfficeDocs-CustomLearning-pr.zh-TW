@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 衡量 Microsoft 365 學習路徑的影響
 ms.date: 02/10/2019
 description: 如何衡量 Microsoft 365 學習路徑的影響
-ms.service: sharepoint online
-ms.openlocfilehash: 3f803959a7fe14c2c67bb232a5f9ade31218ab11
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 4ba5981902367ef9c94c28c49442af588dcf368e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163040"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999529"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>評估 Microsoft 365 學習路徑的影響
 
@@ -32,6 +32,6 @@ Office 365 Admin Center SharePoint 網站使用狀況報告可讓系統管理員
 2. 解讀 SharePoint 網站使用狀況報告詳細資料。 在 [網站 URL] 欄位中排序，更容易識別您的 Microsoft 365 學習路徑網站。 
 3. 利用報告匯出功能進行更高級的資料分析，或者如果您的組織有超過2000的網站。 
 
-## <a name="feedback"></a>意見反應
+## <a name="reporting"></a>報告
 
 到目前為止，報告只限于 SharePoint 網站層級。 出借 [使用者語音](https://go.microsoft.com/fwlink/?linkid=2109552) 論壇的投票，以協助改善增強型報告功能要求的優先順序。

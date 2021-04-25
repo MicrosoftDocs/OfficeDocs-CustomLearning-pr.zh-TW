@@ -3,14 +3,17 @@ author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 學習路徑早期採用計畫
 ms.date: 3/9/2019
+manager: bpardi
 description: Microsoft 365 學習路徑早期採用計畫
-ms.service: sharepoint online
-ms.openlocfilehash: 84839637d6acd45447b5c6c84ebdc9dbc9e98663
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+audience: admin
+ms.topic: article
+ms.openlocfilehash: 58b11e451d632aaad029650822589039224374a3
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234125"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999479"
 ---
 # <a name="microsoft-365-learning-pathways-early-adopter-program"></a>Microsoft 365 學習路徑早期採用計畫
 
@@ -21,4 +24,3 @@ ms.locfileid: "48234125"
 - 及早存取協力廠商的指導方針與工具 
 
 興趣？ 在這裡為提名進行註冊，以包含： [https://aka.ms/M365lpPartnerEAP](https://aka.ms/M365lpPartnerEAP) 。   
-

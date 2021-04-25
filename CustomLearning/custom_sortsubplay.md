@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 排序子類別和播放清單
 ms.date: 07/20/2020
 description: 在學習路徑中排序子類別和播放清單
-ms.service: sharepoint online
-ms.openlocfilehash: 3d3246fd7adaffb0e3f64defc83cad0d1cc04f8d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: aca52cc32c9f4bb72a5098e40361c9d2d9feee9e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233885"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999299"
 ---
 # <a name="sort-subcategories-and-playlists"></a>排序子類別和播放清單
 
@@ -48,6 +51,6 @@ ms.locfileid: "48233885"
 1. 選取 [ **編輯** ] 以編輯頁面。
 2. 選取 [ **編輯網頁元件**]。
 3. 選取 [ **重設排序**]。 
-4. 選取 **[** 套用]。 
+4. 選取 [套用 **]**。 
 5. 選取 [ **儲存為草稿** ] 或 [ **發佈** ] 頁面。 
 

@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 連結至 Microsoft 365 學習路徑資產
 ms.date: 02/15/2019
 description: 如何連結至 Microsoft 365 學習路徑資產
-ms.service: sharepoint online
-ms.openlocfilehash: 737bff4c8d98e210e619d16bb680a9ea30334d93
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: ae17cb531ffb66378749e4d96e72a8bb1db03dc3
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234315"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999619"
 ---
 # <a name="link-to-learning-pathways-content"></a>學習路徑內容的連結
 

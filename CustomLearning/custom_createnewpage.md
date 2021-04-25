@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 建立播放清單的 SharePoint 頁面
 ms.date: 02/10/2019
 description: 建立播放清單的 SharePoint 頁面
-ms.service: sharepoint online
-ms.openlocfilehash: 99425b9be685a8090394ecb446a7c82dee24fe5d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 40c249fbd5b0fdaefd555f23bf20ac23240ea954
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234505"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999084"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>建立自訂播放清單的 SharePoint 頁面
 
@@ -19,7 +19,7 @@ ms.locfileid: "48234505"
 ## <a name="create-a-sharepoint-page-for-a-custom-playlist"></a>建立自訂播放清單的 SharePoint 頁面
 
 1. 按一下 SharePoint **齒輪** 圖示，然後按一下 [ **新增頁面**]。
-2. 在頁面的左側，按一下 [ **新增新的區段 (+) ** ]，然後按一下 [ **兩欄** ] 以進行區段版面配置。
+2. 在頁面的左側，按一下 [ **新增新的區段 (+)** ]，然後按一下 [ **兩欄** ] 以進行區段版面配置。
 3. 在左側欄中，按一下 [+]，然後按一下 [ **嵌入** 網頁元件]。 
 4. 在右列中，按一下 [+]，然後按一下 [ **文字** ] 網頁元件。 您的頁面看起來應該像這樣。
 
@@ -30,7 +30,7 @@ ms.locfileid: "48234505"
 1. 在您的瀏覽器中，移至 YouTube。 在此範例中，請搜尋「什麼是 Office 365 – Microsoft 的最佳生產力應用程式」。
 2. 按一下影片以播放它，然後暫停它，然後在其上按一下滑鼠右鍵。 
 3. 按一下 [ **複製內嵌程式碼**]，然後回到 [SharePoint] 頁面。 
-4. 按一下 [**嵌入**網頁元件] 中的 [**新增內嵌程式碼**]，然後從 YouTube 影片新增程式碼。
+4. 按一下 [**嵌入** 網頁元件] 中的 [**新增內嵌程式碼**]，然後從 YouTube 影片新增程式碼。
 5. 回到 YouTube 頁面，然後複製影片的 **描述** 文字。 
 6. 回到 [SharePoint] 頁面上，選取 [ **文字** ] 網頁元件，然後複製 YouTube 影片中的文字。
 7. 選取 [SharePoint] 頁面的 [標題] 區域中的 [ **編輯網頁元件** ] 圖示，然後將頁面命名為「自訂播放清單簡介」。 

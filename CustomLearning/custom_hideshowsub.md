@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 隱藏及顯示子類別
 ms.date: 02/18/2019
 description: 操作方法隱藏、顯示、編輯和刪除子類別
-ms.service: sharepoint online
-ms.openlocfilehash: d6580c3919f373e88713266ef8c53070ae60f48d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 493feb8a78b7d56b109ccc78bcb2c2df16b1ceda
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234305"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999685"
 ---
 # <a name="hide-and-show-subcategories"></a>隱藏和顯示子類別
 

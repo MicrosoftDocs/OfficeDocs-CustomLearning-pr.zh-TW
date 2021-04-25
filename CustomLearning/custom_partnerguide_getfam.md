@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: 合作夥伴上線指南
 ms.date: 3/9/2019
 description: Microsoft 365 教學路徑的合作夥伴上架指南
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163030"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999419"
 ---
 # <a name="partner-onboarding-guide"></a>合作夥伴上線指南
 遵循下列三個步驟，即可開始學習路徑。 透過三個步驟，您可以建立引人注目的示範，您可以用來與客戶一起參與簡報。 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![圖表說明五步驟上架處理常式。](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. 建立 Microsoft 365 示範環境
 您可以使用 demos.microsoft.com 來建立示範環境，以供您布建服務，加以驗證，並使用它來呈現客戶的教學途徑。 所有合作夥伴都可以存取 https://demos.microsoft.com 這些目的。 如果您是示範的示範環境，您可以使用 demos.microsoft.com **入門手冊** 。

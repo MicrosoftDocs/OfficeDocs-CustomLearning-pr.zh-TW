@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 翻譯網站頁面
 ms.date: 07/06/2020
 description: 翻譯網站頁面
-ms.service: sharepoint online
-ms.openlocfilehash: a6989162208103bb769dbf1c853cc4bdff0a6d68
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: baa46deda7d7e10f3a7655fc6da076d37607e29f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233905"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000289"
 ---
 # <a name="translate-site-pages"></a>翻譯網站頁面
 在您開始翻譯「學習路徑」網站之前，請務必瞭解多語系功能如何搭配學習路徑使用的幾個重要概念。 
@@ -40,7 +43,7 @@ ms.locfileid: "48233905"
 ### <a name="view-the-translated-home-page"></a>查看轉譯後的首頁
 從 [學習路徑] 首頁的 [語言] 下拉式清單中，選取語言，如下列範例所示。 在範例中，您會看到右上角的 [已選取義大利義大利文]，並轉譯所有的頁面元素。
 
-![custom_ml_pages_home.png](media/custom_ml_pages_home.png)
+![使用中學習路徑的相片](media/custom_ml_pages_home.png)
 
 ### <a name="view-the-translated-microsoft-365-training-page"></a>查看已翻譯的 Microsoft 365 訓練頁面
 現在，讓我們看一下 Microsoft 365 訓練頁面。 
@@ -48,7 +51,7 @@ ms.locfileid: "48233905"
 1. 從 [學習路徑] 網站 **首頁** ，按一下 [ **Microsoft 365 訓練**]。
 2. 在頁面的右上角，選取語言。 在此範例中，會選取義大利文。
 
-![custom_ml_pages_training.png](media/custom_ml_pages_training.png)
+![義大利文的 [學習路徑] 頁面範例。](media/custom_ml_pages_training.png)
 
 在選取語言時會顯示哪些翻譯？
 - SharePoint 頁面的轉譯方式如下圖所示。 請注意，網頁橫幅的文字現在已是義大利文。
@@ -110,6 +113,6 @@ ms.locfileid: "48233905"
 ### <a name="to-view-the-fully-translated-site-in-a-specific-language"></a>以特定語言查看完全翻譯的網站
 若要以特定語言（包括網站頁面、導覽和網頁元件）來查看完全翻譯的網站，必須為該語言設定使用者的個人語言和區域設定。 如需設定語言和區域設定的詳細資訊，請參閱 [變更您的個人語言和區域設定](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。 建議您使用不同的帳戶或讓另一位具有不同語言設定的使用者查看已翻譯的頁面。
 
-## <a name="for-more-information"></a>相關資訊
+## <a name="for-more-information"></a>如需詳細資訊
 - 如需翻譯 SharePoint 通訊網站頁面的詳細資訊，請參閱 [建立多語系通訊網站、頁面和新聞](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)。
 - 如需自訂學習路徑的詳細資訊，請參閱 [自訂學習路徑](custom_overview.md)。  

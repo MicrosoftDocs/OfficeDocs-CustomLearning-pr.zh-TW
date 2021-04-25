@@ -1,18 +1,21 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: 意見反應與支援
+manager: alexb
+title: 意見反應及支援
 ms.date: 02/10/2019
-description: Microsoft 365 學習路徑的意見反應和支援資訊
-ms.service: sharepoint online
-ms.openlocfilehash: 77e0630153cf72ee2682c2536fe4ed2ef11da74d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Microsoft 365 學習路徑的意見反應及支援資訊。
+ms.service: sharepoint-online
+audience: itpro
+ms.topic: article
+ms.openlocfilehash: 01b0b129eb3b041e18414dee1e785feaa3d6fd8e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233525"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000059"
 ---
-# <a name="feedback-and-support"></a>意見反應與支援
+# <a name="feedback-and-support"></a>意見反應及支援
 
 Microsoft 365 學習路徑是由 GitHub 上的 [線上問題清單](https://aka.ms/CustomLearningHelp) 所支援的開放來源專案。 Microsoft 365 學習路徑解決方案並未涵蓋在任何現有的 Microsoft 支援合同範圍內。  
 

@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: 學習路徑管理員成功中心
 ms.date: 10/24/2019
 description: 學習路徑管理員成功中心
-ms.service: sharepoint online
-ms.openlocfilehash: 9d2a675289662dcf0e9042d7ac44e620ab71f653
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 321602a71691f2297eab21dcedf16998fc6aef2a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233895"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000269"
 ---
 # <a name="learning-pathways-admin-success-center"></a>學習路徑管理員成功中心
 
 歡迎使用 Microsoft 365 教學路徑管理員成功中心。 「系統管理」成功中心提供指導和資源，可協助您規劃、自訂、促進採用，以及衡量學習路徑部署的影響。
 
-![cg-successcenter.png](media/cg-successcenter.png)
+![學習路徑管理員成功中心首頁。](media/cg-successcenter.png)
 
 ## <a name="sign-in-to-office-365"></a>登入 Office 365 
 

@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 複製播放清單
 ms.date: 02/18/2019
 description: 如何複製播放清單
-ms.service: sharepoint online
-ms.openlocfilehash: f97b2e45f60a9d26f715f80ab29ae754b4dd0e1f
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 665af0b9dfaa73eb091df831ec1178beb19a4c7c
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234535"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999109"
 ---
 # <a name="copy-a-playlist"></a>複製播放清單
 組織非常經常需要透過組織所建立的資產移除或取代資產，以修改 Microsoft 提供的播放清單。 例如，您可能想要移除從六個簡單步驟播放清單開始的步驟。 現在，您可以使用學習路徑副本播放清單功能輕鬆複製六個簡單的步驟播放清單，只需要移除資產、更換資產或新增資產。 

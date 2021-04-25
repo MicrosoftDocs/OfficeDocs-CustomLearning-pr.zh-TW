@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 管理學習路徑內容更新
 ms.date: 10/20/2019
 description: 管理學習路徑內容更新
-ms.service: sharepoint online
-ms.openlocfilehash: 171504fb3d3679f541bbf1cd9b2e3937d3aba1f7
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: e94d5f293e5c660dde2a40c2fe1c8fe72b1f6eb9
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234545"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000309"
 ---
 # <a name="manage-learning-pathways-content-updates"></a>管理學習路徑內容更新
 Microsoft 365 學習路徑目錄會以季度為基礎進行更新。 目錄內容（即一組 JSON 中繼資料，指向 support.office.com 中主控的學習資產）儲存在組織租使用者內部的全域快取中。 當學習路徑網站集合管理員或擁有者開啟「學習路徑管理」頁面時，會自動更新全域快取。 此外，「學習路徑」全域快取會每24小時更新一次。 更新全域快取時，會自動顯示目錄的內容更新，以供學習路徑使用者。 如果不想讓使用者使用新的內容，則學習路徑管理員可以隱藏子類別或播放清單。
@@ -31,5 +31,5 @@ Microsoft 365 學習路徑目錄會以季度為基礎進行更新。 目錄內�
 2. 在右上方的下拉式方塊中，選取 [ **技術**]。
 3. 在 [ **Microsoft 365 學習路徑**] 底下，選取技術
 4. 選取您要隱藏之技術的右側眼睛。 例如，若要隱藏 Yammer 的內容，請選取 **yammer** 技術右側的眼。 所有變更都會自動儲存。
-5. 若要驗證是否已套用您的變更，請從 [學習路徑] 網站選取功能表中的 [ **Microsoft 365 訓練** ]，然後重新整理網頁瀏覽器。 您也可以從學習路徑**首頁**選取**建議的播放清單**，並確認您已隱藏之技術的播放清單看不到。
+5. 若要驗證是否已套用您的變更，請從 [學習路徑] 網站選取功能表中的 [ **Microsoft 365 訓練** ]，然後重新整理網頁瀏覽器。 您也可以從學習路徑 **首頁** 選取 **建議的播放清單**，並確認您已隱藏之技術的播放清單看不到。
 

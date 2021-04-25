@@ -3,14 +3,17 @@ author: pkrebs
 ms.author: pkrebs
 title: 規劃學習路徑內容
 ms.date: 10/20/2019
-description: Microsoft 365 學習路徑內容更新
-ms.service: sharepoint online
-ms.openlocfilehash: e3df63d098046311ffb5aa4220cbcaf3a9394572
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Microsoft 365 學習路徑內容選項可供使用。
+ms.service: sharepoint-online
+manager: bpardi
+mstopic: article
+audience: admin
+ms.openlocfilehash: da15ebb46a8cecbd5081f7e6f74abd01b629aafb
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234105"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999429"
 ---
 # <a name="plan-your-learning-pathways-content"></a>規劃學習路徑內容
 在您深入瞭解 Microsoft 365 學習路徑之前，最好花一些時間來調查您可以使用的教學內容、工具及功能。 我們的目標是協助您盡可能快快捷地為組織的使用者提供速度和生產力。 在規劃學習路徑時，我們建議使用三個步驟的程式：
@@ -25,7 +28,7 @@ ms.locfileid: "48234105"
 ### <a name="review-the-learning-pathways-sharepoint-site"></a>複查 SharePoint 網站的學習路徑
 Microsoft 365 學習路徑解決方案提供與連線至線上目錄之網頁元件的 SharePoint 通訊網站。 SharePoint 網站可以完全自訂，包括網站名稱、徽標、頁面、功能表項目、主題及麻將牌。 請花些時間按一下平鋪及功能表項目目，以找出學習路徑網站提供的功能。
 
-![cg-introducing.png](media/cg-introducing.png)
+![使用中學習路徑的相片。](media/cg-introducing.png)
 
 ### <a name="review-the-content-from-the-online-catalog-with-the-web-part"></a>透過網頁元件查看線上目錄中的內容
 根據預設，網頁元件會新增至 SharePoint 通訊網站中的一系列頁面。 完整的一組內容會在 Microsoft 365 訓練頁面上提供。 Microsoft 365 訓練頁面會主控「學習路徑」網頁元件，設定為顯示所有可用於學習路徑的訓練。 
@@ -35,7 +38,7 @@ Microsoft 365 學習路徑解決方案提供與連線至線上目錄之網頁元
 1. 向右下向左下頁面以查看所有類別和子類別。
 2. 一位開始輪胎。 按一下一些子類別，然後按一下一些播放清單，以瞭解如何組織學習路徑內容。 
 
-![cg-adminsuccesscenterplan_01.png](media/cg-adminsuccesscenterplan_01.png)
+![視窗會顯示學習路徑類別的圖示。](media/cg-adminsuccesscenterplan_01.png)
 
 ### <a name="view-the-administration-page"></a>查看管理頁面
 [管理] 頁面提供可供您使用的內容清單。 您可以在此位置隱藏內容、建立新的播放清單，以及新增、編輯和移除播放清單。 依序按一下各種類別和播放清單，以查看可用內容的完整 breath。 
@@ -44,7 +47,7 @@ Microsoft 365 學習路徑解決方案提供與連線至線上目錄之網頁元
 1. 在 [學習路徑] 網站上，指向 [首頁功能表] 箭號，然後按一下 [學習路徑管理]。  
 2. 然後，按一下各種類別、子類別和播放清單，以瞭解可供您使用的內容 breath。 
 
-![cg-adminsuccesscenterplan_02.png](media/cg-adminsuccesscenterplan_02.png)
+   ![[範例路徑選項] 視窗。](media/cg-adminsuccesscenterplan_02.png)
 
 ### <a name="get-to-know-the-capabilities-of-microsoft-365-learning-pathways"></a>深入瞭解 Microsoft 365 學習路徑的功能
 透過 Microsoft 365 學習路徑，您可以將 Microsoft 所提供的內容與您所建立的內容搭配使用，以指定您的組織獨有的特定原則及程式。 最佳作法是儘量盡可能利用 Microsoft 提供的內容。 Microsoft 會定期更新個別的資產，並每季更新完整的內容清單。 通常組織會建立10-20% 的獨特內容，然後將其餘的80% 保留在 Microsoft，以維持最新狀態。 下列清單說明如何組織學習路徑內容，以及可修改或建立之內容的指導方針。 自訂內容的指導方針于「管理員成功中心」的 [自訂學習路徑] 區段中提供。

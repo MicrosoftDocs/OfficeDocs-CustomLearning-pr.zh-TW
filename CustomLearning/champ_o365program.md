@@ -5,13 +5,13 @@ author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 70ecd8c6c080c90b6de12694a57de4360c91ab38
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 159d2ce3a5e34b69716696673e841add23e754f5
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233425"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999909"
 ---
 # <a name="office-365-champions-program"></a>Office 365 冠軍計畫 
 

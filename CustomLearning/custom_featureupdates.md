@@ -1,17 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
-title: 學習路徑功能更新
-ms.date: 4/13/2021
-description: 學習路徑功能更新
-ms.service: o365-solutions
-ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
-ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
-ms.translationtype: MT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755279"
----
+author： pkrebs ms. author： pkrebs title：教學路徑功能更新毫秒。日期：4/13/2021 描述：教學路徑功能更新毫秒。服務： sharepoint-線上
+
 # <a name="learning-pathways-version-40-feature-updates"></a>學習路徑版本4.0 功能更新
 下列包含學習路徑版本4.0 的功能更新。  
 

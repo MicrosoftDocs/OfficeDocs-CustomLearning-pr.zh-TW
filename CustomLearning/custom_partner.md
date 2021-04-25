@@ -1,16 +1,19 @@
 ---
-author: mikeholl
-ms.author: mikeholl
+author: mhollinshead
+ms.author: patrickp
+manager: patrickp
 title: 合作夥伴常見問題集
 ms.date: 3/9/2019
 description: Microsoft 365 學習路徑與提供企業培訓服務之公司的合作夥伴產品有何不同？
-ms.service: sharepoint online
-ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 60628fe692b07956138273cba91d6bc400a4e5cb
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234145"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999489"
 ---
 # <a name="partner-frequently-asked-questions"></a>協力廠商常見問題
 

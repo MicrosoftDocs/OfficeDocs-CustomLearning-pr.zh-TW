@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 2019年11月內容更新
 ms.date: 10/20/2019
 description: Microsoft 365 學習路徑內容更新
-ms.service: sharepoint online
-ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: cc60c4a16ca3d1bf7f6944f57f274303a76fa3c9
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234705"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999099"
 ---
 # <a name="november-2019-content-updates"></a>2019年11月內容更新
 歡迎使用 Microsoft 365 學習路徑內容更新。 從我們11月的2019更新開始，我們將提供每季更新的學習路徑目錄更新清單。 在2019年11月的更新中，下列新的內容子類別和播放清單已新增至學習路徑目錄。 若要深入瞭解如何套用內容更新，以及如何管理內容更新，請參閱 [管理內容更新](custom_contentupdatesmanage.md)。    
@@ -66,7 +66,7 @@ ms.locfileid: "48234705"
 - 將內容新增至 Sway (11 資產) 
 - 自訂 Sway (5 資產) 
 
-## <a name="access"></a>Access
+## <a name="access"></a>存取
 - Access Quick Start (4 資產) 
 - Access (3 資產簡介) 
 - 建立 Access 資料庫 (2 資產) 

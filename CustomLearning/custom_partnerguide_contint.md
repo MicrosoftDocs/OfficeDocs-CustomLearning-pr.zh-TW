@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: 合作夥伴整合模型
 ms.date: 3/9/2019
 description: 合作夥伴整合模型
-ms.service: sharepoint online
-ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162930"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999519"
 ---
 # <a name="partner-integration-models"></a>合作夥伴整合模型
 雖然不可能從「SharePoint 線上布建服務」的 [現成] 直接補充「現成」的 Microsoft 365 教學內容，但有數個整合模型可讓合作夥伴利用這些整合式的價值-新增服務提供服務。 以上的合作夥伴整合模型是以遞增複雜度和投資層級為序呈現。 因此，我們的指導方針是根據您的業務模型，建立更高級別的專業知識及畢業。
 
-![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+![流程圖顯示啟用、集成商和 redistibutors 的角色。](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>我應該如何開始？ 
 若要開始，請執行以下的一些最佳作法。     
@@ -133,7 +136,7 @@ Microsoft 利用 GitHub 頁面做為內容傳遞網路 (CDN) 來源，以供其�
 
 請務必維護 Microsoft 所用的相同版本架構，讓您選擇以您自己的內容套件擴充學習路徑方案。 您的 CDN 端點不應該包含版本資料夾，因為網頁元件所支援的資訊清單版本會 baked 至該版本，而且會自動附加至 CDN url。 我們顯然會為您提供一些時間，可讓您隨時建立資訊清單檔案的新實例。
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png) 
+![螢幕擷取畫面顯示範例結構。](media/cg-part-json-folder.png) 
 
 如需利用 GitHub 頁面作為 CDN 來源的詳細資訊，請參閱下列說明文件： [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 。
 
@@ -158,11 +161,11 @@ Admin 和 viewer 網頁元件已擴充，可讓使用者在其承租人中設定
 2. 在 [ **管理** ] 頁面 **上，按一下 [...]** 在頁面的右上角新增內容套件。
 3. 按一下 [自訂內容套件]，然後輸入內容套件的名稱，然後指定 JSON 檔案所在的 CDN。
 
-![cg-part-addconpack.png](media/cg-part-addconpack.png)
+   ![在其中輸入名稱和路徑的畫面。](media/cg-part-addconpack.png)
 
-4. 按一下 **[儲存]**。 自訂內容套件中的內容現在應該會出現在 [管理] 頁面中。 範例如下。 
+4. 按一下 [儲存]。 自訂內容套件中的內容現在應該會出現在 [管理] 頁面中。 範例如下。 
 
-![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
+   ![管理頁面範例。](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>在網頁元件中篩選至內容套件
 透過學習路徑，您可以將 [學習路徑] 網頁元件新增至頁面、篩選網頁元件以指向自訂內容套件來源，然後再將網頁元件篩選為您想要的類別、子類別、播放清單及資產。 
@@ -175,4 +178,4 @@ Admin 和 viewer 網頁元件已擴充，可讓使用者在其承租人中設定
 6. 按一下網頁元件，然後按一下 [ **編輯** ] 圖示。
 7. 在 [ **選取學習來源** ] 方塊中，選取您的自訂內容套件，然後將該網頁元件篩選為您想要的內容。 下列範例提供篩選為自訂內容套件之播放清單之網頁元件的範例。
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+   ![篩選為自訂內容套件之播放清單之範例網頁元件的螢幕擷取畫面。](media/cg-part-conpackfilter.png)

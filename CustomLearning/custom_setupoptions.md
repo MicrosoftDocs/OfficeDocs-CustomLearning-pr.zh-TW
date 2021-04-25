@@ -1,18 +1,21 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 學習路徑的設定選項
+title: 設定學習路徑的選項
 ms.date: 07/16/2020
 description: 學習路徑的設定選項
-ms.service: sharepoint online
-ms.openlocfilehash: 3246434cf450a17d324ce5b5afed5b9d7a4339ec
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 2397f7930bcf02ed697dcc6b18b648bffa2f0e11
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233965"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000329"
 ---
-# <a name="setup-options-for-multilingual-learning-pathways"></a>多語系學習路徑的設定選項
+# <a name="configuration-options-for-multilingual-learning-pathways"></a>多語系學習路徑的設定選項
 隨著 SharePoint 線上通訊網站的多語系功能的發行，教學途徑現在可支援多種語言。 您可以根據組織的需求，以不同類型的方式設定學習路徑。 為了協助您決定組織的最佳路徑，我們已概述設定選項。 
 
 ## <a name="new-install-scenarios"></a>新安裝案例

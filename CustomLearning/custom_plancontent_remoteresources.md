@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 支援遠端員工的資源
 ms.date: 3/31/2020
 description: 支援遠端員工的資源
-ms.service: sharepoint online
-ms.openlocfilehash: b32defa9e60066db33d6d978f1894cea00da446c
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bc9490be06945a5945c1e0569abd94ecde17f30f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163010"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999409"
 ---
 # <a name="resources-for-supporting-your-remote-workforce"></a>支援遠端員工的資源
 為了回應 Covid-19，2020年4月的內容更新提供學習播放清單和資源，其重點是在組織中啟用遠端工作。 我們已新增一組新的工作以遠端方式播放清單、大幅更新 Microsoft 小組內容，尤其是針對小組會議，並新增一組新的 Office 以供網頁播放清單。 

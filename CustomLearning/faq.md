@@ -3,17 +3,14 @@ title: Microsoft 365 學習路徑常見問題
 author: karuanag
 ms.author: karuanag
 ms.date: 02/10/2019
-ms.topic: article
-manager: alexb
-audience: itpro
-description: Microsoft 365 學習路徑的常見問題資訊。
+description: Microsoft 365 學習路徑的常見問題資訊
 ms.service: sharepoint-online
-ms.openlocfilehash: f791d6421740c3458be525a7e306b10edab58259
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: d91c2710315b393eb8be3645c4fa94b32d353aa7
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749401"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000079"
 ---
 # <a name="frequently-asked-questions"></a>常見問題集
 
@@ -74,7 +71,7 @@ Microsoft 365 學習途徑是一種開放來源軟體， (OSS) 解決方案，�
 
 ### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>我們是否可以讓 Microsoft 365 教學成為主要 SharePoint 網站集合的子網站？
 
-否。 網站是以通訊網站範本為基礎，該範本永遠是根網站集合。
+錯誤。 網站是以通訊網站範本為基礎，該範本永遠是根網站集合。
 
 > [!NOTE]
 > 請務必考慮您的使用者存取網站所需的許可權。 大多陣列織已定義安全性或使用者群組。 您準備好將適當的安全性群組新增至您的員工群組之後，您必須將適當的安全性群組新增至新的訓練入口網站。

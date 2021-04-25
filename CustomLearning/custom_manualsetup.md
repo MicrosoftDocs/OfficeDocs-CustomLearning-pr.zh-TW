@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 學習路徑手動設定
 ms.date: 07/06/2020
 description: Microsoft 365 學習路徑手動設定
-ms.service: sharepoint online
-ms.openlocfilehash: 511b4e5d7d251a1e3fbffcefb01d4ba1f139e5a1
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: 5cc2f641884871fcb33d6cf7ea0db885fcdbd019
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163070"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999609"
 ---
 # <a name="learning-pathways-manual-setup"></a>學習路徑手動設定
 
@@ -39,7 +39,7 @@ Microsoft 365 教學路徑為需要支援下列其中一種案例的組織提供
 - 執行 PowerShell 腳本，它會將您的租使用者設定為教學路徑所依據的工件。
 - 流覽至 CustomLearningAdmin 中的 [.aspx 網站] 頁面，載入管理網頁元件以初始化自訂內容設定。
 
-## <a name="prerequisites"></a>必要條件
+## <a name="prerequisites"></a>了解必要條件
 為了確保成功手動設定「學習路徑」網頁元件，必須符合下列必要條件。 
 
 - 您必須已設定並設定整個租使用者型應用程式目錄。 請參閱 [設定您的 Office 365 租使用者](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) ，並遵循「建立應用程式目錄」網站一節。 
@@ -54,7 +54,7 @@ Microsoft 365 教學路徑為需要支援下列其中一種案例的組織提供
 如果您不想要對網站進行多語言支援，請確定已關閉該功能。
 1.  在 SharePoint 通訊網站上，選取 [**設定**  >  **網站資訊**]。請查看 [  >  **所有網站設定**]  >  **語言設定**。 
 2.  將 [ **允許翻譯成多種語言的頁面和新聞** ] 設定為 [ **關閉**]。
-3.  按一下 **[儲存]**。 
+3.  按一下 [儲存]。 
 4.  繼續進行步驟2。
 
 ## <a name="option-2---you-want-multilingual-support-and-youre-ok-with-the-default-language"></a>選項 2-您想要多語言支援，並使用預設語言確定

@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 隱藏及顯示播放清單
 ms.date: 10/27/2019
 description: 隱藏及顯示播放清單
-ms.service: sharepoint online
-ms.openlocfilehash: e8f6a2df8e328d995143990be569f3de815d5646
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: de82c64eae124af3d8216a256e47bccc9eb4d992
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234325"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999689"
 ---
 # <a name="hide-and-show-playlists"></a>隱藏和顯示播放清單
 
@@ -34,5 +34,5 @@ ms.locfileid: "48234325"
 
 ## <a name="unhide-a-playlist"></a>取消隱藏播放清單
 
-- 在 [ **CAdministration** ] 頁面上，選取子類別、選取一個播放清單，然後選取隱藏的播放清單的 eyeball 以取消隱藏該播放清單。 在此範例中，請取消隱藏 Microsoft 小組 * [**開始交談]、[通話] 和 [會議** ] 播放清單。   
+- 在 [ **CAdministration** ] 頁面上，選取子類別、選取一個播放清單，然後選取隱藏的播放清單的 eyeball 以取消隱藏該播放清單。 在此範例中，請取消隱藏 Microsoft 小組 * [*_開始交談]、[通話] 和 [會議_* ] 播放清單。   
 

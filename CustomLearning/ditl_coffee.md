@@ -5,13 +5,13 @@ author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 5da7b3eb0e7b66c81c0bf3586509719c912ab609
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: f0249a5f86e3ba99d1e53e7e9dc51d8cb5007c11
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233695"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000099"
 ---
 # <a name="during-morning-coffee"></a>在早晨喝咖啡的時間裡
 

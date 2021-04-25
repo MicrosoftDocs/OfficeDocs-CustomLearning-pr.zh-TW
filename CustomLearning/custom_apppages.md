@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 認識 SharePoint 應用程式頁面
 ms.date: 02/15/2019
 description: 深入瞭解 Microsoft 365 學習路徑中 SharePoint 應用程式頁面的功能
-ms.service: sharepoint online
-ms.openlocfilehash: e6a97e771ce7ec5e72ca7a55c72bf753c8289be0
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 85e28c2f8c280cc1f6f612cc85aeab41d5bc9a84
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234645"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999219"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>認識 SharePoint 應用程式頁面
 
@@ -25,7 +25,7 @@ CustomLearningAdmin 頁面提供學習路徑的管理功能，包括隱藏及顯
 
 ### <a name="view-customlearningadminaspx"></a>查看 CustomLearningAdmin
 
-1. 按一下 [SharePoint**設定**] 圖示，然後按一下 [**網站內容**]  >  **網站頁面**。 
+1. 按一下 [SharePoint **設定**] 圖示，然後按一下 [**網站內容**]  >  **網站頁面**。 
 2. 按一下 [ **CustomLearningAdmin**]。 
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
@@ -35,7 +35,7 @@ CustomLearningViewer 頁面提供檢視器以顯示網頁元件中的學習路�
 
 ### <a name="view-customlearningvieweraspx"></a>查看 CustomLearningViewer
 
-1. 按一下 [SharePoint**設定**] 圖示，然後按一下 [**網站內容**]  >  **網站頁面**。 
+1. 按一下 [SharePoint **設定**] 圖示，然後按一下 [**網站內容**]  >  **網站頁面**。 
 2. 按一下 [ **CustomLearningViewer**]。 
 
 ![cg-viewerapppage.png](media/cg-viewerapppage.png)

@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 移至 Office 365 網站的自訂學習
 ms.date: 02/18/2019
 description: 移至自訂的教學網站
-ms.service: sharepoint online
-ms.openlocfilehash: a91ed15c51eea3259e503687308a14b073aa94ee
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: a232b192b92f1305486538b2baaf2cbc917c9ecb
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234675"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999119"
 ---
 # <a name="add-owners-custom-learning-site"></a>新增擁有者自訂學習網站
 
@@ -38,6 +38,6 @@ Office 365 訓練頁面會主控自訂學習網頁元件，以顯示所有可供
 
 1. 在 [SharePoint **設定** ] 功能表中，按一下 [ **網站許可權**]。
 2. 按一下 [ **高級許可權設定**]。
-3. 按一下 [ **自訂學習的 Office 365 擁有**者]。
+3. 按一下 [ **自訂學習的 Office 365 擁有** 者]。
 4. 按一下 [**新增**  >  **使用者至此群組**]，新增您要擁有者的人員，然後按一下 [**共用**]。
 

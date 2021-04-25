@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 學習路徑管理
 ms.date: 02/15/2019
 description: 操作方法從網頁元件或功能表存取自訂學習管理頁面
-ms.service: sharepoint online
-ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: b1cb8bf14d8b0daf884419fcbe30976ad821a89a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233325"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999839"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>存取「學習路徑管理」頁面
 

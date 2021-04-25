@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 隱藏及顯示技術
 ms.date: 05/20/2019
 description: 如何隱藏及顯示技術
-ms.service: sharepoint online
-ms.openlocfilehash: 7644e4ee3c0f990cb31ccf30af261c0e137bf596
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 1c9354312f2590e6b07ec6ab72fbb5bd1c28ebb8
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234295"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999639"
 ---
 # <a name="hide-and-show-technology"></a>隱藏和顯示技術
 

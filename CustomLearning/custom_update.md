@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 更新 Microsoft 365 學習路徑
 ms.date: 07/06/2020
 description: 更新 Microsoft 365 學習路徑
-ms.service: sharepoint online
-ms.openlocfilehash: 3f1874849832224726e452912c9228411ecd0820
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 324bf41df1a6eec8d4646f3affdd48bedbbe3252
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233845"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000339"
 ---
 # <a name="update-learning-pathways"></a>更新學習路徑
 如果您有現有的學習路徑網站，您可以更新它以進行多語言支援。 若要將學習路徑更新為多語系4.0 版本，請將網頁元件套件（customlearning）上傳至 SharePoint 租使用者目錄。 當您更新學習路徑：  
@@ -50,16 +53,16 @@ ms.locfileid: "48233845"
 ### <a name="upload-the-web-part-package"></a>上傳網頁元件套件
 1.  移至 [GitHub 自訂學習存放庫](https://github.com/pnp/custom-learning-office-365/tree/master/webpart)，選取 [ **customlearning** ]，然後將其下載至電腦上的本機磁片磁碟機。
 2.  如果您尚未登入，請使用租用戶系統管理員或網站集合系統管理員帳戶登入您的租用戶。 
-3.  按一下 [系統**管理**] [  >  **顯示所有**  >  **SharePoint**  >  **其他功能**]。 
+3.  按一下 [系統 **管理**] [  >  **顯示所有**  >  **SharePoint**  >  **其他功能**]。 
 4.  在 [ **應用程式**] 下，按一下 [ **開啟**]。 
 5.  按一下 [**應用程式目錄**  >  **分配應用程式以供 SharePoint**。 
-6.  按一下 [**上傳**  >  **選擇**檔案]。 
-7.  選取您下載的**customlearning**檔，按一下 **[確定**  >  **部署**]。 
+6.  按一下 [**上傳**  >  **選擇** 檔案]。 
+7.  選取您下載的 **customlearning** 檔，按一下 **[確定**  >  **部署**]。 
 
 ### <a name="complete-the-update"></a>完成更新
 1.  從 [學習路徑] 網站的 [**首頁**] 功能表中，選取 [**學習路徑管理**]。 
 2.  您會看到提示，詢問您是否要更新。 
-![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
+![郵件會提示您啟動更新。](media/custom_update_adminprompt_ml.png)
 3.  按一下 **[開始]**。 
 4. 更新完成時，按一下 [ **關閉**]。 
 

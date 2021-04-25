@@ -5,13 +5,13 @@ title: 隱藏及顯示學習路徑多語言播放清單
 ms.date: 10/27/2019
 description: 隱藏及顯示播放清單
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 7ea1ac68d1abb82ac4c356934037e558b39e1f36
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 9d0169c6b13930ebd66e6994d4782c91142d4a16
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234345"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999679"
 ---
 # <a name="hide-and-show-learning-pathways-multilingual-content"></a>隱藏及顯示學習路徑多語系內容 
 

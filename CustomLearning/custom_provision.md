@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 提供新的學習路徑解決方案
 ms.date: 02/10/2019
 description: 使用 Microsoft 365 考察簿服務布建 Microsoft 365 學習路徑網站
-ms.service: sharepoint online
-ms.openlocfilehash: fd50eed38ea6f2073eb61b4d21545a73bc918a49
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bf260f41ea149a2344d1f09ba67d3e3a1d6e6180
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162910"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999439"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>提供新的學習路徑解決方案 
 在其承租人中未布妥學習路徑的組織，可使用 SharePoint 的「查詢手冊」服務來新增多語系學習路徑解決方案。 使用此選項，「教學」路徑 SharePoint 範本會轉譯成九種語言，且最少可用於修改。 
@@ -45,10 +48,10 @@ ms.locfileid: "51162910"
 「檢查手冊」服務需要這些許可權才能建立租使用者應用程式目錄、將應用程式安裝至租使用者應用程式目錄，以及布建網站範本。 您的租使用者沒有整體影響。 這些許可權會明確用於解決方案安裝的目的。 您必須接受這些許可權，才能繼續安裝。
 
 4. 請視安裝需要完成填寫佈建資訊頁面上的欄位。 至少輸入您想要收到關於佈建程序通知的電子郵件地址，以及要佈建網站的目的地 URL。  
-> [!NOTE]
-> 將網站的目的地 URL 設定為員工易記，例如「/sites/MyTraining」或「/teams/LearnMicrosoft365」。
+   > [!NOTE]
+   > 將網站的目的地 URL 設定為員工易記，例如「/sites/MyTraining」或「/teams/LearnMicrosoft365」。
 
-![inst_options.png](media/inst_options.png)
+   ![畫面會提示您輸入基本資訊以供安裝。](media/inst_options.png)
 
 6. 準備好將學習路徑安裝至您的租使用者 **環境時，** 按一下 [布建]。  佈建程序最多會需要 15 分鐘的時間。 當網站準備就緒時，系統會透過電子郵件通知您。 
 
@@ -61,7 +64,7 @@ ms.locfileid: "51162910"
 
 - 移至`<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`。 開啟 **CustomLearningAdmin.aspx** 來初始化 **CustomConfig** 清單項目，該清單項目會為第一次使用設定學習路徑。 您應該會看到如下所示的頁面：
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+   ![範例初始 CustomLearningAdmin 頁面。](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>將擁有者新增至網站
 作為租使用者系統管理員，您不太可能是自訂網站的人員，所以您必須將少數擁有者指派給網站。 擁有者具有網站的管理許可權，可供使用者修改網站頁面及才能重塑網站。 他們也可以隱藏及顯示內容，以及建立自訂的播放清單和子類別。  
@@ -88,7 +91,7 @@ SharePoint 的「考察手冊」服務以九種語言建立學習路徑網站。
 4. 在 [ **讓頁面和新聞轉譯成多種語言**] 底下，將開關滑動至 [ **開啟**]。 預設值應為 On。
 5. 在 [新增或移除網站語言] 底下，按一下 [ **移除** ]，移除網站不需要的語言。 下列會顯示 [語言設定] 頁面的範例，除了預設英文語言之外，還會顯示網站支援的義大利文。
 
-![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+   ![範例網站語言畫面。](media/custom_update_ml_langsettings.png)
 
 > [!NOTE]
 > 移除語言時，不能移除預設的英文語言。 

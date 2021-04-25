@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 將資產新增至播放清單
 ms.date: 02/17/2019
 description: 將新的和現有的資產新增至學習路徑播放清單
-ms.service: sharepoint online
-ms.openlocfilehash: 52684f4c76ecbe54d5377469de6d3ee6fdbcfdb1
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: abd4500faccf8d4e8008f72dc800855035d8a2c9
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234685"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999829"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>將資產新增至自訂播放清單
 
@@ -40,7 +40,7 @@ ms.locfileid: "48234685"
 
 4. 按一下 [ **開啟頁面**]。
 5. 按一下 [ **編輯** ] 圖示，然後按一下 [標題] 區域中的 [ **編輯網頁元件** ]。
-6. 在 [ **版面**配置] 底下，按一下 [ **純**]。 
+6. 在 [ **版面** 配置] 底下，按一下 [ **純**]。 
 7. 新增一個新的一欄區段，然後在頁面中新增一些範例文字，使它看起來如下列範例所示。 
 
 ![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
@@ -91,7 +91,7 @@ ms.locfileid: "48234685"
 
 1. 按一下 [ **關閉播放清單**]。
 2. 按一下 [ **Office 365 訓練** ] 頁面的索引標籤。
-3. 重新整理頁面，然後按一下 [**開始**時間] 底下的「**第一天**」。
+3. 重新整理頁面，然後按一下 [**開始** 時間] 底下的「**第一天**」。
 4. 按一下 [ **學習路徑] Starter 工具組** ，以查看您的第一個播放清單中的動作。 
 
 ![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)

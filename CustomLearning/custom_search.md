@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 搜尋
 ms.date: 02/10/2019
 description: Microsoft 365 學習路徑中的搜尋
-ms.service: sharepoint online
-ms.openlocfilehash: 7e6a623ed26caff97aff7d2e8fc913a64e1d88b2
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 3322ee9a4a659d15fdfbd9f05b5bb0e2f85e430c
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234025"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999319"
 ---
 # <a name="search-for-microsoft-365-learning-pathways-content"></a>搜尋 Microsoft 365 學習路徑內容
 
@@ -21,5 +24,5 @@ Microsoft 365 學習路徑可讓您依子類別、播放清單或資產來搜尋
 
 - 按一下 [ **搜尋** ] 圖示，然後輸入搜尋片語。 
 
-![cg-search.png](media/cg-search.png)
+![搜尋網頁。](media/cg-search.png)
 

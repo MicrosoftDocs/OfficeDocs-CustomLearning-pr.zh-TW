@@ -5,15 +5,13 @@ title: 手動安裝教學路徑
 ms.date: 02/18/2019
 manager: bpardi
 description: 手動安裝教學路徑
-audience: itpro
-ms.service: o365-administration
-ms.topic: article
-ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.service: sharepoint-online
+ms.openlocfilehash: 7dd43e7ed66b7a8fdcd40d76d9d2bcb9403ad4bb
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749311"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999209"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>手動安裝及設定 Office 365 的自訂學習
 
@@ -27,7 +25,7 @@ Microsoft 自訂學習網頁元件是使用 [SharePoint Framework](/sharepoint/d
 1. 執行 PowerShell 腳本，它會使用自訂學習依據的適當工件來設定您的租使用者。
 1. 流覽至 CustomLearningAdmin 中的 [.aspx 網站] 頁面，載入管理網頁元件以初始化自訂內容設定。
 
-## <a name="prerequisites"></a>必要條件
+## <a name="prerequisites"></a>了解必要條件
 
 您必須已設定並設定整個租使用者型應用程式目錄。 請參閱 [設定您的 Office 365 租使用者](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) ，並遵循 [建立應用程式目錄網站] 區段。 如果您已布建整個租使用者的應用程式目錄，您將需要存取權將套件上傳至其的帳戶，才可完成此設定程式。 一般來說，此帳戶具有「SharePoint 系統管理員」角色。 若具有該角色的帳戶無法運作，請移至 SharePoint 系統管理中心，並尋找應用程式目錄網站集合的網站集合管理員，並以其中一個網站集合管理員身分登入，或新增網站集合管理員失敗的 SharePoint 系統管理員帳戶。 您也需要存取屬於 SharePoint 租使用者管理員的帳戶。
 

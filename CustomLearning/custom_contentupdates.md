@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: 學習路徑內容更新
 ms.date: 3/30/2020
+audience: Admin
+ms.topic: article
 description: 學習路徑內容更新
 ms.service: o365-solutions
-ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163080"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000109"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 學習路徑內容更新
 學習途徑致力於遵循每季內容更新週期。 若要深入瞭解如何套用內容更新，以及如何管理內容更新，請參閱 [管理內容更新](custom_contentupdatesmanage.md)。 
@@ -284,12 +287,12 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 
 ##### <a name="work-remotely-five-new-assets"></a>從遠端工作 (五個新資產) 
 - 從 Office 365 遠端工作
-- 開始 Office.com
+- 開始使用 Office.com
 - 通訊或符合
 - 儲存您的工作檔案
-- 高級備選項
+- 進階替代方案
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>與 Office 365 合作的最佳作法 (6 個新資產) 
-- 開始使用
+- 快速入門
 - 共用
 - 共同作者
 - 檔中聊天
@@ -323,7 +326,7 @@ Office 365 已 rebranded 至 Microsoft 365。 名稱變更會反映在所有 Mic
 ### <a name="office-for-the-web"></a>Office 網頁版
 適用于 web 的 office 提供一組播放清單，供使用者用來在網頁上建立、共用及共同作業的案例。 這組內容對從 Google G 套件切換至 Microsoft 365 的組織也很有價值。
 #### <a name="get-started-five-new-assets"></a>開始 (五個新資產) 
-- 開始使用
+- 快速入門
 - 使用搜尋來尋找
 - 建立新檔
 - 回復至工作

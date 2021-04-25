@@ -3,14 +3,17 @@ author: pkrebs
 ms.author: pkrebs
 title: 自訂學習路徑
 ms.date: 02/18/2019
+manager: bpardi
+audience: admin
+ms.topic: article
 description: 自訂學習路徑
-ms.service: sharepoint online
-ms.openlocfilehash: 56027e48917cbdeeb2187f87497f3281fff3c23a
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: a5087096ec3bd7c1194aab9dd089276fc196a736
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234225"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999499"
 ---
 # <a name="customize-learning-pathways"></a>自訂學習路徑
 
@@ -20,7 +23,7 @@ Microsoft 365 教學路徑提供各種方式，可讓您自訂群組織的內容
 - 專為使用者的需求建立自訂的播放清單和子類別
 - 組建具有篩選內容的登陸頁面以支援商務成果，例如促進 Microsoft 團隊的採用、Outlook 行動性，或與 Microsoft 365 的共同作業。
 
-![cg-introducing.png](media/cg-introducing.png)
+![一般 Microsoft 學習路徑相片集合。](media/cg-introducing.png)
 
 ## <a name="requirements-and-permissions"></a>需求和許可權
 

@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: 探索網站和預設內容
 ms.date: 02/10/2019
 description: 探索學習路徑網站和預設內容
-ms.service: sharepoint online
-ms.openlocfilehash: 65c4eba8e0f1925c1512b330efbbd2dc5a970ab7
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 84cb6f4d40b8b8603d570c323eb862167c0ba0af
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234485"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999789"
 ---
 # <a name="explore-the-learning-pathways-site"></a>探索「學習路徑」網站
 
