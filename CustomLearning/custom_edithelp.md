@@ -3,14 +3,16 @@ author: pkrebs
 ms.author: pkrebs
 title: 自訂學習路徑網站
 ms.date: 02/15/2019
-description: 深入瞭解 Microsoft 365 學習路徑中提供的各種自訂
+description: 深入瞭解 Microsoft 365 學習路徑可使用的各種自訂專案
 ms.service: sharepoint-online
-ms.openlocfilehash: 44f11d02d86e8d3f8d3e32d5c3207fca384e9e2e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: b892605f5200983c74132f73fe48e2746d2e6b08
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999809"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310627"
 ---
 # <a name="customize-the-site"></a>自訂網站
 
@@ -21,11 +23,11 @@ Microsoft 365 學習路徑網站是以 SharePoint 通訊範本為基礎，因此
 
 ## <a name="customize-the-site-and-web-pages"></a>自訂網站和網頁
 
-「學習路徑」網站完全可自訂。 如果您不熟悉如何自訂您的 SharePoint 網站或網頁，我們建議您在 support.office.com 上查看 [ [自訂您的 SharePoint 網站](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) ] 文章。 
+「學習路徑」網站完全可自訂。 如果您不熟悉如何自訂您的 SharePoint 網站或網頁，我們建議您在 support.office.com 上查看 [[自訂您的 SharePoint 網站](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b)] 文章。 
 
 ### <a name="customize-ask-questions-and-get-help"></a>自訂提問並取得協助
 
-在「學習路徑」網站的系統管理員中，您要執行的其中一項動作是變更「 **取得協助和支援** 」頁面上的連結，以指向您組織中的資源。 
+在「學習路徑」網站的系統管理員中，您要執行的其中一項動作是變更「**取得協助和支援**」頁面上的連結，以指向您組織中的資源。 
 
 1.  從 [學習路徑] 首頁，按一下 [ **提問]，然後取得** [說明] 功能表項目。
 2.  Click the **Edit** button.

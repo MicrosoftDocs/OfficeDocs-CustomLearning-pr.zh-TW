@@ -5,27 +5,29 @@ title: 衡量 Microsoft 365 學習路徑的影響
 ms.date: 02/10/2019
 description: 如何衡量 Microsoft 365 學習路徑的影響
 ms.service: sharepoint-online
-ms.openlocfilehash: 4ba5981902367ef9c94c28c49442af588dcf368e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 3f2b2a29134bd629d9ac862eb2d1a82ad5e2bd8d
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999529"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310317"
 ---
-# <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>評估 Microsoft 365 學習路徑的影響
+# <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>衡量 Microsoft 365 學習路徑的影響
 
-管理員應該使用 SharePoint 的內建網站流量報告功能，測量 Microsoft 365 學習路徑的組織影響。 衡量影響的主要案例有兩個： 
-- 網站層級影響–針對 Office 365 特定網站，查看自訂學習的使用狀況資料 
-- 組織層級影響–針對組織內的所有其他網站，瞭解 Office 365 的客戶知識使用方式
+管理員應該使用 SharePoint 內建的網站流量報告功能，測量 Microsoft 365 學習路徑的組織影響。 衡量影響的主要案例有兩個： 
+- 網站層級影響– view Office 365 特定網站之自訂學習的使用狀況資料 
+- 組織層級影響–瞭解客戶的知識，以瞭解組織內所有其他網站的 Office 365 使用狀況
 
 ## <a name="site-level-impact"></a>網站層級影響
 
 SharePoint Online 網站擁有者，您可以查看顯示使用者與網站互動的方式資訊。 例如，您可以查看已瀏覽網站的人員人數、人員瀏覽網站的次數，以及已獲得最多檢視的檔案清單。 請參閱 [報告詳細資料](https://support.office.com/article/view-usage-data-for-your-sharepoint-site-2fa8ddc2-c4b3-4268-8d26-a772dc55779e)。 
 
-![cg-measureimpactreport.png](media/cg-measureimpactreport.png)
+![具有柱狀圖圖表的範例報表頁面。](media/cg-measureimpactreport.png)
 
 ## <a name="organization-level-impact"></a>組織層級影響
-Office 365 Admin Center SharePoint 網站使用狀況報告可讓系統管理員取得您從 Office 365 網站（相對於所有其他 SharePoint 網站）取得之價值的高層級視圖。 請參閱 [報告詳細資料](/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide)。
+Office 365 系統管理中心 SharePoint 網站使用狀況報告可讓系統管理員取得您在相對於所有其他 SharePoint 網站之自訂 Office 365 學習版中取得之價值的高層次視圖。 請參閱 [報告詳細資料](/office365/admin/activity-reports/sharepoint-site-usage)。
  
 遵循參考的文章： 
 1. 瞭解如何取得 SharePoint 網站使用量報告 

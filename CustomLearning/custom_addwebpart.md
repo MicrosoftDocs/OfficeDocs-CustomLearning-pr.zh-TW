@@ -1,29 +1,31 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 新增和編輯 Microsoft 365 學習路徑網頁元件
+title: 新增及編輯 Microsoft 365 學習路徑網頁元件
 ms.date: 02/17/2019
 description: 將 Microsoft 365 學習路徑網頁元件新增至 SharePoint 頁面
 ms.service: sharepoint-online
-ms.openlocfilehash: 78279ddeb9e73ca087d546f5081444596a209aa7
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: d1bbc4c5d206d9feaa446f3f89a3f6dc6c3fe2a0
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999199"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310447"
 ---
-# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>新增和編輯 Microsoft 365 學習路徑網頁元件
+# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>新增及編輯 Microsoft 365 學習路徑網頁元件
 
-Microsoft 365 學習路徑可讓您靈活地將 Microsoft 365 學習路徑網頁元件新增至 SharePoint 頁面，然後篩選網頁元件的內容，以符合頁面的學習目標。 例如，您可以建立 [切換至 OneDrive] 頁面，然後新增網頁元件，並將其設定為顯示專門為組織建立的自訂 OneDrive 遷移播放清單。
+Microsoft 365 學習路徑可讓您靈活地將「Microsoft 365 學習路徑」網頁元件新增至 SharePoint 頁面，然後篩選網頁元件的內容，以符合頁面的學習目標。 例如，您可以建立 [切換至 OneDrive] 頁面，然後新增網頁元件，並將其設定為顯示專門為組織建立的自訂 OneDrive 遷移播放清單。
 
-1.  按一下 SharePoint 齒輪圖示，然後按一下 [ **新增頁面**]。
+1.  按一下 SharePoint 齒輪圖示，然後按一下 [**新增頁面**]。
 2.  按一下頁面左側的 [ **新增新的區段 (+)** ，然後按一下 [ **一欄**]。
 3.  按一下 **+** ，然後選取 [ **Microsoft 365 學習路徑** 網頁元件]。 
 
 ![cg-webpartadd.png](media/cg-webpartadd.png)
 
 ## <a name="edit-the-custom-learning-web-part"></a>編輯自訂學習網頁元件
-您可以編輯 Microsoft 365 學習路徑網頁元件，以顯示所有可用的自訂教學內容，或特定類別、子類別、播放清單或資產。 
+您可以編輯「Microsoft 365 學習路徑」網頁元件，以顯示所有可用的自訂教學內容，或特定類別、子類別、播放清單或資產。 
 
 1.  按一下 [ **編輯網頁元件**]。
 

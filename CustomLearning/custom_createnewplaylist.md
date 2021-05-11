@@ -5,20 +5,22 @@ title: 建立新的播放清單
 ms.date: 02/18/2019
 description: 如何建立新的播放清單
 ms.service: sharepoint-online
-ms.openlocfilehash: aa526826414f3dd5b3c4b8d9daca7de1d62a1864
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 4d2576cb5ea39ea2251b78481451ac098cda2c23
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999139"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310647"
 ---
 # <a name="create-a-custom-playlist"></a>建立自訂播放清單
 
-透過 Microsoft 365 學習路徑，您可以從頭開始建立自訂的播放清單，以根據您組織的獨特需求進行量身定制。 例如，建立將新員工加入至 Microsoft 小組的播放清單。 或為執行系統管理員建立播放清單，使其具有與其獨特角色相關的資訊。 或為 Microsoft 365 播放清單建立第一天，其具有三個簡單的步驟，而不是六個步驟。 您可以將自訂的播放清單新增至任何子類別。 例如，**第一天**、像是 **Excel** 的 **產品** 子類別，甚至是您建立的子類別。 在本節中，我們將說明如何建立播放清單，然後將資產新增至下一節的播放清單中， [將資產新增至自訂播放清單](custom_addassets.md)。
+透過 Microsoft 365 的學習路徑，您可以從頭開始建立自訂的播放清單，以根據您組織的獨特需求進行量身定制。 例如，建立一個播放清單以將新的招聘加入 Microsoft Teams。 或為執行系統管理員建立播放清單，使其具有與其獨特角色相關的資訊。 或為 Microsoft 365 播放清單建立第一天，其具有三個簡單的步驟，而不是六個步驟。 您可以將自訂的播放清單新增至任何子類別。 例如，**第一天**，像是 **Excel** 的 **產品** 子類別，甚至是您建立的子類別。 在本節中，我們將說明如何建立播放清單，然後將資產新增至下一節的播放清單中， [將資產新增至自訂播放清單](custom_addassets.md)。
 
 ## <a name="create-a-playlist"></a>建立播放清單 
 
-1. 在 [Microsoft 365 **學習路徑] 首頁上** ，按一下 [ **Office 365 訓練**]，然後從網頁元件中選取 [ **管理** ] 圖示。 
+1. 在 [Microsoft 365 學習路徑]**首頁** 上，按一下 [ **Office 365 訓練**]，然後從網頁元件中選取 [**管理**] 圖示。 
 2. 選取 [ **管理**] 圖示子類別。 在此範例中，選取 [ **第一天**]。  
 3. 按一下 [+] 圖示。  
 

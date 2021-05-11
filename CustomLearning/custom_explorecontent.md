@@ -1,26 +1,28 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 探索網站和預設內容
+title: 如何流覽網站和預設內容
 ms.date: 02/10/2019
 description: 探索學習路徑網站和預設內容
 ms.service: sharepoint-online
-ms.openlocfilehash: 84cb6f4d40b8b8603d570c323eb862167c0ba0af
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: c3e002c896f3f262970ec536e51fed997f0ce1fd
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999789"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310617"
 ---
-# <a name="explore-the-learning-pathways-site"></a>探索「學習路徑」網站
+# <a name="how-to-explore-the-learning-pathways-site"></a>如何流覽學習路徑網站
 
-> 附注：若要探索「學習路徑」網站和其管理功能，您將需要網站集合管理員、擁有者或成員許可權。 如果您沒有 neccesary 許可權，請與網站的網站管理員聯繫。 「學習路徑」網站主控于您的 Office 365 租使用者，所以您必須登入 Office 365 以取得網站。 若尚未登入 Office 365，請立即登入。 
+> 附注：若要探索「學習路徑」網站和其管理功能，您將需要網站集合管理員、擁有者或成員許可權。 如果您沒有 neccesary 許可權，請與網站的網站管理員聯繫。 「學習路徑」網站主控于您的 Office 365 租使用者，所以您必須登入 Office 365 才能進入網站。 若尚未登入 Office 365，請立即登入。 
 
 ## <a name="sign-in-to-office-365"></a>登入 Office 365 
 
 1.  開啟網頁瀏覽器，並瀏覽至 office.com 或貴組織的登入位置。 
 2.  使用您的使用者名稱和密碼登入。
-3.  使用您的承租人系統管理員提供的 URL，流覽至網站的位置，或從 Office 365 首頁選取 [SharePoint]，然後選取網站。 
+3.  使用您的承租人系統管理員所提供的 URL，流覽至網站的位置，或從 Office 365 首頁選取 [SharePoint]，然後選取網站。 
 
 ![cg-introducing.png](media/cg-introducing.png)
 
@@ -32,7 +34,7 @@ ms.locfileid: "51999789"
 
 「學習路徑」網站提供預設內容，以協助您開始組建訓練和支援入口網站。 做為網站的 admininstrator 或擁有者，您想要做的其中一件事是變更 [提問] 的連結 **，並取得** [說明] 頁面指向您組織中的資源。 
 
-1.  從 [Microsoft 365 學習路徑] 首頁，按一下 [ **提問]，然後取得** [說明] 功能表項目。
+1.  在 [Microsoft 365 學習路徑] 首頁上，按一下 [提問]，**然後取得**[說明] 功能表項目。
 2.  Click the **Edit** button.
 3.  將游標移到 [說明] 選項圖像上，然後按一下 [ **編輯網頁元件**]。
 
@@ -41,7 +43,7 @@ ms.locfileid: "51999789"
 如需自訂網站頁面的指示，請參閱 [自訂網站](custom_edithelp.md)。
 
 ### <a name="view-the-learning-pathways-content-in-the-web-part"></a>在網頁元件中查看學習路徑內容
-Microsoft 365 訓練頁面會主控「學習路徑」網頁元件，設定為顯示所有可用於學習路徑的訓練。 
+Microsoft 365 訓練頁面會主控「學習路徑」網頁元件，設定為顯示所有可用於教學路徑的訓練。 
 
 1. 向右下向左下頁面以查看所有類別和子類別。
 2. 一位開始輪胎。 按一下一些子類別，然後按一下一些播放清單，以瞭解如何組織學習路徑內容。 
