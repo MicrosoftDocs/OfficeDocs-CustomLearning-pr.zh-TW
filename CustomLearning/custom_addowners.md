@@ -5,12 +5,14 @@ title: 移至 Office 365 網站的自訂學習
 ms.date: 02/18/2019
 description: 移至自訂的教學網站
 ms.service: sharepoint-online
-ms.openlocfilehash: a232b192b92f1305486538b2baaf2cbc917c9ecb
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: aec0f49e1745f10af7cb3de8cf572babce33fb97
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999119"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334507"
 ---
 # <a name="add-owners-custom-learning-site"></a>新增擁有者自訂學習網站
 
@@ -23,7 +25,7 @@ Office 365 網站的自訂學習功能主控于您的 Office 365 租使用者，
 3.  流覽至網站的位置。 如果您沒有可用的，您可以從 PnP 布建服務接收到的郵件中找到該資源。 從 Office 365 首頁選取 [SharePoint]，然後選取 [Office 365] 網站的 **自訂學習** 。 您可能將其命名為不同的。 
 5. 按一下 [ **Office 365 培訓中心** ]，以查看自訂學習所提供的完整訓練清單套件，以及驗證自訂教學是否如預期般運作。 
 
-![cg-goto.png](media/cg-goto.png)
+   ![顯示使用中學習路徑的相片集合。](media/cg-goto.png)
 
 ## <a name="view-all-the-custom-learning-content"></a>查看所有自訂學習內容
 Office 365 訓練頁面會主控自訂學習網頁元件，以顯示所有可供自訂學習使用的訓練。 
@@ -31,7 +33,7 @@ Office 365 訓練頁面會主控自訂學習網頁元件，以顯示所有可供
 1. 向右下向左下頁面以查看所有類別和子類別。
 2. 一位開始輪胎。 按一下一些子類別，然後按一下一些播放清單，以瞭解如何組織自訂學習內容。 
 
-![cg-gotoall.png](media/cg-gotoall.png)
+![學習路徑閘道視窗。](media/cg-gotoall.png)
 
 ## <a name="add-owners-to-site"></a>將擁有者新增至網站
 作為租使用者系統管理員，您不太可能是自訂網站的人員，所以您必須將少數擁有者指派給網站。 擁有者具有網站的管理許可權，可供使用者修改網站頁面及才能重塑網站。 他們也可以隱藏及顯示透過自訂學習網頁元件傳遞的內容。 他們也可以建立自訂的播放清單並將其指派給自訂子類別。  

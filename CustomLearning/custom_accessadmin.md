@@ -3,14 +3,16 @@ author: pkrebs
 ms.author: pkrebs
 title: 學習路徑管理
 ms.date: 02/15/2019
+manager: bpardi
+ms.topic: how-to
 description: 操作方法從網頁元件或功能表存取自訂學習管理頁面
 ms.service: sharepoint-online
-ms.openlocfilehash: b1cb8bf14d8b0daf884419fcbe30976ad821a89a
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 73ee8f07cd135ec575a50b82cd8d5650fd3c5a91
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999839"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334497"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>存取「學習路徑管理」頁面
 
@@ -23,13 +25,13 @@ ms.locfileid: "51999839"
 從網頁元件開啟 [管理] 頁面是慣用的方法，因為它會在新的瀏覽器索引標籤中開啟頁面。使用此方法時，很容易在索引標籤頁面之間來回翻轉以檢查或修改您的工作。  
 
 1. 從 [Microsoft 365 **學習路徑] 首頁，** 按一下 [ **Office 365 訓練** ] 磚。
-2. 在網頁元件中，按一下 [ **管理** ] 圖示，如下列範例所示。  
+2. 在網頁元件中，按一下 [ **管理** ] 圖示，如下列範例所示。
 
-![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
+![手形指標圖示會指向 Microsoft 365 訓練視窗中的 [管理] 圖示。](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>從首頁功能表項目存取
 管理員可以從「SharePoint **首頁** 」功能表項目存取「管理」頁面，而不是流覽至網頁元件的頁面。 
 
 - 在 [Microsoft 365 學習路徑] 首頁上，按一下 [ **首頁** ] 功能表，然後按一下 [ **microsoft 學習管理**]。
 
-![cg-adminaccmenu.png](media/cg-adminaccmenu.png)
+![手形的指標圖示會在 [管理] 選項中指向。](media/cg-adminaccmenu.png)

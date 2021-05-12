@@ -1,17 +1,18 @@
 ---
-title: 冠軍計畫的最佳作法
+title: 擁護者計畫的最佳作法：為何要將工作量納入促進採用
 description: 為何採用磁片磁碟機？
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 8ddc1d1992a539b10d24f1503901ae76beb6eb97
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 7751ab7afd3a4ff78d385aee15d3e9b978c6241e
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999889"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334477"
 ---
 # <a name="why-put-effort-into-driving-adoption"></a>為什麼要將工作量納入促進採用？  
 

@@ -1,19 +1,20 @@
 ---
-title: 冠軍計畫的最佳作法
-description: 運用我們的冠軍計畫最佳作法，促進 Office 365 的採用
+title: 擁護者計畫的最佳作法：建立冠軍以供使用者採用
+description: 我們的冠軍計畫最佳作法有助於推動採用 Office 365。
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 2eab242302ed952141a256f3c9c1e6265044bf8f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 691b6535be07028bb02d6340cdfddeba841274a2
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999929"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334587"
 ---
-# <a name="establish-champions-for-user-adoption"></a>建立擁護器以供使用者採用 
+# <a name="champion-program-best-practices-establish-champions-for-user-adoption"></a>擁護者計畫的最佳作法：建立冠軍以供使用者採用
 
 組織變更管理是變更人員目標群組行為的剪貼畫。 這項作法有大量的科學和研究支援。 在這些文章中，我們將協助您推動採用重要服務，以在公司中導致商務成果。  遵循我們的最佳作法，可縮短從 Office 365 取得可測評價值的時間。  
 
@@ -24,7 +25,7 @@ ms.locfileid: "51999929"
 
 ## <a name="who-are-champions-and-what-makes-them-tick"></a>誰是冠軍，哪些人會作出決定？
 
-擁護者不僅 passionate 其所做的事，也很興奮分享其知識，協助其共同工作人員瞭解更有效率的解決方案。 冠軍是 enthusiastic，通常會使現有工具不滿意。 他們將協助您贏得 watercooler 的商業挑戰賽！  
+擁護者不僅 passionate 其所做的事，也很興奮分享其知識，協助其共同工作人員瞭解更有效率的解決方案。 冠軍是 enthusiastic，通常會使現有工具不滿意。 他們將協助您贏取水冷的商業用挑戰賽！  
 
 我們認為以有意義的方式獎勵冠軍是很重要的。 建議的一些建議如下：
 
@@ -44,7 +45,7 @@ ms.locfileid: "51999929"
 
 冠軍可協助您降低核心專案小組資源的壓力，協助促進整個群組的參與。 它們也會：
 
-1. 建立 groundswell enthusiasm 會成長採用改進的運作方式
+1. 建立接地 swell oif enthusiasm，以提升運作方式。
 1. 在其團隊間建立影響圓形
 1. 將使用生命週期的新方法帶入整個小組中
 1. 識別業務挑戰及可能的解決方案
