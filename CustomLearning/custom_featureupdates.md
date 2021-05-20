@@ -1,6 +1,19 @@
 ---
-author： pkrebs 毫秒。 author： pkrebs title：教學路徑功能更新毫秒。日期：4/13/2021 描述：教學路徑功能更新 ms. 服務： sharepoint-online manager： bpardi 毫秒。主題：文章
-
+author: pkrebs
+ms.author: pkrebs
+title: 學習路徑功能更新
+ms.date: 4/13/2021
+description: 學習路徑功能更新
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: ee166cd113acd969efcf0fdec6626a1d6b00ec29
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575958"
+---
 # <a name="learning-pathways-version-40-feature-updates"></a>學習路徑版本4.0 功能更新
 下列包含學習路徑版本4.0 的功能更新。  
 

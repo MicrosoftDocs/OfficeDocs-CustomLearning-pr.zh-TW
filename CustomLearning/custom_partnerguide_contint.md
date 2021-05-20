@@ -8,23 +8,23 @@ ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: a91cdf4ee6aa3bbc22033dd484605ea5405b3c4c
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999519"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575988"
 ---
 # <a name="partner-integration-models"></a>合作夥伴整合模型
-雖然不可能從「SharePoint 線上布建服務」的 [現成] 直接補充「現成」的 Microsoft 365 教學內容，但有數個整合模型可讓合作夥伴利用這些整合式的價值-新增服務提供服務。 以上的合作夥伴整合模型是以遞增複雜度和投資層級為序呈現。 因此，我們的指導方針是根據您的業務模型，建立更高級別的專業知識及畢業。
+雖然無法從「SharePoint 線上布建服務」中補充「現成」內容的 Microsoft 365 學習路徑，但有數個整合模型可讓合作夥伴利用這些整合式的價值-新增服務提供服務。 以上的合作夥伴整合模型是以遞增複雜度和投資層級為序呈現。 因此，我們的指導方針是根據您的業務模型，建立更高級別的專業知識及畢業。
 
-![流程圖顯示啟用、集成商和 redistibutors 的角色。](media/cg-part-intmodel.png)
+![Flow 圖顯示啟用碼、集成商和 redistibutors 的角色。](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>我應該如何開始？ 
 若要開始，請執行以下的一些最佳作法。     
 
 ### <a name="1-begin-with-building-expertise-as-an-enabler"></a>1. 以啟用碼的方式建立專業知識。 
-您可以透過啟用其學習路徑訓練入口網站及執行目標 Microsoft content curation，協助協助客戶群的百分比。 如需提供學習路徑的指示，請參閱 https://docs.microsoft.com/office365/customlearning/custom_provision 。  
+您可以透過啟用其學習路徑訓練入口網站及執行目標 Microsoft content curation，協助協助客戶群的百分比。 如需布建學習路徑的指示，請參閱布建 [新的學習路徑解決方案](/office365/customlearning/custom_provision)。  
 
 ### <a name="2-then-extend-your-services-as-an-integrator"></a>2. 然後以集成商的身分擴充服務
 根據您的內容和/或服務整合需求的數量，進行「投資回報的自動化」分析。 例如，如果您可以快速手動建立目標自訂播放清單 () 指向您的支付內容或參考您的服務，可能不會對內容整合指導方針採取相關的開發和操作成本。
@@ -33,12 +33,12 @@ ms.locfileid: "51999519"
 當投資回報有意義時–考慮再發佈 (或使用相關的學習路徑夥伴) 建立重新封包的解決方案。 這些是以 SharePoint 的模式和實踐架構為基礎，其提供解決方案以提取自訂的網站，然後再部署至客戶環境 
 
 ## <a name="partner-provided-content-integration-guidelines"></a>合作夥伴提供的內容整合指導方針
-Microsoft 365 學習路徑的內容是由一組 JSON 檔案所驅動，其充當您的教學套件的內容資訊清單。 有三個檔案： metadata.js開啟、playlists.js開啟] 和 assets.js。 這些檔案必須進行結構化，以符合網頁元件所辨識的模型，然後從內容傳遞網路 (CDN) ，以允許網頁元件載入這些檔案。 Microsoft 會提供這些檔案的 starter 範本，讓您開始。  
+Microsoft 365 學習路徑的內容是由一組 JSON 檔案所驅動，其充當您的教學套件的內容資訊清單。 有三個檔案： metadata.js開啟、playlists.js開啟] 和 assets.js。 這些檔案必須進行結構化，使其符合網頁元件所辨識的模型，然後從內容傳遞網路 (CDN) ，以允許網頁元件載入這些檔案。 Microsoft 會提供這些檔案的 starter 範本，讓您開始。  
 
-**免責聲明：** JSON 檔結構根據即將推出的解決方案運作，視需要變更。 Microsoft 365 教學路徑協力廠商的先期採用計畫 (EAP) 將會獲悉任何對此性質的即將變更。 連同任何客戶向後相容性和/或轉接指引。 
+**免責聲明：** JSON 檔結構根據即將推出的解決方案運作，視需要變更。 「Microsoft 365 教學路徑」協力廠商採用計畫 (EAP) 將會獲悉對此性質的任何即將發生的變更。 連同任何客戶向後相容性和/或轉接指引。 
 
-### <a name="download-the-microsoft-365-learning-pathways-solution"></a>下載 Microsoft 365 學習路徑解決方案
-您可以從 GitHub 存放庫下載 Microsoft 365 教學路徑方案，以及 JSON 檔案： https://github.com/pnp/custom-learning-office-365 。 請注意，目前 Microsoft 並未採取 GitHub 對解決方案的拉取要求。 不過，您可以使用 GitHub 檔做為建立您自己的自訂內容套件的開始點。 
+### <a name="download-the-microsoft-365-learning-pathways-solution"></a>下載 Microsoft 365 學習路徑方案
+您可以從 GitHub 存放庫下載「Microsoft 365 教學路徑」方案，以及 JSON 檔案： https://github.com/pnp/custom-learning-office-365 。 請注意，目前 Microsoft 並未採取 GitHub 對解決方案的拉取要求。 不過，您可以使用 GitHub 檔做為建立您自己的自訂內容套件的開始點。 
 
 ### <a name="metadatajson-structure"></a>結構上的 Metadata.js
 您可以將此檔案看作是功能表和結構的 brains。 它包含其他兩個檔案中的所有導覽結構，以及資料的選取清單。 
@@ -55,7 +55,7 @@ Microsoft 365 學習路徑的內容是由一組 JSON 檔案所驅動，其充當
 |**類別 []**             |類別會告知網頁元件的導覽。 每個類別代表最上層流覽的層級                                                                                                                 |
 |&nbsp;&nbsp;Id                |代表類別/子類別的 GUID                                                 |
 |&nbsp;&nbsp;名字              |類別/子類別的顯示名稱                                                  |
-|&nbsp;&nbsp;圖像             |應該顯示在 UX (中的圖像 URL （相對於 CDN 基底) ）            |
+|&nbsp;&nbsp;圖像             |應該顯示在 UX (中的影像 URL 相對於 CDN 基本)             |
 |&nbsp;&nbsp;TechnologyId      |與此內容相關的技術 GUID (選用–空字串)             |
 |&nbsp;&nbsp;SubjectId         |與此內容相關的主旨的 GUID (選用–空字串)                |
 |&nbsp;&nbsp;源            |來源陣列中，除了使用者新增的自訂資料以外，非特別用於 UX 的使用者會標示為 "承租人"，而 UX 系統管理員區域不允許編輯未標示為 "承租人" 的任何專案。                           |
@@ -75,10 +75,10 @@ Microsoft 365 學習路徑的內容是由一組 JSON 檔案所驅動，其充當
 |**版本**                   |解決方案會使用版本資訊，向系統管理員指出 webpart 已更新，也可讓 webpart 自行更新自訂內容至最新版本的資訊清單（如果進行了重大的變更）。         | 
 |&nbsp;&nbsp;清單          |資訊清單的版本                                               |
 |&nbsp;&nbsp;ManifestMinWebPart|搭配版本資訊清單使用的 webpart 的最低版本             |
-|&nbsp;&nbsp;CurrentWebPart    |應該顯示在 UX (中的圖像 URL （相對於 CDN 基底) ）            |
+|&nbsp;&nbsp;CurrentWebPart    |應該顯示在 UX (中的影像 URL 相對於 CDN 基本)             |
 |&nbsp;&nbsp;RepoURL           |更新網頁元件指示所在之存放庫的 url。                    |
 |**內容套件**             |目前不支援其他 CDN 的內容套件。 內容套件可讓 Microsoft 建議其他 Microsoft 建立的解決方案，這些解決方案可透過利用 M365LP 來傳遞內容及自行自訂 Cdn 的布建服務進行布建。       | 
-|&nbsp;&nbsp;Id                |內容套件/CDN 的 GUID                                                              |
+|&nbsp;&nbsp;Id                |內容套件的 GUID/CDN                                                              |
 |&nbsp;&nbsp;名字              |CDN 的顯示名稱                                                                   |
 |&nbsp;&nbsp;描述       |顯示在 UI 中以新增內容套件的描述                               |
 |&nbsp;&nbsp;圖像             |顯示在 UI 中以新增內容套件的圖像                                     |
@@ -93,7 +93,7 @@ playlists.json –播放清單資訊清單是一個物件陣列，描述有關�
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |識別碼                            |代表播放清單的 GUID                                                             |  
 |職稱                         |播放清單的顯示名稱                                                               |
-|影像                         |從 CDN)  (到影像以顯示播放清單的相對 URL                              |                      
+|影像                         |CDN) 至影像的相對 URL (以顯示播放清單                              |                      
 |LevelId                       |關聯的層級                                                                           |
 |AudienceId                   |關聯的物件                                                                        |
 |TechnologyId                 |相關的技術                                                                      |
@@ -121,7 +121,7 @@ playlists.json –播放清單資訊清單是一個物件陣列，描述有關�
 |StatusNote                    |顯示給系統管理員的內容附注。                                           |
 
 ### <a name="caching"></a>快取
-目前版本的檢視器網頁元件使用快取版本的資訊清單檔案進行24小時。 在24小時後，命中網頁元件的第一位使用者會透過從來源 CDN 下載資訊清單，並將該資訊與隱藏的技術和播放清單合併，以及在自訂子類別、播放清單及資產中合併，以進行快取，以重新整理快取。 另外，系統管理員網頁元件一定會從資訊清單中下載內容，並將其合併並更新快取。  換句話說，在任何時候，管理員都可以透過載入管理網頁元件，強制進行快取更新，亦即移至 [管理] 頁面。
+目前版本的檢視器網頁元件使用快取版本的資訊清單檔案進行24小時。 在24小時後，命中網頁元件的第一位使用者會透過從 CDN 來源下載資訊清單來重新整理快取，並將該資訊與隱藏的技術和播放清單合併，以及在自訂子類別、播放清單及資產中合併，以重新整理快取的效能。 另外，系統管理員網頁元件一定會從資訊清單中下載內容，並將其合併並更新快取。  換句話說，在任何時候，管理員都可以透過載入管理網頁元件，強制進行快取更新，亦即移至 [管理] 頁面。
 
 ## <a name="content-pack-guidelines"></a>內容套件指導方針
 內容套件功能會解除下列案例的鎖定：
@@ -132,30 +132,30 @@ playlists.json –播放清單資訊清單是一個物件陣列，描述有關�
 由於功能的複雜性，目前的檔集合特意針對合作夥伴提供此功能。 服務小組積極致力於更好地支援及啟用案例 #2，于未來。 
 
 ### <a name="how-content-packs-work"></a>內容套件的運作方式
-Microsoft 利用 GitHub 頁面做為內容傳遞網路 (CDN) 來源，以供其資訊清單檔案和影像使用。 我們的 GitHub 存放庫根目錄中有一個檔資料夾，其中包含每個資訊清單檔案版本的子資料夾。 每個資料夾內部都有三個資訊清單檔案，加上一個 images 資料夾，可儲存所有類別、子類別和播放清單影像。 
+Microsoft 利用 GitHub 頁面作為其資訊清單檔案及影像的內容傳遞網路 (CDN) 來源。 我們的 GitHub 存放庫根目錄中有一個檔資料夾，其中包含每個資訊清單檔案版本的子資料夾。 每個資料夾內部都有三個資訊清單檔案，加上一個 images 資料夾，可儲存所有類別、子類別和播放清單影像。 
 
 請務必維護 Microsoft 所用的相同版本架構，讓您選擇以您自己的內容套件擴充學習路徑方案。 您的 CDN 端點不應該包含版本資料夾，因為網頁元件所支援的資訊清單版本會 baked 至該版本，而且會自動附加至 CDN url。 我們顯然會為您提供一些時間，可讓您隨時建立資訊清單檔案的新實例。
 
 ![螢幕擷取畫面顯示範例結構。](media/cg-part-json-folder.png) 
 
-如需利用 GitHub 頁面作為 CDN 來源的詳細資訊，請參閱下列說明文件： [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 。
+如需使用 GitHub 頁面作為 CDN 來源的詳細資訊，請參閱下列說明文件： [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 。
 
 Microsoft 的解決方案會將資產的相關資訊提供給公用，因為誰沒有任何可存取這些檔案的安全性。 我們相信消費者的內容應該是免費的，也就是說，如果您需要支付部分或所有內容的支付留言板，您需要在解決方案的技術限制內以不同的方式來執行這項工作，而不是必須使用 GitHub 頁面。 如果您維護我們所述的版本編號結構，您想要使用的任何 CDN 提供者都很好。 如先前所述，網頁元件所支援的資訊清單結構版本會 baked 至程式碼中，並且會自動附加至 CDN URL。 
 
 ### <a name="content-pack-integration-guidance"></a>內容套件整合指導 
-Admin 和 viewer 網頁元件已擴充，可讓使用者在其承租人中設定其他 CDN 端點，然後允許檢視器網頁元件將其所顯示之資料的來源。 
+admin 和 viewer 網頁元件已擴充，可讓使用者在其承租人中設定其他 CDN 端點，然後允許檢視器網頁元件根據其所顯示的資料來 CDN 選取其來源。 
 
 請記住此功能的主要框架： 
 - 這主要適用于協力廠商重新發佈案例–手動播放清單設定過於麻煩 
 - 自訂內容套件是一項高級功能，只應該由具有管理 web 內容之經驗的合作夥伴使用。 不信任的內容來源可能會將不安全的內容引入您的網站。 您應只加入您信任的來源。
 
-> **重要事項** 在新增自訂內容套件之前，您必須已布建 Microsoft 365 學習路徑3.0 或更新版本。 如需有關布建 Microsoft 365 學習路徑的 informataion，請參閱布建 [microsoft 365 學習路徑](./custom_provision.md)。
+> **重要事項** 在新增自訂內容套件之前，您必須已布建 Microsoft 365 學習路徑3.0 或更新版本。 如需有關布建 Microsoft 365 學習路徑的 informataion，請參閱布建[Microsoft 365 學習路徑](./custom_provision.md)。
 
 ### <a name="content-whitelisting"></a>內容 Whitelisting
-作為合作夥伴，您必須負責協助您的消費者，以確保您的內容在其環境中列入白名單。 我們建議您在環境中建立測試案例，以驗證您的內容可以是在防火牆內部的 SharePoint 頁面中。 遵循 [ [建立 SharePoint 頁面] 以取得自訂播放清單](./custom_createnewpage.md) 指示，確認這屬於這種情況。
+作為合作夥伴，您必須負責協助您的消費者，以確保您的內容在其環境中列入白名單。 我們建議您在環境中建立測試案例，以驗證您的內容可以是在防火牆內部的 SharePoint 頁面中。 遵循 [[建立 SharePoint 頁面] 以取得自訂播放清單](./custom_createnewpage.md)指示，確認這屬於這種情況。
 
 ### <a name="add-a-content-pack-to-learning-pathways"></a>新增內容套件至學習路徑
-當您建立修改 JSON 並定義 CDN 之後，您可以將連絡人套件新增至學習路徑。 
+一旦您已修改 JSON 並定義您的 CDN，您就可以將該連絡人套件新增至學習路徑。 
 
 1. 從 [學習路徑] 網站 **首頁** ，指向 [ **首頁** ]，然後按一下 [ **學習路徑管理**]。 
 2. 在 [ **管理** ] 頁面 **上，按一下 [...]** 在頁面的右上角新增內容套件。
@@ -163,7 +163,7 @@ Admin 和 viewer 網頁元件已擴充，可讓使用者在其承租人中設定
 
    ![在其中輸入名稱和路徑的畫面。](media/cg-part-addconpack.png)
 
-4. 按一下 [儲存]。 自訂內容套件中的內容現在應該會出現在 [管理] 頁面中。 範例如下。 
+4. 按一下 **[儲存]**。 自訂內容套件中的內容現在應該會出現在 [管理] 頁面中。 範例如下。 
 
    ![管理頁面範例。](media/cg-part-addconpackex.png)
 
@@ -174,7 +174,7 @@ Admin 和 viewer 網頁元件已擴充，可讓使用者在其承租人中設定
 2. 按一下 [ **空白**]，然後再 **建立頁面**。
 3. 為頁面提供名稱。 
 4. 按一下頁面左側的 [ **+ 加入新的區段** ]。
-5. 按一下 **+** 新區段的中部，然後新增 [ **Microsoft 365 學習路徑** ] 網頁元件。
+5. 按一下 **+** 新區段的中部，然後新增「 **Microsoft 365 學習路徑**」網頁元件。
 6. 按一下網頁元件，然後按一下 [ **編輯** ] 圖示。
 7. 在 [ **選取學習來源** ] 方塊中，選取您的自訂內容套件，然後將該網頁元件篩選為您想要的內容。 下列範例提供篩選為自訂內容套件之播放清單之網頁元件的範例。
 

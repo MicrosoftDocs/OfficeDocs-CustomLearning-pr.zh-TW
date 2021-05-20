@@ -6,36 +6,37 @@ ms.date: 02/18/2019
 manager: bpardi
 description: 手動安裝教學路徑
 ms.service: sharepoint-online
-ms.openlocfilehash: 7dd43e7ed66b7a8fdcd40d76d9d2bcb9403ad4bb
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.topic: article
+ms.openlocfilehash: 6f106b569602730f16fc2b6f8a09fa44667e32e1
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999209"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575968"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>手動安裝及設定 Office 365 的自訂學習
 
-Microsoft 自訂學習網頁元件是使用 [SharePoint Framework](/sharepoint/dev/spfx/sharepoint-framework-overview) 版本1.7.1 建立的。
+Microsoft 自訂學習網頁元件是使用[SharePoint 架構](/sharepoint/dev/spfx/sharepoint-framework-overview)版本1.7.1 進行組建。
 
 若要手動安裝和設定網頁元件和網站集合，您必須完成下列步驟：
 
 1. 確認您已符合所有必要條件。
-1. 在您的 Office 365 租使用者應用程式目錄中安裝 customlearning sppkg 檔案。
-1. 布建/識別現代化的通訊網站，以充當 Office 365 首頁網站的自訂學習。
+1. 在 Office 365 租使用者應用程式目錄中安裝 customlearning sppkg 檔案。
+1. 布建/識別現代化的通訊網站，以充當 Office 365 主網站的自訂教學。
 1. 執行 PowerShell 腳本，它會使用自訂學習依據的適當工件來設定您的租使用者。
 1. 流覽至 CustomLearningAdmin 中的 [.aspx 網站] 頁面，載入管理網頁元件以初始化自訂內容設定。
 
-## <a name="prerequisites"></a>了解必要條件
+## <a name="prerequisites"></a>必要條件
 
-您必須已設定並設定整個租使用者型應用程式目錄。 請參閱 [設定您的 Office 365 租使用者](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) ，並遵循 [建立應用程式目錄網站] 區段。 如果您已布建整個租使用者的應用程式目錄，您將需要存取權將套件上傳至其的帳戶，才可完成此設定程式。 一般來說，此帳戶具有「SharePoint 系統管理員」角色。 若具有該角色的帳戶無法運作，請移至 SharePoint 系統管理中心，並尋找應用程式目錄網站集合的網站集合管理員，並以其中一個網站集合管理員身分登入，或新增網站集合管理員失敗的 SharePoint 系統管理員帳戶。 您也需要存取屬於 SharePoint 租使用者管理員的帳戶。
+您必須已設定並設定整個租使用者型應用程式目錄。 請參閱[設定您的 Office 365 租使用者](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site)，並遵循 [建立應用程式目錄網站] 區段。 如果您已布建整個租使用者的應用程式目錄，您將需要存取權將套件上傳至其的帳戶，才可完成此設定程式。 一般來說，此帳戶具有「SharePoint 系統管理員」角色。 若具有該角色的帳戶無法運作，請移至 SharePoint 系統管理中心，並尋找應用程式目錄網站集合的網站集合管理員，並以其中一個網站集合管理員身分登入，或新增網站集合管理員失敗的 SharePoint 系統管理員帳戶。 您也需要存取屬於 SharePoint 租使用者管理員的帳戶。
 
-## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>將網頁元件上傳至租使用者應用程式目錄
+## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>將網頁元件 Upload 至租使用者應用程式目錄
 
-若要設定 Office 365 的自訂教學，請將 customlearning 檔案上傳至整個租使用者的應用程式目錄，然後加以部署。 如需如何將應用程式新增至應用程式目錄的詳細指示，請參閱 [Use The App Catalog for the SharePoint Online 環境可使用自訂商務應用程式](/sharepoint/use-app-catalog) 。
+若要設定 Office 365 的自訂教學，請將 customlearning sppkg 檔案上傳至整個租使用者應用程式目錄並加以部署。 如需如何將應用程式新增至應用程式目錄的詳細指示，請參閱[Use the App Catalog for the SharePoint Online 環境可使用自訂商務應用程式](/sharepoint/use-app-catalog)。
 
 ## <a name="provisionidentify-modern-communication-site"></a>布建/識別新式通訊網站
 
-請識別現有的 SharePoint 通訊網站，或在您的 SharePoint Online 租使用者中布建新的網站。 如需如何布建通訊網站的詳細資訊，請參閱 [在 SharePoint Online 中建立通訊網站](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) ，並遵循步驟來建立通訊網站。
+請識別現有的 SharePoint 通訊網站，或在您的 SharePoint Online 租使用者中布建新的網站。 如需如何布建通訊網站的詳細資訊，請參閱[在 SharePoint Online 中建立通訊網站](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)，並遵循步驟來建立通訊網站。
 
 ## <a name="set-permissions-for-the-site"></a>設定網站的許可權
 
@@ -57,4 +58,4 @@ Microsoft 自訂學習網頁元件是使用 [SharePoint Framework](/sharepoint/d
 
 成功執行 PowerShell 腳本後，請流覽至 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` 。 這會初始化 CustomConfig 清單專案，以設定第一次使用的自訂學習。
 
-設定現在已完成，您可以使用 Office 365 的自訂教學進行向前移動。 如需詳細資訊，請參閱使用者檔。
+設定現在已完成，您可以使用 Office 365 的自訂學習來向前移動。 如需詳細資訊，請參閱使用者檔。
